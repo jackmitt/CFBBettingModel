@@ -1,0 +1,1848 @@
+AIR FORCE
+(SUR: 4-8 PSR: 4-8 O-U: 6-6)
+S.09*  Tenn              W    +20  30-31 o47
+S.23   Wyoming           W    P    31-24 o48'
+S.30   NEW MEX.#         W    -13' 24-7  u51
+O.07   NAVY              L    -2'  17-24 u51'
+O.12*  COL. ST.          L    -6   24-21 u46
+O.21*  S. Diego St.      L    -13  12-19 u45'
+O.28   BYU               L    +9'  14-33 u56'
+N.03*  Army              W    -6   43-7  o46'
+N.11   N. DAME           L    +11  17-39 o54
+N.18*  UTAH              L    +1   14-17 u51'
+N.24*  Unlv              L    -10' 39-42 o47'
+D.02   Tcu               L    +17  14-38 o50
+AKRON (AT)
+(SUR: 5-7 PSR: 3-8-1 O-U: 6-6)
+S.02   Penn St.          L    +17' 16-34 o43'
+S.09   N. Carolina St.    W    +8'  20-17 u41
+S.16   C. Michigan       L    -1   21-24 u46'
+S.23*  N. TEXAS           W    -16' 33-13 o42
+S.30*  Kent St.          L    -2'  15-37 o41
+O.07   Cincinnati        N    +6   14-20 u43'
+O.21*  MIA.-OHIO#        W    -8   24-13 u47
+O.28*  Toledo            L    -4   20-35 o45'
+N.04   BOWLING GR.       L    -8   35-28 o45'
+N.09*  BUFFALO           L    -17  31-16 o46'
+N.16*  Ohio              L    +5   7-17  u39'
+N.24   W. MICH.          L    -2   0-17  u44'
+ALABAMA
+(SUR: 6-7 PSR: 5-7-1 O-U: 8-5)
+S.02*  HAWAII            L    -16  25-17 u52'
+S.09   VANDY             L    -15  13-10 u41
+S.16*  LA.-MONROE        W    -24' 41-7  o40'
+S.23   Arkansas-OT       W    +2'  23-24 o37'
+S.30   Florida           N    +15  13-28 o39
+O.07*  DUKE              L    -28' 30-14 o39
+O.14   MISS.-OT          L    -16  26-23 o36'
+O.21   Tennessee         W    +11  13-16 u44
+O.28   FLA. INTL.#       W    -34' 38-3  u43'
+N.04   MISS. ST.         L    -14' 16-24 o39
+N.11*  Lsu               W    +17' 14-28 o40
+N.18   AUBURN            L    +3   15-22 u40
+D.28   Oklahoma St.      L    +2   31-34 o50
+(Independence Bowl)
+ARIZONA
+(SUR: 6-6 PSR: 5-6 O-U: 3-8)
+S.02*  BYU               L    -6'  16-13 u51
+S.09*  Lsu               L    +16  3-45  o42'
+S.16*  S. AUSTIN                   28-10
+S.23*  S. CAL            W    +21  3-20  u48
+S.30*  WASH.             L    -3'  10-21 u41
+O.07*  Ucla              L    +12  7-27  u40
+O.14   Stanford          W    -3'  20-7  u39
+O.21*  OREGON ST.        L    +2'  10-17 u38'
+N.04   Wash. St.         W    +16  27-17 o39'
+N.11*  CAL.#             W    +13' 24-20 u46
+N.18   Oregon            W    +13' 37-10 o45'
+N.25   ARIZ. ST.         L    -3   14-28 u43
+ARIZONA STATE
+(SUR: 7-6 PSR: 7-5 O-U: 4-8)
+A.31*  N. ARZ                      35-14
+S.09*  NEVADA            W    -15' 52-21 o57
+S.16*  Colorado          W    -11  21-3  u51'
+S.23   California        L    +8   21-49 o58
+S.30   OREGON            L    -1'  13-48 u62'
+O.14*  Southern Cal      W    +19  21-28 u54'
+O.21   STANFORD#         W    -23' 38-3  u47
+O.28*  Wash.-OT          W    -1'  26-23 u49'
+N.04   Oregon St.        L    +2   10-44 o47
+N.11*  WASH. ST.         W    +1   47-14 o50
+N.18*  UCLA              L    -5   12-24 u52
+N.25   Arizona           W    +3   28-14 u43
+D.24*  Hawaii            L    +7'  24-41 u72'
+(Hawaii Bowl)
+ARKANSAS
+(SUR: 10-4 PSR: 4-9 O-U: 7-5-1)
+S.02*  S. CAL            L    +7'  14-50 o50'
+S.09*  UTAH ST.          L    -28' 20-0  u48
+S.16   Vanderbilt        L    -5'  21-19 o38'
+S.23   ALA.-OT           L    -2'  24-23 o37'
+O.07   Auburn            W    +15  27-10 u41'
+O.14   SE.MO. ST.#                 63-7
+O.21   MISSISSIPPI       W    -20' 38-3  n41
+O.28*  LA.-MONROE        L    -36  44-10 o49'
+(at Little Rock, AR)
+N.04*  S. Carolina       W    -2'  26-20 o45'
+N.11*  TENNESSEE         W    -5'  31-14 u47
+N.18   Mississippi St.   L    -14' 28-14 u43
+N.24   LSU               L    +1'  26-31 o44'
+(at Little Rock, AR)
+D.02*  Florida           L    +2'  28-38 o44'
+(at Atlanta, GA)
+J.01   Wisconsin         L    -2   14-17 u45
+(Capital One Bowl)
+ARKANSAS STATE (FT)
+(SUR: 6-6 PSR: 6-6 O-U: 4-8)
+S.02*  ARMY              W    +5   14-6  u43'
+S.09*  OKLA. ST.         L    +13  7-35  u46
+(at Little Rock, AR)
+S.23*  Smu               L    +6'  9-55  o38'
+S.30*  Florida Intl.     W    +7'  31-6  u42
+O.07*  LA.-MONROE        L    -6'  10-6  u43
+O.14   Memphis           W    +9   26-23 o44'
+O.21*  N. TEXAS#         W    -10  29-10 u39'
+O.28*  Florida Atlantic  L    -6   0-29  u39'
+N.04   Auburn            W    +32  0-27  u44
+N.11*  M.TENN. ST.       L    +4   10-38 o40
+N.18*  Troy              W    +8   33-26 o40'
+N.25*  La.-Lafayette     L    +6   13-28 u43'
+ARMY (AT)
+(SUR: 3-9 PSR: 3-8 O-U: 6-5)
+S.02*  Ark St.           L    -5   6-14  u43'
+S.09   KENT ST.-OT       L    -6'  17-14 u39'
+S.16*  Texas A&M         W    +27' 24-28 o48'
+(at San Antonio, TX)
+S.23*  Baylor-OT         W    +11' 27-20 o42
+S.30   RICE              L    -10' 14-48 o45'
+O.07   VMI#                        62-7
+O.14   Connecticut       L    +5   7-21  u42'
+O.21   TCU               L    +12  17-31 o39'
+O.28   Tulane            L    +5   28-42 o50'
+N.03*  AIR FORCE         L    +6   7-43  o46'
+N.18   Notre Dame        L    +30' 9-41  u54
+D.02   Navy              W    +19' 14-26 u49
+(at Philadelphia, PA)
+AUBURN
+(SUR: 11-2 PSR: 6-7 O-U: 6-7)
+S.02*  WASH ST.          W    -14' 40-14 o50
+S.09   Miss. St.         W    -21  34-0  u38'
+S.16   LSU               W    -3'  7-3   u39'
+S.23   BUFFALO           L    -41  38-7  u48'
+S.28*  S. Carolina       L    -13' 24-17 o37'
+O.07   ARKANSAS          L    -15  10-27 u41'
+O.14*  FLORIDA           W    +2   27-17 o39
+O.21   TULANE#           L    -30  38-13 o49
+O.28   Mississippi       L    -18' 23-17 o38'
+N.04   ARK. ST.          L    -32  27-0  u44
+N.11   GEORGIA           L    -12  15-37 o40
+N.18   Alabama           W    -3   22-15 u40
+J.01   Nebraska          W    -2   17-14 u46
+(Cotton Bowl)
+BALL STATE
+(SUR: 5-7 PSR: 8-3 O-U: 6-5)
+A.31*  E. MICH           W    -5   38-20 o50'
+S.09*  INDIANA           W    +3'  23-24 u51'
+S.16   Purdue            W    +17  28-38 o58'
+S.23*  N. DAK. ST.                  24-29
+S.30*  N. ILLINOIS       L    +6'  28-40 o56'
+O.07   Buffalo           W    -4   55-25 o46'
+O.14   C. Michigan       L    +10  7-18  u58'
+O.21   W. MICH.#         L    +3   27-41 o52
+O.28   Miami-O.          W    +4'  20-17 u52'
+N.04   Michigan          W    +33' 26-34 o49
+N.14*  Toledo            W    +4'  20-17 u54'
+N.24   KENT ST.          W    -3   30-6  u46
+BAYLOR (AT)
+(SUR: 4-8 PSR: 3-8 O-U: 6-5)
+S.03*  TCU               L    +7   7-17  u48
+S.09*  N'WTERN ST.                 47-10
+S.16   Wash. St.         W    +13  15-17 u51'
+(at Seattle, WA)
+S.23*  ARMY-OT           L    -11' 20-27 o42
+S.30   KANSAS ST.        W    +1'  17-3  u40'
+O.07   Colorado-OT       W    +5   34-31 o36
+O.14*  Texas             L    +27  31-63 o49
+O.21   KANSAS#           L    -3'  36-35 o48'
+O.28*  TEXAS A&M         L    +4'  21-31 u54
+N.04   Texas Tech        L    +17  21-55 o57
+N.11   Oklahoma St.      L    +16' 24-66 o59'
+N.18   OKLAHOMA          L    +20' 10-36 u52
+BOISE STATE (AT)
+(SUR: 13-0 PSR: 7-5 O-U: 7-5)
+A.31*  CS SAC                      45-0
+S.07*  ORE ST.           W    -7'  42-14 u59
+S.16   Wyoming           L    -7'  17-10 u50
+S.23*  HAWAII            L    -14' 41-34 o61
+S.30   Utah              W    +5   36-3  u51
+O.07*  LA. TECH#         W    -35' 55-14 o57'
+O.15*  N. Mexico St.     L    -26' 40-28 o62'
+O.21   Idaho             L    -21  42-26 o58
+N.01*  FRESNO ST.        W    -22' 45-21 o58
+N.11   San Jose St.      L    -13' 23-20 u56
+N.18   UTAH ST.          W    -38  49-10 o56
+N.25   Nevada            W    -2'  38-7  u56
+J.01*  Oklahoma-OT       W    +7'  43-42 o50
+(Fiesta Bowl)
+BOSTON COLLEGE (AT)
+(SUR: 10-3 PSR: 5-6-1 O-U: 6-6)
+A.31*  C. Mich           L    -12  31-24 o41'
+S.09   CLEM-OT           W    +2   34-33 o44
+S.16   BYU-OT            N    -7   30-23 o52
+S.23*  N. Car. St.       L    -6'  15-17 u42
+S.30   MAINE#                      22-0
+O.12*  VA. TECH          W    +2'  22-3  u42
+O.21   Florida St.       W    +6'  24-19 o42'
+O.28   BUFFALO           W    -33' 41-0  u42
+N.04*  Wake Forest       L    -4   14-21 u40'
+N.11*  DUKE              L    -29  28-7  u45'
+N.18   MARYLAND          W    -7'  38-16 o41'
+N.23*  Miami-Florida     L    -4   14-17 u37'
+D.30   Navy              L    -7   25-24 o47
+(Meineke Car Care Bowl)
+BOWLING GREEN
+(SUR: 4-8 PSR: 3-8-1 O-U: 4-8)
+S.02*  WISC              L    +14' 14-35 u50
+(at Cleveland, OH)
+S.09   BUFFALO-OT        L    -23  48-40 o41'
+S.16*  Florida Intl.     N    -5   33-28 o47'
+S.23   KENT ST.          L    -7   3-38  u47
+S.30   Ohio              W    +6'  21-9  u46
+O.07   Ohio St.          W    +35' 7-35  u51
+O.14*  E. MICH.#         L    -10' 24-21 u48'
+O.19*  C. Michigan       L    +7'  14-31 u50'
+O.28   Temple            L    -17  14-28 u49
+N.04   Akron             W    +8   28-35 o45'
+N.15*  MIAMI-OHIO        L    -4   7-9   u44'
+N.21*  Toledo            L    -6'  21-31 o47
+BUFFALO
+(SUR: 2-10 PSR: 7-4-1 O-U: 7-5)
+A.31*  TEMPLE-OT         N    -6   9-3   u44
+S.09   B. Green-OT       W    +23  40-48 o41'
+S.16*  N. Illinois       W    +23' 13-31 u47'
+S.23   Auburn            W    +41  7-38  u48'
+O.07   BALL ST.#         L    +4   25-55 o46'
+O.15   MIAMI-OHIO        W    +7'  31-38 o44
+O.21   Ohio              L    +17' 7-42  o42
+O.28   Boston College    L    +33' 0-41  u42
+N.04   KENT ST.          W    +15' 41-14 o41
+N.09*  Akron             W    +17  16-31 o46'
+N.18   Wisconsin         W    +38  3-35  u46'
+N.24   C. MICH.          L    +15  28-55 o47'
+BYU
+(SUR: 11-2 PSR: 10-2-1 O-U: 8-5)
+S.02*  Arizona           W    +6'  13-16 u51
+S.09   TULSA             W    -4'  49-24 o52
+S.16   Bost. Coll-OT     N    +7   23-30 o52
+S.23   UTAH ST.          W    -27  38-0  u48'
+S.28*  Tcu               W    +5'  31-17 o47
+O.07   S. DIEGO ST.      W    -28  47-17 o47
+O.21   UNLV#             W    -28' 52-7  o55
+O.28   Air Force         W    -9'  33-14 u56'
+N.04*  Colorado St.      W    -15  24-3  u49'
+N.09*  WYOMING           W    -18' 55-7  o47
+N.18   N. MEXICO         L    -26' 42-17 o52'
+N.25   Utah              L    -3'  33-31 o54'
+D.21*  Oregon            W    -3   38-8  u60
+(Las Vegas Bowl)
+CALIFORNIA
+(SUR: 10-3 PSR: 6-6 O-U: 7-5)
+S.02*  Tennessee         L    -2'  18-35 o43
+S.09*  MINN              W    -8'  42-17 o55
+S.16   PORT. ST.                   42-16
+S.23   ARIZ. ST.         W    -8   49-21 o58
+S.30   Oregon St.        W    -9   41-13 u57
+O.07*  OREGON#           W    -5   45-24 o60
+O.14   Wash. St.         W    -9   21-3  u55'
+O.21   WASH.-OT          L    -23  31-24 o52
+N.04*  UCLA              L    -17' 38-24 o51'
+N.11*  Arizona           L    -13' 20-24 u46
+N.18*  Southern Cal      L    +5'  9-23  u54
+D.02   STANFORD          L    -29' 26-17 u47
+D.28*  Texas A&M         W    -4   45-10 o52'
+(Holiday Bowl)
+CENTRAL MICHIGAN (AT)
+(SUR: 10-4 PSR: 11-2-1 O-U: 6-8)
+A.31*  BOST COLL         W    +12  24-31 o41'
+S.09   Michigan          W    +27' 17-41 o45'
+S.16   AKRON             W    +1   24-21 u46'
+S.23   E. Mich.-OT       W    -4'  24-17 u47
+S.30*  Kentucky          N    +9   36-45 o51'
+O.07*  Toledo            W    +2'  42-20 o53
+O.14   BALL ST.#         W    -10  18-7  u58'
+O.19*  BOWLING G.        W    -7'  31-14 u50'
+N.04   Temple            L    -19  42-26 o49'
+N.10*  W. MICH.          W    -6   31-7  u47
+N.17*  No. Illinois      L    -3'  10-31 u48'
+N.24   Buffalo           W    -15  55-28 o47'
+N.30*  Ohio              W    -3'  31-10 u45'
+(at Detroit, MI)
+D.26*  M.TENN.ST.        W    -9   31-14 u51'
+(Motor City Bowl)
+CINCINNATI (FT)
+(SUR: 8-5 PSR: 6-4-2 O-U: 5-6-1)
+S.02*  E .KENTUCKY                 31-0
+S.08*  PITT              L    +7'  15-33 o43'
+S.16   Ohio St.          L    +29  7-37  u46
+S.23   Virginia Tech     W    +27' 13-29 n42
+S.30   MIAMI-OHIO        W    -11' 24-10 u45
+O.07   AKRON             N    -6   20-14 u43'
+O.14   Louisville        W    +25  17-23 u53'
+O.22*  S. FLA.           W    +1'  23-6  u42'
+O.28   SYRACUSE#         W    -6'  17-3  u37'
+N.11   West Virginia     N    +18  24-42 o46'
+N.18*  RUTGERS           W    +6'  30-11 o38
+N.25   Connecticut       L    -4'  26-23 o38'
+J.06   W. Michigan       L    -7   27-24 o42
+(International Bowl)
+CLEMSON
+(SUR: 8-5 PSR: 6-7 O-U: 6-7)
+S.02   FLA .ATL          W    -32  54-6  o44
+S.09   Bost. Coll.-OT    L    -2   33-34 o44
+S.16*  Florida St.       W    +4   27-20 o44
+S.23   N. CAR.            W    -16' 52-7  o49
+S.30*  LA. TECH          W    -33  51-0  u54'
+O.07   Wake Forest       L    -16  27-17 u46'
+O.12*  Temple            W    -45  63-9  o56
+(at Charlotte, NC)
+O.21*  GA. TECH#         W    -7   31-7  u46'
+O.26*  Virginia Tech     L    -4   7-24  u42'
+N.04   MARYLAND          L    -18' 12-13 u48
+N.11   N. CAR. ST.       L    -17' 20-14 u44
+N.25   S. CAR.           L    -5'  28-31 o46'
+D.29   Kentucky          L    -10  20-28 u57'
+(Music City Bowl)
+COLORADO
+(SUR: 2-10 PSR: 3-7-1 O-U: 5-6)
+S.02   MONT. ST.                   10-19
+S.09   Colorado St.      L    +2   10-14 u44
+(at Denver, CO)
+S.16*  ARIZ. ST.         L    +11  3-21  u51'
+S.23   Georgia           W    +27  13-14 u36'
+S.30*  Missouri          N    +15  13-28 o39
+O.07   BAYLOR#-OT        L    -5   31-34 o36
+O.14   TEX. TECH         W    +7   30-6  u48
+O.21*  Oklahoma          L    +13' 3-24  u39'
+O.28   Kansas            L    +2   15-20 u42
+N.04   KANSAS ST.        L    -3'  21-34 o37
+N.11   IOWA ST.          W    -8'  33-16 o42
+N.24   Nebraska          L    +14  14-37 o45
+COLORADO STATE (FT)
+(SUR: 4-8 PSR: 4-7 O-U: 3-8)
+S.02   WEBER ST.                   30-6
+S.09   Colorado          W    -2   14-10 u44
+(at Denver, CO)
+S.16*  Nevada            L    +2'  10-28 u52'
+S.30*  Fresno St.        W    +13' 35-23 o42'
+O.07*  UNLV#             W    -17  28-7  u43'
+O.12*  Air Force         W    +6   21-24 u46
+O.21   Wyoming           L    +4   0-24  u40
+O.28   N. MEXICO         L    -6'  19-20 u43
+N.04*  BYU               L    +15  3-24  u49'
+N.11   Utah              L    +12  22-35 o43
+N.25*  TCU               L    +9'  14-45 o40'
+D.02*  San Diego St.     L    -1   6-17  u42
+CONNECTICUT
+(SUR: 4-8 PSR: 5-6 O-U: 5-6)
+A.31*  RHODE ISL.                  52-7
+S.16   W. FOREST         L    -6   13-24 u42
+S.23   Indiana           W    +1   14-7  u46
+S.30   NAVY              L    -2'  17-41 o42
+O.07*  South Florida     L    +6'  16-38 o39
+O.14   ARMY              W    -5   21-7  u42'
+O.20*  W. VIRG.#         L    +23  11-37 u49
+O.29*  Rutgers           W    +19' 13-24 u39'
+N.11   PITT.-OT          W    +8   46-45 o41
+N.18   Syracuse          L    +1   14-20 u40'
+N.25   CINCINNATI        W    +4'  23-26 o38'
+D.02   Louisville        L    +28' 17-48 o55
+DUKE
+(SUR: 0-12 PSR: 5-6 O-U: 7-4)
+S.02*  RICHMOND                    0-13
+S.09   Wake Forest       W    +20' 13-14 u38'
+S.16   Virginia Tech     L    +35  0-36  u44'
+S.30   VIRGINIA#         L    +5'  0-37  o36'
+O.07*  Alabama           W    +28' 14-30 o39
+O.14   FLA. ST.          L    +23  24-51 o42
+O.21   MIA.-FLA.         W    +18  15-20 u41'
+O.28   VANDERBILT        L    +8   28-45 o40'
+N.04   NAVY              L    +10' 13-38 o47'
+N.11*  Boston Coll.      W    +29  7-28  u45'
+N.18   Georgia Tech      L    +25  21-49 o43
+N.25   N. CAR.           W    +7   44-45 o44'
+EAST CAROLINA
+(SUR: 7-6 PSR: 10-3 O-U: 4-8-1)
+S.02*  Navy              W    +12  23-28 n51
+S.09*  Uab               W    +6'  12-17 u47'
+S.16*  MEMPHIS           W    -2'  35-20 o51'
+S.23*  W. VA.            W    +21  10-27 u56
+O.07*  VIRGINIA          W    -6'  31-21 o43
+O.14   TULSA             L    +2'  10-31 u48
+O.21   SMU#              W    -5'  38-21 o48
+O.28*  So. Miss-OT       W    +6   20-17 u46'
+N.04*  Ucf               W    -5'  23-10 u55
+N.11   MARSHALL          W    -7   33-20 o51
+N.18   Rice              L    -2'  17-18 u56'
+N.25   N. Car. St.       W    +3   21-16 u41'
+D.23   South Florida     L    +5   7-24  u43
+(Papajohns.com Bowl)
+EASTERN MICHIGAN (AT)
+(SUR: 1-11 PSR: 6-6 O-U: 4-8)
+A.31*  Ball St.          L    +5   20-38 o50'
+S.09   Michigan St.      L    +25' 20-52 o53'
+S.16   Northwestern      W    +17' 6-14  u52'
+S.23   C. MICH.-OT       L    +4'  17-24 u47
+S.30*  La.-Lafayette     L    +8   14-33 o46
+O.14*  Bowling Grn.      W    +10' 21-24 u48'
+O.21   TOLEDO#           W    -1   17-13 u48'
+O.28   W. Michigan       W    +15  15-18 u42'
+N.04   OHIO              W    +6'  10-16 u39
+N.11   NAVY              L    +15' 21-49 o46'
+(at Detroit, MI)
+N.17*  Kent St.          W    +11' 6-14  u40
+N.24   N. ILLINOIS       L    +7'  0-27  u43'
+FLORIDA
+(SUR: 13-1 PSR: 5-7-1 O-U: 5-8)
+S.02*  SO. MISS          W    -20  34-7  u47
+S.09*  UCF               W    -22' 42-0  u50
+S.16*  Tennessee         L    -3'  21-20 u45'
+S.23*  KENTUCKY          L    -26' 26-7  u54'
+S.30   ALABAMA           N    -15  28-13 o39
+O.07   LSU#              W    -1   23-10 u40'
+O.14*  Auburn            L    -2   17-27 o39
+O.28   Georgia           L    -13' 21-14 u41'
+(at Jacksonville, FL)
+N.04   Vanderbilt        L    -16' 25-19 o43
+N.11   S. CAR.           L    -13  17-16 u44
+N.18   W. CAR.                     62-0
+N.25   Florida St.       L    -9   21-14 u42'
+D.02*  Arkansas          W    -2'  38-28 o44'
+(at Atlanta, GA)
+J.08*  Ohio State        W    +7'  41-14 o46
+(BCS National Championship)
+FLORIDA ATLANTIC
+(SUR: 5-7 PSR: 5-6 O-U: 6-5)
+S.02   Clemson           L    +32  6-54  o44
+S.09*  Kansas St.        L    +21' 0-45  o44
+S.16*  Oklahoma St.      L    +29' 8-48  o46'
+S.23*  S. Carolina       L    +29  6-45  o42
+S.30*  La.-Monroe        W    +14  21-19 u47
+O.12*  SO. UTAH                    32-7
+O.18*  LA.-LAFAY.        W    +8'  0-6   u47
+O.28*  ARK. ST.#         W    +6   29-0  u39'
+N.04   M. Tenn. St.      L    +12' 14-35 o40
+N.11*  TROY              L    +3'  17-24 o40'
+N.18*  North Texas       W    +5   17-16 u38'
+N.25*  Florida Int'l     W    -4   31-0  u38
+(at Dolphin Stadium)
+FLORIDA INTERNATIONAL
+(SUR: 0-12 PSR: 3-8-1 O-U: 2-10)
+A.31*  Mid Tenn St.      W    +10  6-7   u46
+S.09*  S. Florida        W    +20  20-21 u42
+S.16*  BOWL. GRN         N    +5   28-33 o47'
+S.23*  Maryland          W    +20  10-14 u46
+S.30*  ARK. ST.          L    -7'  6-31  u42
+O.07*  N. Texas-OT       L    -1'  22-25 o39
+O.14*  Miami-Florida     L    +26' 0-35  u40'
+O.28   Alabama           L    +34' 3-38  u43'
+N.11*  LA.-MONROE        L    P    0-35  u44
+N.18*  LA.-LAFAY.#       L    +4'  7-17  u44'
+N.25*  Fla. Atlantic     L    +4   0-31  u38
+(at Dolphin Stadium)
+D.02*  TROY              L    +10' 13-26 u40
+FLORIDA STATE (P.A.T.)
+(SUR: 7-6 PSR: 6-7 O-U: 8-5)
+S.04*  Mia-Fla           W    +3'  13-10 u40'
+S.09*  TROY              L    -28  24-17 u44'
+S.16*  CLEMSON           L    -4'  20-27 o44
+S.23   RICE              W    -30' 55-7  o47
+O.05*  N.C. St.          L    -10  20-24 o40
+O.14   Duke              W    -23  51-24 o42
+O.21   BOST. COLL.       L    -6'  19-24 o42'
+O.28*  Maryland          L    -3'  24-27 o42'
+N.04   VIRGINIA          W    -13  33-0  u41
+N.11*  W. FOREST         L    -8'  0-30  u42'
+N.18   W. MICH.#         L    -16' 28-20 o44
+N.25   FLORIDA           W    +9   14-21 u42'
+D.27*  Ucla              W    +3'  44-27 o39
+(Emerald Bowl)
+FRESNO STATE
+(SUR: 4-8 PSR: 1-10-1 O-U: 5-7)
+S.01*  NEVADA            L    -12' 28-19 u55
+S.09*  OREGON            L    +3'  24-31 o54
+S.16   Washington        L    -3'  20-21 u53
+S.30*  COL ST.           L    -13' 23-35 o42'
+O.07*  Utah St.          L    -26' 12-13 u46
+O.14   HAWAII#           L    +4   37-68 o56'
+O.21*  Lsu               N    +32  6-38  u52
+N.01*  Boise St.         L    +22' 21-45 o58
+N.11   N. MEX. ST.  nc     L    12'  23-18 u58
+N.18   IDAHO             W    -11' 34-0  u53
+N.24*  La. Tech          L    -13  34-27 o53
+D.02   San Jose St.      L    +4   14-24 u50
+GEORGIA (P.A.T.)
+(SUR: 9-4 PSR: 6-6 O-U: 5-7)
+S.02   W. KENT.                    48-12
+S.09*  S Carolina        W    -3   18-0  u39'
+S.16   UAB               W    -17  34-0  u38'
+S.23   COLORADO          L    -27  14-13 u36'
+S.30   Mississippi       L    -18  14-9  u35'
+O.07*  TENNESSEE         L    +2'  33-51 o37'
+O.14   VANDY#            L    -14  22-24 o38'
+O.21   MISS. ST.         L    -17' 27-24 o39'
+O.28   Florida           W    +13' 14-21 u41'
+(at Jacksonville, FL)
+N.04   Kentucky          L    -7   20-24 u49
+N.11   Auburn            W    +12  37-15 o40
+N.25   GA. TECH          W    -2'  15-12 u42
+D.30*  VA. TECH          W    +2'  31-24 o37'
+(Chick-fil-A Bowl)
+GEORGIA TECH
+(SUR: 9-5 PSR: 6-6-1 O-U: 7-6)
+S.02*  N. DAME           W    +7   10-14 u50'
+S.09   SAMFORD                     38-6
+S.16   TROY              L    -17' 35-20 o38
+S.21*  VIRGINIA          N    -17  24-7  u39'
+S.30*  Virginia Tech     W    +9'  38-27 o37'
+O.07   MARYLAND          L    -14  27-23 o41
+O.21*  Clemson           L    +7   7-31  u46'
+O.28   MIAMI-FLA.#       W    -4'  30-23 o37'
+N.04   N. Car. St.       W    -4'  31-23 o40
+N.11   N. Carolina       L    -13' 7-0   u47
+N.18   DUKE              W    -25  49-21 o43
+N.25   Georgia           L    +2'  12-15 u42
+D.02   Wake Forest       L    -2   6-9   u40
+(at Jacksonville, FL)
+J.01   West Virginia     W    +10' 35-38 o47
+(Gator Bowl)
+HAWAII (AT)
+(SUR: 11-3 PSR: 9-3-1 O-U: 8-5)
+S.02*  Alabama           W    +16  17-25 u52'
+S.16*  UNLV              W    -12' 42-13 u57'
+S.23*  Boise St.         W    +14' 34-41 o61
+S.30*  E. ILL.                     44-9
+O.07*  NEVADA            L    -12  41-34 o62
+O.14   Fresno St.        W    -4   68-37 o56'
+O.21*  N. Mex. St.       N    -19  49-30 o73'
+O.28*  IDAHO#            W    -26' 68-10 o71'
+N.04   Utah St.          W    -26' 63-10 o67
+N.11*  LA. TECH          W    -37' 61-17 o76
+N.18*  S. JOSE ST.       W    -25  54-17 u73
+N.25*  PURDUE            L    -18' 42-35 o74
+D.02*  OREGON ST.        L    -8   32-35 u70
+D.24*  ARIZON ST.        W    -7'  41-24 u72'
+(Hawaii Bowl)
+HOUSTON
+(SUR: 10-4 PSR: 8-5 O-U: 8-5)
+S.02*  Rice              L    -14' 31-30 o52'
+S.09*  TULANE            W    -14  45-7  u52'
+S.16*  GRAMBLING                   42-22
+S.23*  OKL. ST.          W    -2   34-25 o56'
+S.30*  Miami-Florida     W    +16' 13-14 u48'
+O.07*  LA.-LAFAY.        L    -17  28-31 o52
+O.14*  Southern Miss     L    +1'  27-31 o48
+O.21*  UTEP              W    -6'  34-17 u60'
+O.28   UCF               W    -17  51-31 o57
+N.04   TULSA#            W    +3   27-10 u55
+N.11   Smu               W    -3'  37-27 o54
+N.18   Memphis-OT        L    -16' 23-20 u59'
+D.01*  SO. MISS          W    -5   34-20 o53'
+D.29*  S. Carolina       L    +5'  36-44 o56
+(Liberty Bowl)
+IDAHO (AT)
+(SUR: 4-8 PSR: 5-6 O-U: 4-7)
+S.02   Michigan St.      W    +29  17-27 u58
+S.09   Wash. St.         L    +17' 10-56 o53'
+S.16   IDAHO ST.                   27-24
+S.23*  Oregon St.        L    +25' 0-38  u54'
+S.30   Utah St.          W    -2'  41-21 o42'
+O.07*  N. MEX ST.#        W    -1   28-20 u61
+O.14*  La. Tech          W    +3   24-14 u54
+O.21   BOISE ST.         W    +21  26-42 o58
+O.28*  Hawaii            L    +26' 10-68 o71'
+N.04   NEVADA            L    +10  7-45  u55
+N.18   Fresno St.        L    +11' 0-34  u53
+N.25   S. JOSE ST.       L    +6'  13-28 u51'
+ILLINOIS (AT)
+(SUR: 2-10 PSR: 5-6 O-U: 4-7
+S.02*  E. ILL                      42-17
+S.09   Rutgers           L    +10' 0-33  u51
+S.16   SYRACUSE          L    -3'  21-31 o39
+S.23   IOWA              W    +21  7-24  u46
+S.30   Michigan St.      W    +26  23-20 u55'
+O.07   INDIANA#          L    -8   32-34 o45
+O.14*  OHIO              L    -6'  17-20 u44
+O.21   Penn St.          W    +18  12-26 u44
+O.28   Wisconsin         W    +21  24-30 o45
+N.04   OHIO ST.          W    +25  10-17 u48
+N.11   PURDUE            L    -3   31-42 o47
+N.18   Northwestern      L    -2'  16-27 u47'
+INDIANA (FT)
+(SUR: 5-7 PSR: 5-6 O-U: 6-5)
+S.02*  W. MICH           W    -6'  39-20 o52
+S.09*  Ball St.          L    -3'  24-23 u51'
+S.16*  S. ILLINOIS                 28-35
+S.23   CONN.             L    -1   7-14  u46
+S.30   WISCONSIN         L    +10' 17-52 o42
+O.07   Illinois          W    +8   34-32 o45
+O.14   IOWA              W    +19  31-28 o51
+O.21   Ohio St.          L    +31  3-44  u52
+O.28   MICH. ST.#        W    +7   46-21 o57
+N.04   Minnesota         L    +6   26-63 o57
+N.11   MICHIGAN          L    +19  3-34  u50'
+N.18   Purdue            W    +12  19-28 u59
+IOWA (P.A.T.)
+(SUR: 6-7 PSR: 2-10 O-U: 5-7)
+S.02   MONTANA                     41-7
+S.09   Syracuse-OT       L    -18  20-13 u40
+S.16   IOWA ST.          L    -13' 27-17 u48
+S.23   Illinois          L    -21  24-7  u46
+S.30*  OHIO ST.          L    +6'  17-38 o43
+O.07   PURDUE#           W    -11  47-17 o54
+O.14   Indiana           L    -19  28-31 o51
+O.21   Michigan          L    +13  6-20  u44
+O.28   N. ILLINOIS       L    -16  24-14 u47'
+N.04   N'WESTERN         L    -20  7-21  u45
+N.11   WISCONSIN         L    +1'  21-24 o38'
+N.18   Minnesota         L    +2'  24-34 o53'
+D.30   Texas             W    +9   24-26 u53'
+(Alamo Bowl)
+IOWA STATE
+(SUR: 4-8 PSR: 3-8 O-U: 4-7)
+A.31*  TOLEDO-OT         L    -9   45-43 o55'
+S.09*  UNLV              L    -14  16-10 u54
+S.16   Iowa              W    +13' 17-27 u48
+S.23   Texas             W    +25' 14-37 u54
+S.30*  N. IOWA                     28-27
+O.07   NEBRASKA          L    +7   14-28 u52
+O.14   Oklahoma          L    +19  9-34  u50
+O.21   TEX. TECH#        L    +2'  26-42 o52
+O.28   Kansas St.        L    +4'  10-31 u45
+N.04   KANSAS            L    +1   10-41 o50
+N.11   Colorado          L    +8'  16-33 o42
+N.18   MISSOURI          W    +13' 21-16 u52
+KANSAS (AT)
+(SUR: 6-6 PSR: 6-5 O-U: 7-4)
+S.02*  NWEST'N ST.                 49-18
+S.09*  LA.-MONROE        L    -23' 21-19 u45
+S.15*  Toledo-OT         L    +4'  31-37 o49
+S.23*  S FLORIDA         W    -4   13-7  u43
+S.30   Nebraska-OT       W    +22' 32-39 o45
+O.07   TEX. A&M#         L    +1'  18-21 u52'
+O.14   OKL. ST.          L    -2'  32-42 o51
+O.21   Baylor            W    +3'  35-36 o48'
+O.28   COLORADO          W    -2   20-15 u42
+N.04   Iowa St.          W    -1   41-10 o50
+N.18   KAN. ST.          W    -2'  39-20 o51'
+N.25   Missouri          L    +7'  17-42 o51
+KANSAS STATE (FT)
+(SUR: 7-6 PSR: 6-6 O-U: 7-5)
+S.02*  ILL ST.                     24-23
+S.09*  FLA. ATL.         W    -21' 45-0  o44
+S.16   MARSHALL          W    -9'  23-7  u47
+S.23   LOUISVILLE        L    +14  6-24  u53'
+S.30   Baylor            L    -1'  3-17  u40'
+O.07   OKL. ST.          W    +2'  31-27 o45
+O.14*  NEBRASKA          L    +9   3-21  u45
+O.21   Missouri          L    +15  21-41 o44'
+O.28   IOWA ST.#         W    -4'  31-10 u45
+N.04   Colorado          W    +3'  34-21 o37
+N.11*  TEXAS             W    +16  45-42 o49
+N.18   Kansas            L    +2'  20-39 o51'
+D.28*  Rutgers           L    +7'  10-37 o44'
+(Texas Bowl)
+KENT STATE (AT)
+(SUR: 6-6 PSR: 6-6 O-U: 3-9)
+A.31*  MINN              L    +15  0-44  u49'
+S.09   Army-OT           W    +6'  14-17 u39'
+S.16   Miami-Ohio        W    +12' 16-14 u43
+S.23   Bowl. Green       W    +7   38-3  u47
+S.30*  AKRON             W    +2'  37-15 o41
+O.07   Temple            L    -24  28-17 u45'
+O.14*  TOLEDO#           W    -7   40-14 o47
+O.28   OHIO              L    -6'  7-17  u40
+N.04   Buffalo           L    -15' 14-41 o41
+N.11   Virginia Tech     W    +30' 0-23  u41'
+N.17*  E. MICH.          L    -11' 14-6  u40
+N.24   Ball St.          L    +3   6-30  u46
+KENTUCKY
+(SUR: 8-5 PSR: 7-4-1 O-U: 5-7)
+S.03*  Louisville        L    +22' 27-59 o60'
+S.09*  TEXAS ST.                   41-7
+S.16*  MISS.             W    -4   31-14 u50'
+S.23*  Florida           W    +26' 7-26  u54'
+S.30*  C. MICH.          N    -9   45-36 o51'
+O.07*  S CAROLINA        L    +4'  17-24 u52
+O.14*  Lsu               L    +26  0-49  u50'
+O.28   Mississippi St.   W    -1   34-31 o47'
+N.04   GEORGIA#          W    +7   24-20 u49
+N.11   VANDY             W    -2   38-26 o53
+N.18   LA.-MONROE        L    -19' 42-40 o56'
+N.25   Tennessee         W    +20' 12-17 u60
+D.29   Clemson           W    +10  28-20 u57'
+(Music City Bowl)
+LOUSIANA-LAFAYETTE
+(SUR: 6-6 PSR: 4-7 O-U: 6-4-1)
+S.02*  Lsu               L    +30' 3-45  n48
+S.09*  Texas A&M         L    +21' 7-51  o52'
+S.23*  N. CAR. A&T                 48-7
+S.30*  E. MICH.          W    -8   33-14 o46
+O.07*  Houston           W    +17  31-28 o52
+O.18*  Fla. Atlantic     L    -8'  6-0   u47
+O.28*  M.TENN.ST.#       L    -2'  20-34 o42
+N.04   Troy              L    P    28-42 o42
+N.11*  N. TEXAS          L    -11  7-16  u45
+N.18*  Florida Intl.     W    -4'  17-7  u44'
+N.25*  ARK. ST.          W    -6   28-13 u43'
+D.02*  LA.-MONROE        L    -3   20-39 o47
+LOUISIANA-MONROE
+(SUR: 4-8 PSR: 8-3 O-U: 6-5)
+A.31*  ALCORN ST.                  24-6
+S.09*  Kansas            W    +23' 19-21 u45
+S.16*  Alabama           L    +24' 7-41  o40'
+S.30*  FLA ATL#          L    -14  19-21 u47
+O.07*  Arkansas St.      W    +6'  6-10  u43
+O.14   Troy              W    +9'  19-24 o41'
+O.21*  M. TENN.ST.       L    +3'  21-35 o43
+O.28*  Arkansas          W    +36  10-44 o49'
+(at Little Rock, AR)
+N.11*  Florida Intl.     W    P    35-0  u44
+N.18   Kentucky          W    +19' 40-42 o56'
+N.25*  N. TEXAS          W    -7   23-3  u44
+D.02*  La.-Lafayette     W    +3   39-20 o47
+LOUISIANA TECH (FT)
+(SUR: 3-10 PSR: 3-9 O-U: 8-3-1)
+S.02   Nebraska          L    +22' 10-49 o47'
+S.16*  NICH. ST.                   31-21
+S.23*  Texas A&M         L    +23' 14-45 n59
+S.30*  Clemson           L    +33  0-51  u54'
+O.07*  Boise St.         L    +35' 14-55 o57'
+O.14*  IDAHO#            L    -3   14-24 u54
+O.21*  UTAH ST.          W    -6   48-35 o46'
+O.28   San Jose St.      L    +9'  10-44 o53'
+N.04*  North Texas       W    +2'  34-31 o44
+N.11*  Hawaii            L    +37' 17-61 o76
+N.18*  NEVADA            L    +18  0-42  u57
+N.24*  FRESNO ST.        W    +13  27-34 o53
+D.02   N. Mexico St.     L    +12' 23-50 o65
+LOUISVILLE
+(SUR: 12-1 PSR: 9-4 O-U: 6-7)
+S.03*  KENTUCKY          W    -22' 59-27 o60'
+S.09   Temple            W    -40' 62-0  o57'
+S.16   MIA-FLA           W    -4   31-7  u52'
+S.23   Kansas St.        W    -14  24-6  u53'
+O.06*  M. Tenn. St.      L    -31  44-17 o52
+(at Nashville, TN)
+O.14   CINN.             L    -25  23-17 u53'
+O.21   Syracuse          L    -17' 28-13 u54
+N.02*  W. VIRGINIA       W    -1'  44-34 o56'
+N.09*  Rutgers           L    -6'  25-28 o51
+N.18*  S. FLORIDA        W    -17  31-8  u54
+N.25   Pittsburgh        W    -10' 48-24 o58'
+D.02   CONN.             W    -28' 48-17 u50
+J.02*  Wake Forest       W    -10  24-13 u52
+(Orange Bowl)
+LSU
+(SUR: 11-2 PSR: 6-5-2 O-U: 7-4-2)
+S.02*  LA.-LAFAY         W    -30' 45-3  n48
+S.09*  ARIZONA           W    -16  45-3  o42'
+S.16   Auburn            L    +3'  3-7   u39'
+S.23*  TULANE#           W    -36' 49-7  o49
+S.30*  MISS. ST.         L    -33' 48-17 o41'
+O.07   Florida           L    +1   10-23 u40'
+O.14*  KENTUCKY          W    -26  49-0  u50'
+O.21*  FRESNO ST.        N    -32  38-6  u52
+N.04   Tennessee         N    -4   28-24 o45
+N.11*  ALABAMA           L    -17' 28-14 o40
+N.18   MISS.-OT          L    -27' 23-20 n43
+N.24   Arkansas          W    -1'  31-26 o44'
+(at Little Rock, AR)
+J.03*  N. DAME           W    -9   41-14 o55'
+(Sugar Bowl)
+MARSHALL (AT)
+(SUR: 5-7 PSR: 4-7 O-U: 8-2-1)
+S.02   W. Virginia       L    +22  10-42 o47'
+S.09*  HOFSTRA                     54-31
+S.16   Kansas St.        L    +9'  7-23  u47
+S.23*  Tennessee         L    +21' 7-33  u42'
+O.04*  UCF               L    -3'  22-23 o44
+O.14   Smu               L    +5   21-31 o44
+O.21*  Uab               W    +6   31-24 o45'
+O.28*  MEMPHIS#          W    -9'  41-27 o49
+N.04*  TULANE            W    -5'  42-21 o57'
+N.11   East Carolina     L    +7   20-33 o51
+N.18*  UTEP              W    -3   49-21 o55'
+N.25*  So. Miss          L    +7   7-42  n49
+MARYLAND
+(SUR: 9-4 PSR: 5-7 O-U: 7-5)
+S.02*  WILL & MARY                 27-14
+S.09*  M.TENN.ST.        L    -22' 24-10 u40
+S.14*  West Virginia     L    +17  24-45 o48
+S.23*  FLA. INTL.        L    -20  14-10 u46
+O.07   Ga. Tech          W    +14  23-27 o41
+O.14   Virginia          L    -3'  28-26 o39
+O.21   N.C. ST.#         W    -2   26-20 o43
+O.28*  FLORIDA ST.       W    +3'  27-24 o42'
+N.04   Clemson           W    +18' 13-12 u48
+N.11   MIA.-FLA.         L    -3   14-13 u38
+N.18   Boston Coll.      L    +7'  16-38 o41'
+N.25*  W. FOREST         L    -1'  24-38 o39'
+D.29*  Purdue            W    +1   24-7  u53'
+(Champs Sports Bowl)
+MEMPHIS
+(SUR: 2-10 PSR: 3-7-1 O-U: 7-4)
+S.03   Mississippi       N    +3   25-28 o40
+S.09*  CHATT.                      33-14
+S.16*  East Carolina     L    +2'  20-35 o51'
+S.30   TENNESSEE         L    +13' 7-41  o45'
+O.07*  Uab               L    +5'  29-35 o41'
+O.14   ARK. ST.          L    -9   23-26 o44'
+O.21*  TULSA#            L    +13' 14-45 u50
+O.28*  Marshall          L    +9'  27-41 o49
+N.05*  S. MISS           L    +7   21-42 o46
+N.11*  UCF               W    +2'  24-26 u56'
+N.18   HOU.-OT           W    +16' 20-23 u59'
+N.25*  Utep              W    +12  38-19 u60
+MIAMI-FLORIDA (P.A.T.)
+(SUR: 7-6 PSR: 4-8 O-U: 1-11)
+S.04*  FLA ST.           L    -3'  10-13 u40'
+S.09   FLA A&M                     51-10
+S.16   Louisville        L    +4   7-31  u52'
+S.30*  HOUSTON           L    -16' 14-13 u48'
+O.07   N. CAROLINA        W    -19  27-7  u43
+O.14*  FLA. INTL.        W    -26' 35-0  u40'
+O.21   Duke              L    -18  20-15 u41'
+O.28   Georgia Tech      L    +4'  23-30 o37'
+N.04*  VA. TECH#         L    +2   10-17 u37'
+N.11   Maryland          W    +3   13-14 u38
+N.18   Virginia          L    -3   7-17  u37
+N.23*  BOST. COLL.       W    +4   17-14 u37'
+D.31*  Nevada            L    -3'  21-20 u42
+(MPC Computers Bowl)
+MIAMI-OHIO (FT)
+(SUR: 2-10 PSR: 4-8 O-U: 6-6)
+A.31*  N'WESTERN         L    +4'  3-21  u56
+S.09   Purdue-OT         W    +18  31-38 o53'
+S.16   KENT ST.          L    -12' 14-16 u43
+S.23*  Syracuse          L    +7   14-34 o42
+S.30   Cincinnati        L    +11' 10-24 u45
+O.08*  NO. ILL.#         W    +13' 25-28 u54'
+O.15   Buffalo           L    -7'  38-31 o44
+O.21*  Akron             L    +8   13-24 u47
+O.28   BALL ST.          L    -4'  17-20 u52'
+N.04   W. Michigan       W    +12' 24-27 o44
+N.15*  Bowling Grn.      W    +4   9-7   u44'
+N.24   OHIO              L    +3   24-34 o38'
+MICHIGAN (FT)
+(SUR: 11-2 PSR: 7-5-1 O-U: 4-9)
+S.02   VANDY             L    -26  27-7  u47'
+S.09   C. MICH           L    -27' 41-17 o45'
+S.16   Notre Dame        W    +5   47-21 o50'
+S.23   WISCONSIN         N    -14  27-13 u42
+S.30*  Minnesota         W    -9'  28-14 u51
+O.07*  MICH. ST.         W    -15' 31-13 u53'
+O.14*  Penn St.          W    -5   17-10 u40'
+O.21   IOWA              W    -13  20-6  u44
+O.28   N'WESTERN#        L    -30  17-3  u44
+N.04   BALL ST.          L    -33' 34-26 o49
+N.11   Indiana           W    -19  34-3  u50'
+N.18   Ohio St.          W    +6'  39-42 o41
+J.01   Southern Cal      L    P    18-32 o47
+(Rose Bowl)
+MICHIGAN STATE
+(SUR: 4-8 PSR: 3-8-1 O-U: 5-7)
+S.02   IDAHO             L    -29  27-17 u58
+S.09   E. MICH           W    -25' 52-20 o53'
+S.16   Pittsburgh        W    +2'  38-23 o52
+S.23*  N. DAME           N    +3   37-40 o59
+S.30   ILLINOIS#         L    -26  20-23 u55'
+O.07*  Michigan          L    +15' 13-31 u53'
+O.14   OHIO ST.          L    +14  7-38  u53
+O.21   Northwestern      L    -8   41-38 o48
+O.28   Indiana           L    -7   21-46 o57
+N.04   PURDUE            L    -2'  15-17 u57
+N.11   MINNESOTA         L    +1   18-31 u58'
+N.18   Penn St.          W    +17' 13-17 u45'
+MIDDLE TENNESSEE STATE (AT)
+(SUR: 7-6 PSR: 7-5 O-U: 7-5)
+A.31*  FLA INTL.         L    -10  7-6   u46
+S.09*  Maryland          W    +22' 10-24 u40
+S.14*  TENN. TEC.                  44-0
+S.23*  Oklahoma          L    +28' 0-59  o44
+S.30*  North Texas       W    +4   35-0  u39
+O.06*  LOUISVILLE        W    +31  17-44 o52
+(at Nashville, TN)
+O.21*  La.-Monroe        W    -3'  35-21 o43
+O.28*  La.-Lafayette     W    +2'  34-20 o42
+N.04   FLA. ATL.#        W    -12' 35-14 o40
+N.11*  Arkansas St.      W    -4   38-10 o40
+N.18   S. Carolina       L    +15' 7-52  o44
+N.25   TROY              L    -8   20-21 u44'
+D.26*  C. Michigan       L    +9   14-31 u51'
+(Motor City Bowl)
+MINNESOTA (AT)
+(SUR: 6-7 PSR: 7-5 O-U: 7-5)
+A.31*  Kent St.          W    -15  44-0  u49'
+S.09*  California        L    +8'  17-42 o55
+S.16   TEMPLE            W    -41' 62-0  o54
+S.23   Purdue            L    -2'  21-27 u62
+S.30*  MICHIGAN          L    +9'  14-28 u51
+O.07   PENN ST.-OT       W    +2'  27-28 o48'
+O.14   Wisconsin         L    +8   12-48 o50
+O.21   N. D. ST.                   10-9
+O.28   Ohio St.          L    +27  0-44  u47
+N.04   INDIANA#          W    -6   63-26 o57
+N.11   Michigan St.      W    -1   31-18 u58'
+N.18   IOWA              W    -2'  34-24 o53'
+D.29*  Tex.Tech-OT       W    +7'  41-44 o64'
+(Insight Bowl)
+MISSISSIPPI (AT)
+(SUR: 4-8 PSR: 5-4-2 O-U: 3-6-2)
+S.03   MEMPHIS           N    -3   28-25 o40
+S.09   Missouri          L    +10  7-34  u47
+S.16*  Kentucky          L    +4   14-31 u50'
+S.23*  W. FOREST         L    -2'  3-27  u40
+S.30   GEORGIA           W    +18  9-14  u35'
+O.07   VANDY#            W    +1'  17-10 u38'
+O.14   Alabama-OT        W    +16  23-26 o36'
+O.21   Arkansas          L    +20' 3-38  n41
+O.28   AUBURN            W    +18' 17-23 o38'
+N.04   NW. ST.                     27-7
+N.18*  Lsu-OT            W    +27' 20-23 n43
+N.25*  MISS. ST.         N    -3   20-17 u39
+MISSISSIPPI STATE (P.A.T.)
+(SUR: 3-9 PSR: 5-5-1 O-U: 6-5)
+A.31*  S. CAR            L    +6'  0-15  u40'
+S.09   AUBURN            L    +21  0-34  u38'
+S.16*  TULANE            L    -11  29-32 o38
+S.23*  Uab-OT            W    +9'  16-10 u37'
+S.30*  Lsu               W    +33' 17-48 o41'
+O.07   W. VIRGINIA        L    +21  14-42 o49
+O.14   J'VILLE ST.#                35-3
+O.21   Georgia           W    +17' 24-27 o39'
+O.28   KENTUCKY          L    +1   31-34 o47'
+N.04   Alabama           W    +14' 24-16 o39
+N.18   ARKANSAS          W    +14' 14-28 u45
+N.25*  Mississippi       N    +3   17-20 u39
+MISSOURI (FT)
+(SUR: 8-5 PSR: 6-5-1 O-U: 6-6)
+S.02   MURRAY ST.                  47-7
+S.09   MISS.             W    -10  34-7  u47
+S.16*  New Mexico        L    -14  27-17 u53
+S.23   OHIO              W    -21' 31-6  u47'
+S.30*  COLORADO          N    -15  28-13 o39
+O.07*  Texas Tech        W    +5   38-21 o55'
+O.14   Texas A&M         L    -1'  19-25 u51
+O.21   KAN. ST.#         W    -15  41-21 o44'
+O.28   OKLAHOMA          L    -1'  10-26 u45
+N.04   Nebraska          L    +6   20-34 o51
+N.18   Iowa St.          L    -13' 16-21 u52
+N.25   KANSAS            W    -7'  42-17 o51
+D.29   Oregon State      W    +3'  38-39 o52'
+(Sun Bowl)
+NAVY (AT)
+(SUR: 9-4 PSR: 7-5 O-U: 5-6-1)
+S.02*  E. CAR            L    -12  28-23 n51
+S.09   MASS.                       21-20
+S.16*  Stanford          W    +1   37-9  u57'
+S.23   TULSA-OT          L    -4'  23-24 u52
+S.30   Connecticut       W    +2'  41-17 o42
+O.07   Air Force         W    +2'  24-17 u51'
+O.14   RUTGERS#          L    -2'  0-34  u46
+O.28   NOTRE DAME        L    +13' 14-38 o47
+(at Baltimore, MD)
+N.04   Duke              W    -10' 38-13 o47'
+N.11   E. Michigan       W    -15' 49-21 o46'
+(at Detroit, MI)
+N.18   TEMPLE            W    -32  42-6  u56
+D.02   Army              L    -19' 26-14 u49
+(at Philadelphia, PA)
+D.30   Boston Coll.      W    +7   24-25 o47
+(Meineke Car Care Bowl)
+NEBRASKA (FT)
+(SUR: 9-5 PSR: 7-5-1 O-U: 7-6)
+S.02   LA TECH           W    -22' 49-10 o47'
+S.09   NICH. ST.                   56-7
+S.16*  Southern Cal      L    +17' 10-28 u56'
+S.23   TROY              W    -24  56-0  o48
+S.30   KANSAS-OT         L    -22' 39-32 o45
+O.07*  Iowa St.          W    -7   28-14 u52
+O.14*  Kansas St.        W    -9   21-3  u45
+O.21   TEXAS             W    +5'  20-22 u48
+O.28   Oklahoma St.      L    -5'  29-41 o54
+N.04   MISSOURI#         W    -6   34-20 o51
+N.11   Texas A&M         N    -1   28-27 o52'
+N.24   COLORADO          W    -14  37-14 o45
+D.02*  Oklahoma          L    +3'  7-21  u45'
+(at Kansas City, MO)
+J.01   Auburn            L    +2   14-17 u46
+(Cotton Bowl)
+NEVADA (FT)
+(SUR: 8-5 PSR: 11-2 O-U: 4-9)
+S.01*  Fresno St.        W    +12' 19-28 u55
+S.09*  Arizona St.       L    +15' 21-52 o57
+S.16*  COL. ST.          W    -2'  28-10 u52
+S.22*  N'WESTERN         W    -7   31-21 u47
+S.30*  Unlv              W    -3'  31-3  u48'
+O.07*  Hawaii            W    +12  34-41 o62
+O.21*  S.JOSE ST.#       W    -13  23-7  u54'
+O.28   N. MEX. ST.       W    -17' 48-21 o63'
+N.04   Idaho             W    -10  45-7  u55
+N.11   UTAH ST.          W    -29  42-0  u50'
+N.18*  La. Tech          W    -18  42-0  u57
+N.25   BOISE ST.         L    +2'  7-38  o56
+D.31*  Miami-Florida     W    +3'  20-21 u42
+(MPC Computers Bowl)
+NEW MEXICO
+(SUR: 6-7 PSR: 8-3-1 O-U: 6-6)
+S.02*  PORT. ST.                   6-17
+S.09*  N. Mex St.        N    -6   34-28 o48'
+S.16*  MISSOURI          W    +14  17-27 u53
+S.23   UTEP              W    +9'  26-13 u54'
+S.30   Air Force         L    +13' 7-24  u51
+O.07*  WYOMING#          L    +1'  10-14 u42
+O.14*  Unlv-OT           W    -2'  39-36 o38
+O.19*  UTAH              W    +6   34-31 o41
+O.28   Colorado St.      W    +6'  20-19 u43
+N.11   TCU               W    +6'  21-27 o41
+N.18   Byu               W    +26' 17-42 o52'
+N.25   S. DIEGO ST.      W    -10' 41-14 o44'
+D.23   S. JOSE ST.       L    -3'  12-20 u48'
+(New Mexico Bowl)
+NEW MEXICO STATE
+(SUR: 4-8 PSR: 5-3-2 O-U: 7-3)
+A.31*  SE LA                       30-15
+S.09*  N. MEXICO         N    +6   28-34 o48'
+S.16*  TEXAS SO.                   48-14
+S.30*  Utep              W    +16' 38-44 o59
+O.07   Idaho             L    +1   20-28 u61
+O.15*  BOISE ST.         W    +26' 28-40 o62'
+O.21*  HAWAII#           N    +19  30-49 o73'
+O.28   Nevada            L    +17' 21-48 o63'
+N.04*  S. JOSE ST.       L    +6   21-31 u61'
+N.11   Fresno St.        W    +12' 18-23 u58
+N.25   Utah St.          W    -6'  42-20 o54'
+D.02   LA. TECH          W    -12' 50-23 o65
+NORTH CAROLINA
+(SUR: 3-9 PSR: 4-7 O-U: 5-6)
+S.02   RUTGERS           L    -4'  16-21 u44'
+S.09   VA.TECH           L    +13  10-35 o41
+S.16*  FURMAN                      45-42
+S.23   Clemson           L    +16' 7-52  o49
+O.07   Miami-Florida     L    +19  7-27  u43
+O.14   S. FLORIDA        L    +3   20-37 o44
+O.19*  Virginia          L    +6   0-23  u41'
+O.28   WAKE FOR.         W    +8   17-24 u41'
+N.04   Notre Dame        W    +25  26-45 o52'
+N.11   GA. TECH#         W    +13' 0-7   u47
+N.18   N. CAR. ST.       W    +3'  23-9  u39'
+N.25   Duke              L    -7   45-44 o44'
+NORTH CAROLINA ST.
+(SUR: 3-9 PSR: 3-8 O-U: 5-6)
+S.02*  APP. ST.                    23-10
+S.09   AKRON             L    -8'  17-20 u41
+S.16*  So. Miss          L    +3   17-37 o38'
+S.23*  BOST. COLL.       W    +6'  17-15 u42
+O.05*  FLA. ST.          W    +10  24-20 o40
+O.14   W. FOREST         L    -3   23-25 o39'
+O.21   Maryland          L    +2   20-26 o43
+O.28   Virginia          L    +1'  7-14  u37
+N.04   GA. TECH#         L    +4'  23-31 o40
+N.11   Clemson           W    +17' 14-20 u44
+N.18   North Carolina    L    -3'  9-23  u39'
+N.25*  E. CAR.           L    -3   16-21 u41'
+NORTH TEXAS (AT)
+(SUR: 3-9 PSR: 4-8 O-U: 4-8)
+S.02   Texas             L    +41' 7-56  o54
+S.09*  SMU               W    +4   24-6  u40
+S.16*  Tulsa             L    +19' 3-28  u47'
+S.23*  Akron             L    -16' 13-33 o42
+S.30*  M TENN. ST.       L    -4   0-35  u39
+O.07*  FIU#-OT           W    +1'  25-22 o39
+O.21*  Arkansas St.      L    +10  10-29 u39'
+O.28   Troy              W    +10' 6-14  u39
+N.04*  LA. TECH          L    -2'  31-34 o44
+N.11*  La.-Lafayette     W    +11  16-7  u45
+N.18*  FLA. ATL.         L    -5   16-17 u38'
+N.25*  La.-Monroe        L    +7   3-23  u44
+NORTHERN ILLINOIS (FT)
+(SUR: 7-6 PSR: 4-8 O-U: 3-9)
+S.02   Ohio St.          L    +17' 12-35 u49'
+S.09   OHIO              L    -16' 23-35 o45'
+S.16*  BUFFALO           L    -23' 31-13 u47'
+S.23   INDIANA ST.                 48-14
+S.30*  Ball St.          W    -6'  40-28 o56'
+O.08*  Miami-Ohio        L    -13' 28-25 u54'
+O.14   W. Michigan       L    -3   14-16 u51
+O.21   TEMPLE#           L    -32  43-21 o55
+O.28   Iowa              W    +16  14-24 u47'
+N.07*  TOLEDO            L    -12  13-17 u54
+N.17*  C. MICHIGAN       W    +3'  31-10 u48'
+N.24   E. Michigan       W    -7'  27-0  u43'
+D.19*  Tcu               L    +12' 7-37  u46'
+(Poinsettia Bowl)
+NORTHWESTERN
+(SUR: 4-8 PSR: 5-6 O-U: 4-7)
+A.31*  Miami-Ohio        W    -4'  21-3  u56
+S.09   N. HAMP.                    17-34
+S.16   E. MICH.          L    -17' 14-6  u52'
+S.22*  Nevada            L    +7   21-31 o47
+S.30   Penn St.          L    +19' 7-33  u41'
+O.07   Wisconsin         L    +20' 9-41  o42'
+O.14   PURDUE            L    +7   10-31 u51'
+O.21   MICH. ST.#        W    +8   38-41 o48
+O.28   Michigan          W    +30  3-17  u44
+N.04   Iowa              W    +20  21-7  u45
+N.11   OHIO ST.          L    +22' 10-54 o42
+N.18   ILLINOIS          W    +2'  27-16 u47'
+NOTRE DAME
+(SUR: 10-3 PSR: 4-8-1 O-U: 8-5)
+S.02*  Ga. Tech          L    -7   14-10 u50'
+S.09   PENN ST.          W    -8'  41-17 o47
+S.16   MICHIGAN          L    -5   21-47 o50'
+S.23*  Michigan St.      N    -3   40-37 o59
+S.30   PURDUE            L    -14' 35-21 u61'
+O.07   STANFORD          L    -29' 31-10 u53
+O.21   UCLA              L    -13  20-17 u50
+O.28   Navy              W    -13' 38-14 o47
+(at Baltimore, MD)
+N.04   N. CAROLINA       L    -25  46-25 o52'
+N.11   Air Force         W    -11  39-17 o54
+N.18   ARMY              W    -30' 41-9  u54
+N.25*  Southern Cal      L    +8'  24-44 o56'
+J.03*  Lsu               L    +9   14-41 o55'
+(Sugar Bowl)
+OHIO (FT)
+(SUR: 9-5 PSR: 7-6 O-U: 4-9)
+S.02*  UT-MARTIN                   29-3
+S.09   N. Illinois       W    +16' 35-23 o45'
+S.16   Rutgers           L    +15' 7-24  u47
+S.23   Missouri          L    +21' 6-31  u47'
+S.30   B. GREEN          L    -6'  9-21  u46
+O.07   W. MICH.          W    +4   27-20 o41'
+O.14*  Illinois          W    +6'  20-17 u44
+O.21   BUFFALO#          W    -17' 42-7  o42
+O.28   Kent St.          W    +6'  17-7  u40
+N.04   E. Michigan       L    -6'  16-10 u39
+N.16*  AKRON             W    -5   17-7  u39'
+N.24   Miami-Ohio        W    -3   34-24 o38'
+N.30*  C. Michigan       L    +3'  10-31 u45'
+(at Detroit, MI)
+J.07*  Southern Miss     L    +6   7-28  u42
+(GMAC Bowl)
+OHIO STATE
+(SUR: 12-1 PSR: 9-4 O-U: 4-9)
+S.02   N. ILL            W    -17' 35-12 u49'
+S.09*  Texas             W    +2'  24-7  u51'
+S.16   CINCINNATI        W    -29  37-7  u46
+S.23   PENN ST.          W    -17  28-6  u44
+S.30*  Iowa              W    -6'  38-17 o43
+O.07   BOWLING GR.       L    -35' 35-7  u51
+O.14   Michigan St.      W    -14  38-7  u53
+O.21   INDIANA           W    -31  44-3  u52
+O.28   MINN.#            W    -27  44-0  u47
+N.04   Illinois          L    -25  17-10 u48
+N.11   Northwestern      W    -22' 54-10 o42
+N.18   MICHIGAN          L    -6'  42-39 o41
+J.08*  Florida           L    -7'  14-41 o46
+(BCS National Championship)
+OKLAHOMA
+(SUR: 11-3 PSR: 10-4 O-U: 5-9)
+S.02*  UAB               L    -22' 24-17 u41'
+S.09   WASH.             W    -16' 37-20 o44
+S.16   Oregon            W    +4'  33-34 o50'
+S.23*  M.TENN.ST.        W    -28' 59-0  o44
+O.07   Texas             L    +3'  10-28 u48
+(at Dallas, TX)
+O.14   IOWA ST.          W    -19  34-9  u50
+O.21*  COLORADO#         W    -13' 24-3  u39'
+O.28   Missouri          W    +1'  26-10 u45
+N.04*  Texas A&M         L    -2'  17-16 u47
+N.11*  TEX. TECH         W    -8'  34-24 o53
+N.18   Baylor            W    -20' 36-10 u52
+N.25   Okla. St.         W    -5'  27-21 u53'
+D.02*  Nebraska          W    -3'  21-7  u45'
+(at Kansas City, MO)
+J.01*  Boise St.-OT      L    -7'  42-43 o50
+(Fiesta Bowl)
+OKLAHOMA ST. (AT)
+(SUR: 7-6 PSR: 6-5-1 O-U: 8-4)
+S.02*  MIZZOU ST.                  52-10
+S.09*  Arkansas St.      W    -13  35-7  u46
+(at Little Rock, AR)
+S.16*  FLA ATL.          W    -29' 48-8  o46'
+S.23*  Houston           L    +2   25-34 o56'
+O.07   Kansas St.        L    -2'  27-31 o45
+O.14   Kansas            W    +2'  42-32 o51
+O.21*  T.A&M#-OT         L    -3   33-34 o58
+O.28   NEBRASKA          W    +5'  41-29 o54
+N.04   Texas             L    +18  10-36 u62'
+N.11   BAYLOR            W    -16' 66-24 o59'
+N.18   Texas Tech        N    +6   24-30 u67'
+N.25   OKLAHOMA          L    +5'  21-27 u53'
+D.28   Alabama           W    -2   34-31 o50
+(Independence Bowl)
+OREGON (FT)
+(SUR: 7-6 PSR: 6-6 O-U: 7-5)
+S.02   STANFORD          W    -12  48-10 o54'
+S.09*  Fresno St.        W    -3'  31-24 o54
+S.16   OKLAHOMA          L    -4'  34-33 o50'
+S.30   Arizona St.       W    +1'  48-13 u62'
+O.07*  California        L    +5   24-45 o60
+O.14   UCLA              W    -9'  30-20 u52
+O.21   Wash. St.         L    -3'  23-34 o51'
+O.28   PORT. ST.                   55-12
+N.04   WASH.#            W    -14' 34-14 u50
+N.11*  Southern Cal      L    +8   10-35 u55
+N.18   ARIZONA           L    -13' 10-37 o45'
+N.24   Oregon St.        W    +3   28-30 o51
+D.21*  Byu               L    +3   8-38  u60
+(Las Vegas Bowl)
+OREGON STATE (FT)
+(SUR: 10-4 PSR: 7-6 O-U: 4-9)
+A.31*  E. WASH                     56-17
+S.07*  Boise St.         L    +7'  14-42 u59
+S.23*  IDAHO             W    -25' 38-0  u54'
+S.30   CALIFORNIA        L    +9   13-41 u57
+O.07*  WASH. ST.         L    +3   6-13  u52
+O.14   Washington        W    +9   27-17 u46
+O.21*  Arizona           W    -2'  17-10 u38'
+O.28   SO. CAL           W    +10' 33-31 o46'
+N.04   ARIZ. ST.#        W    -2   44-10 o47
+N.11   Ucla              L    -1'  7-25  u47
+N.18   Stanford          W    -14' 30-7  u41'
+N.24   OREGON            L    -3   30-28 o51
+D.02*  Hawaii            W    +8   35-32 u70
+D.29   Missouri          L    -3'  39-38 o52'
+(Sun Bowl)
+PENN STATE
+(SUR: 9-4 PSR: 5-7 O-U: 4-8)
+S.02   AKRON             W    -17' 34-16 o43'
+S.09   Notre Dame        L    +8'  17-41 o47
+S.16   YOUNG. ST.                  37-3
+S.23   Ohio St.          L    +17  6-28  u44
+S.30   N'WESTERN         W    -19' 33-7  u41'
+O.07   Minn.-OT          L    -2'  28-27 o48'
+O.14*  MICHIGAN          L    +5   10-17 u40'
+O.21   ILLINOIS#         L    -18  26-12 u44
+O.28   Purdue            W    -3   12-0  u47'
+N.04   Wisconsin         L    +7   3-13  u38
+N.11   TEMPLE            W    -36' 47-0  o45'
+N.18   MICH ST.          L    -17' 17-13 u45'
+J.01   Tennessee         W    +4   20-10 u41
+(Outback Bowl)
+PITTSBURGH
+(SUR: 6-6 PSR: 5-6 O-U: 7-3-1)
+S.02*  VIRGINIA          W    -3'  38-13 o44'
+S.08*  Cincinnati        W    -7'  33-15 o43'
+S.16   MICH ST.          L    -2'  23-38 o52
+S.23   CITADEL                     51-6
+S.30   TOLEDO            W    -16' 45-3  n48
+O.07   Syracuse          W    -7   21-11 u42'
+O.13*  Ucf               W    -10' 52-7  o47
+O.21*  RUTGERS#          L    -6'  10-20 u44'
+N.04   South Florida     L    -4'  12-22 u44
+N.11   Conn.-OT          L    -8   45-46 o41
+N.16*  W. VIRGINIA       L    +10' 27-45 o53
+N.25   LOUISVILLE        L    +10' 24-48 o58'
+PURDUE (P.A.T.)
+(SUR: 8-6 PSR: 6-7 O-U: 5-8)
+S.02   INDIANA ST.                 60-35
+S.09   MIA-OH.-OT        L    -18  38-31 o53'
+S.16   BALL ST.          L    -17  38-28 o58'
+S.23   MINN.#            W    +2'  27-21 u62
+S.30   Notre Dame        W    +14' 21-35 u51
+O.07   Iowa              L    +11  17-47 o54
+O.14   Northwestern      W    -7   31-10 u51'
+O.21   WISCONSIN         L    +6'  3-24  u55
+O.28   PENN ST.          L    +3   0-12  u47'
+N.04   Michigan St.      W    +2'  17-15 u57
+N.11   Illinois          W    +3   42-31 o47
+N.18   INDIANA           L    -12  28-19 u59
+N.25*  Hawaii            W    +18' 35-42 o74
+D.29*  Maryland          L    -1   7-24  u53'
+(Champs Sports Bowl)
+RICE (AT)
+(SUR: 7-6 PSR: 9-4 O-U: 11-2)
+S.02*  HOUST             W    +14' 30-31 o52'
+S.09*  Ucla              W    +27' 16-26 u56
+S.16*  TEXAS             L    +32  7-52  o55
+(at Reliant Stadium)
+S.23   Florida St.       L    +30' 7-55  o47
+S.30   Army              W    +10' 48-14 o45'
+O.07   Tulane            L    -2'  24-38 o58
+O.14*  UAB               W    +5'  34-33 o48'
+O.21*  Ucf               W    +6   40-29 o55
+N.04*  Utep              W    +9   37-31 o59'
+N.11   Tulsa-OT          W    +14  41-38 o55
+N.18   E. CAR.#          W    +2'  18-17 u56'
+N.25   SMU               W    P    31-27 o54
+D.22*  Troy              L    -5   17-41 o53'
+(New Orleans Bowl)
+RUTGERS
+(SUR: 11-2 PSR: 9-3 O-U: 6-6)
+S.02   N. Carolina        W    +4'  21-16 u44'
+S.09   ILLINOIS          W    -10' 33-0  u51
+S.16   OHIO#             W    -15' 24-7  u47
+S.23   HOWARD                      56-7
+S.29*  South Florida     L    -3'  24-22 o41'
+O.14   Navy              W    +2'  34-0  u46
+O.21*  Pittsburgh        W    +6'  20-10 u44'
+O.29*  CONN.             L    -19' 24-13 u39'
+N.09*  LOUISVILLE        W    +6'  28-25 o51
+N.18   Cincinnati        L    -6'  11-30 o38
+N.25   SYRACUSE          W    -15  38-7  o39
+D.02   W. Va.-OT         W    +10' 39-41 o49'
+D.28*  Kansas State      W    -7'  37-10 o44'
+(Texas Bowl)
+SAN DIEGO STATE
+(SUR: 3-9 PSR: 4-7 O-U: 6-5)
+A.31*  UTEP              L    -2   27-34 o50
+S.16   Wisconsin         L    +13' 0-14  u47
+S.23*  UTAH              L    +9   7-38  o43
+S.30   San Jose St.      L    -2'  10-31 u46'
+O.07   Byu               L    +28  17-47 o47
+O.21*  AIR FORCE         W    +13  19-12 u45'
+O.28*  CAL POLY#                   14-16
+N.04   Wyoming           W    +15  24-27 o39
+N.11*  UNLV              W    -9   21-7  u44
+N.18   Tcu               L    +17  0-52  o40'
+N.25   New Mexico        L    +10' 14-41 o44'
+D.02*  COL. ST.          W    +1   17-6  u42
+SAN JOSE STATE
+(SUR: 9-4 PSR: 9-3 O-U: 3-9)
+S.02   Washington        W    +19' 29-35 o50
+S.09   STANFORD          W    +10  35-34 o53'
+S.23   C. POLY SLO                 17-7
+S.30   S DIEGO ST.       W    +2'  31-10 u46'
+O.14   UTAH ST.#         L    -16  21-14 u46
+O.21*  Nevada            L    +13  7-23  u54'
+O.28   LA. TECH          W    -9'  44-10 o53'
+N.04*  N. Mexico St.     W    -6   31-21 u61'
+N.11   BOISE ST.         W    +13' 20-23 u56
+N.18*  Hawaii            L    +25  17-54 u73
+N.25   Idaho             W    -6'  28-13 u51'
+D.02   FRESNO ST.        W    -4   24-14 u50
+D.23   New Mexico        W    +3'  20-12 u48'
+(New Mexico Bowl)
+SMU (FT)
+(SUR: 6-6 PSR: 6-5 O-U: 7-4)
+S.02*  Tex. Tech         L    +26  3-35  u53'
+S.09*  North Texas       L    -4'  6-24  u40
+S.16*  S. HOU. ST.                 45-14
+S.23*  ARK. ST.          W    -6'  55-9  o38'
+S.30*  Tulane            W    -3   33-28 o49'
+O.07*  Utep              W    +12  21-24 u57
+O.14   MARSHALL          W    -5   31-21 o44
+O.21   E. Carolina       L    +5'  21-38 o48
+O.31*  UAB               W    -5   22-9  u48
+N.11   HOUSTON           L    +3'  27-37 o54
+N.18   TULSA             W    +6   34-24 o48
+N.25   Rice              L    P    27-31 o54
+SOUTH CAROLINA
+(SUR: 8-5 PSR: 9-3 O-U: 8-4)
+A.31*  Miss St.          W    -6'  15-0  u40'
+S.09*  GEORGIA           L    +3   0-18  u39'
+S.16*  WOFFORD                     27-20
+S.23*  FLA. ATL.         W    -29  45-6  o42
+S.28*  AUBURN            W    +13' 17-24 o37'
+O.07*  Kentucky          W    -4'  24-17 u52
+O.21   Vanderbilt        W    -3'  31-13 o42
+O.28*  TENNESSEE         L    +3'  24-31 o44
+N.04   ARKANSAS#         L    +2'  20-26 o45'
+N.11   Florida           W    +13  16-17 u44
+N.18   M.TENN. ST.       W    -15' 52-7  o44
+N.25   Clemson           W    +5'  31-28 o46'
+D.29*  Houston           W    -5'  44-36 o56
+(Liberty Bowl)
+SOUTH FLORIDA
+(SUR: 9-4 PSR: 8-4 O-U: 3-9)
+S.02*  MCNEESE ST.                 41-10
+S.09*  FLA INTL.         L    -20  21-20 u42
+S.16   Ucf               W    -1   24-17 u44
+S.23*  Kansas            L    +4   7-13  u43
+S.29*  RUTGERS           W    +3'  20-22 o41'
+O.07*  CONN.             W    -6'  38-16 o39
+O.14   N. Carolina       W    -3   37-20 o44
+O.22*  Cincinnati        L    -1'  6-23  u42'
+N.04   PITT.#            W    +4'  22-12 u44
+N.11   SYRACUSE          W    -10  27-10 u40
+N.18*  Louisville        L    +17  8-31  u54
+N.25   West Virginia     W    +21  24-19 u54
+D.23   East Carolina     W    -5   24-7  u43
+(Papajohns.com Bowl)
+SOUTHERN CAL
+(SUR: 11-2 PSR: 7-6 O-U: 5-8-1)
+S.02*  Arkansas          W    -7'  50-14 o50'
+S.16*  NEBRASKA          W    -17' 28-10 u56'
+S.23*  Arizona           L    -21  20-3  u48
+S.30   Wash. St.         L    -16' 28-22 n50
+O.07   WASH.             L    -19  26-20 u49
+O.14*  ARIZ. ST.         L    -19  28-21 u54'
+O.28   Oregon St.        L    -10' 31-33 o46'
+N.04*  Stanford          W    -29  42-0  u48
+N.11*  OREGON#           W    -8   35-10 u55
+N.18*  CALIFORNIA        W    -5'  23-9  u54
+N.25*  N. DAME           W    -8'  44-24 o56'
+D.02   Ucla              L    -12' 9-13  u47'
+J.01   MICHIGAN          W    P    32-18 o47
+(Rose Bowl)
+SOUTHERN MISS (AT)
+(SUR: 9-5 PSR: 6-7 O-U: 6-6-1)
+S.02*  Florida           L    +20  7-34  u47
+S.09*  SE LA.                      45-0
+S.16*  NC ST.            W    -3   37-17 o38'
+S.26*  Ucf               L    -6   19-14 u47
+O.03*  Tulsa             L    +5'  6-20  u46
+O.14*  HOUSTON#          W    -1'  31-27 o48
+O.21   Virginia Tech     L    +17  6-36  o41'
+O.28*  E. CAR.-OT        L    -6   17-20 u46'
+N.05*  Memphis           W    -7   42-21 o46
+N.11   Tulane            W    -6   31-3  u53'
+N.18*  UAB               L    -14' 25-20 o44'
+N.25   MARSHALL          W    -7   42-7  n49
+D.01*  Houston           L    +5   20-34 o53'
+J.07*  Ohio              W    -6   28-7  u42
+(GMAC Bowl)
+STANFORD
+(SUR: 1-11 PSR: 3-9 O-U: 2-10)
+S.02   Oregon            L    +12  10-48 o54'
+S.09   San Jose St.      L    -10  34-35 o53'
+S.16*  NAVY              L    -1   9-37  u57'
+S.23   WASH. ST.         L    +10  10-36 u53'
+S.30   Ucla              L    +23' 0-31  u51'
+O.07   Notre Dame        W    +29' 10-31 u53
+O.14   ARIZONA#          L    +3'  7-20  u39
+O.21   Arizona St.       L    +23' 3-38  u47
+N.04   S. CAL            L    +29  0-42  u48
+N.11   Washington        W    +19  20-3  u41'
+N.18   OREGON ST.        L    +14' 7-30  u41'
+D.02   California        W    +29' 17-26 u47
+SYRACUSE (AT)
+(SUR: 4-8 PSR: 8-4 O-U: 5-7)
+S.02*  W. Forest         W    +14  10-20 u44
+S.09   IOWA-OT           W    +18  13-20 u40
+S.16   Illinois          W    +3'  31-21 o39
+S.23*  MIAMI-OHIO        W    -7   34-14 o42
+S.30   WYM.-OT           W    -5   40-34 o37'
+O.07   PITT.#            L    +7   11-21 u42'
+O.14   West Virginia     W    +25' 17-41 o49
+O.21   LOUISVILLE        W    +17' 13-28 u54
+O.28   Cincinnati        L    +6'  3-17  u37'
+N.11   South Florida     L    +10  10-27 u40
+N.18   CONN.             W    -1'  20-14 u40'
+N.25   Rutgers           L    +15  7-38  o39
+TCU
+(SUR: 11-2 PSR: 8-4 O-U: 6-6)
+S.03*  Baylor            W    -7   17-7  u48
+S.09*  UC DAVIS                    46-13
+S.16*  TEX. TECH         W    +1'  12-3  u54'
+S.28*  BYU               L    -5'  17-31 o47
+O.05*  Utah              L    +2   7-20  u40'
+O.21   Army              W    -12  31-17 o39'
+O.28*  WYOMING#          W    -6'  26-3  u38'
+N.04   Unlv              L    -20  25-10 u43
+N.11   New Mexico        L    -6'  27-21 o41
+N.18   S.DIEGO ST.       W    -17  52-0  o40'
+N.25*  Colorado St.      W    -9'  45-14 o40'
+D.02   AIR FORCE         W    -17  38-14 o50
+D.19*  N. Illinois       W    -12' 37-7  u46'
+(Poinsettia Bowl)
+TEMPLE
+(SUR: 1-11 PSR: 5-6-1 O-U: 8-4)
+A.31*  Buffalo-OT        N    +6   3-9   u44
+S.09   LOUISVILLE        L    +40  0-62  o57'
+S.16   Minnesota         L    +41' 0-62  o54
+S.23*  W. Michigan       L    +30  7-41  o47
+S.30*  Vanderbilt        W    +33' 14-43 o42'
+O.07   KENT ST.          W    +24  17-28 u45'
+O.12*  Clemson           L    +45  9-63  o56
+(at Charlotte, NC)
+O.21   N. Illinois       W    +32  21-43 o55
+O.28   B. GREEN#         W    +17  28-14 u49
+N.04   C. MICH.          W    +19  26-42 o49'
+N.11   Penn St.          L    +36' 0-47  o45'
+N.18   Navy              L    +32  6-42  u56
+TENNESSEE
+(SUR: 9-4 PSR: 7-5-1 O-U: 6-7)
+S.02*  CAL               W    +2'  35-18 o43
+S.09*  AIR FORCE         L    -20  31-30 o47
+S.16*  FLORIDA           W    +3'  20-21 u45'
+S.23*  MARSHALL#         W    -21' 33-7  u42'
+S.30   Memphis           W    -13' 41-7  o45'
+O.07*  Georgia           W    -2'  51-33 o37'
+O.21   ALABAMA           L    -11  16-13 u44
+O.28*  S. Carolina       W    -3'  31-24 o44
+N.04   LSU               N    +4   24-28 o45
+N.11*  Arkansas          L    +5'  14-31 u47
+N.18   Vanderbilt        W    -8   39-10 u49'
+N.25   KENTUCKY          L    -20' 17-12 u60
+J.01   Penn State        L    -4   10-20 u41
+(Outback Bowl)
+TEXAS (P.A.T.)
+(SUR: 10-3 PSR: 5-7 O-U: 5-7)
+S.02   N. TEXAS           W    -41' 56-7  o54
+S.09*  OHIO ST.          L    -2'  7-24  u51'
+S.16*  Rice              W    -32  52-7  o55
+(at Reliant Stadium)
+S.23   IOWA ST.          L    -25' 37-14 u54
+S.30   SAM HOU. ST.                56-3
+O.07   Oklahoma          W    -3'  28-10 u48
+(at Dallas, TX)
+O.14*  BAYLOR#           W    -27  63-31 o49
+O.21   Nebraska          L    -5'  22-20 u48
+O.28*  Texas Tech        L    -10' 35-31 o55'
+N.04   OKL. ST.          W    -18  36-10 u62'
+N.11*  Kansas St.        L    -16  42-45 o49
+N.24   TEXAS A&M         L    -13' 7-12  u56'
+D.30   IOWA              L    -9   24-26 u53'
+(Alamo Bowl)
+TEXAS A&M
+(SUR: 9-4 PSR: 8-3-1 O-U: 6-5-1)
+S.02*  CITADEL                     35-3
+S.09*  LA.-LAFAY.        W    -21' 51-7  o52'
+S.16*  ARMY              L    -27' 28-24 o48'
+(at San Antonio, TX)
+S.23*  LA. TECH          W    -23' 45-14 n59
+S.30*  TEX. TECH         L    -2'  27-31 o56
+O.07   Kansas            W    -1'  21-18 u52'
+O.14   MISSOURI          W    +1'  25-19 u51
+O.21*  Okl. St.-OT       W    +3   34-33 o58
+O.28*  Baylor            W    -4'  31-21 u54
+N.04*  OKLAHOMA          W    +2'  16-17 u47
+N.11   NEBRASKA          N    +1   27-28 o52'
+N.24   Texas             W    +13' 12-7  u56'
+D.28*  California        L    +4   10-45 o52'
+(Holiday Bowl)
+TEXAS TECH (FT)
+(SUR: 8-5 PSR: 5-6-1 O-U: 8-4)
+S.02*  SMU               W    -26  35-3  u53'
+S.09*  Utep-OT           L    -7   38-35 o57'
+S.16*  Tcu               L    -1'  3-12  u54'
+S.23*  SE LA.                      62-0
+S.30*  Texas A&M         W    +2'  31-27 o56
+O.07*  MISSOURI#         L    -5   21-38 o55'
+O.14   Colorado          L    -7   6-30  u48
+O.21   Iowa St.          W    -2'  42-26 o52
+O.28*  TEXAS             W    +10' 31-35 o55'
+N.04   BAYLOR            W    -17  55-21 o57
+N.11*  Oklahoma          L    +8'  24-34 o53
+N.18   OKL. ST.          N    -6   30-24 u67'
+D.29*  Minn.-OT          L    -7'  44-41 o64'
+(Insight Bowl)
+TOLEDO (AT)
+(SUR: 5-7 PSR: 5-6 O-U: 6-4-1)
+A.31*  Iowa St.-OT       W    +9   43-45 o55'
+S.09*  W. Mich           L    -10' 10-31 u50
+S.15*  KANSAS-OT         W    -4'  37-31 o49
+S.23*  MCNEESE ST.                 41-7
+S.30   Pittsburgh        L    +16' 3-45  n48
+O.07*  C. MICH.#         L    -2'  20-42 o53
+O.14*  Kent St.          L    +7   14-40 o47
+O.21   E. Michigan       L    +1   13-17 u48'
+O.28*  AKRON             W    +4   35-20 o45'
+N.07*  N. Illinois       W    +12  17-13 u54
+N.14*  BALL ST.          L    -4'  17-20 u54'
+N.21*  B. GREEN          W    -6'  31-21 o47
+TROY (AT)
+(SUR: 8-5 PSR: 7-5 O-U: 7-5)
+S.02*  ALABAMA ST.                 38-0
+S.09*  Florida St.       W    +28  17-24 u44'
+S.16   Georgia Tech      W    +17' 20-35 o38
+S.23*  Nebraska          L    +24  0-56  o48
+S.30*  Uab               L    +6   3-21  u40'
+O.14   LA.-MONROE        L    -9'  24-19 o41'
+O.28   N. TEXAS          L    -10' 14-6  u39
+N.04   LA.-LAFAY.#       W    P    42-28 o42
+N.11*  Fla. Atlantic     W    -3'  24-17 o40'
+N.18*  ARK. ST.          L    -8   26-33 o40'
+N.25   Mid. Tenn. St.    W    +8   21-20 u44'
+D.02*  Florida Intl.     W    -10' 26-13 u40
+D.22*  Rice              W    +5   41-17 o53'
+(New Orleans Bowl)
+TULANE (AT)
+(SUR: 4-8 PSR: 4-8 O-U: 7-5)
+S.09*  Houston           L    +14  7-45  u52'
+S.16*  Miss. St.         W    +11  32-29 o38
+S.23*  Lsu               L    +36' 7-49  o49
+S.30*  SMU               L    +3   28-33 o49'
+O.07   RICE              W    +2'  38-24 o58
+O.14*  Utep              L    +13  20-34 u61
+O.21   Auburn            W    +30  13-38 o49
+O.28   ARMY#             W    -5   42-28 o50'
+N.04*  Marshall          L    +5'  21-42 o57'
+N.11   SO. MISS          L    +6   3-31  u53'
+N.18   UCF               L    -2'  10-9  u57'
+N.24   Tulsa             L    +17  3-38  u52
+TULSA (FT)
+(SUR: 8-5 PSR: 6-6 O-U: 3-9)
+A.31*  S.  AUSTIN                  45-7
+S.09   Byu               L    +4'  24-49 o52
+S.16*  N. TEXAS#         W    -19' 28-3  u47'
+S.23   Navy-OT           W    +4'  24-23 u52
+O.03*  S. MISS.          W    -5'  20-6  u46
+O.14   East Carolina     W    -2'  31-10 u48
+O.21*  Memphis           W    -13' 35-14 u50
+O.27*  UTEP              L    -14' 30-20 u54'
+N.04   Houston           L    -3   10-27 u55
+N.11   RICE-OT           L    -14  38-41 o55
+N.18   Smu               L    -6   24-34 o48
+N.24   TULANE            W    -17  38-3  u52
+D.23*  Utah              L    +2   13-25 u49
+(Armed Forces Bowl)
+UAB
+(SUR: 3-9 PSR: 4-8 O-U: 6-6)
+S.02*  Oklahoma          W    +22' 17-24 u41'
+S.09*  E. CAR            L    -6'  17-12 u47'
+S.16   Georgia           L    +17  0-34  u38'
+S.23*  MISS.ST.-OT       L    -9'  10-16 u37'
+S.30*  TROY#             W    -6   21-3  u40'
+O.07*  MEMPHIS           W    -5'  35-29 o41'
+O.14*  Rice              L    -5'  33-34 o48'
+O.21*  MARSHALL          L    -6   24-31 o45'
+O.31*  Smu               L    +5   9-22  u48
+N.10*  UTEP              L    -2   17-36 o51'
+N.18*  So. Miss          W    +14' 20-25 o44'
+N.25   Ucf               L    +3   22-31 o46'
+UCF
+(SUR: 4-8 PSR: 4-7 O-U: 5-6)
+S.02*  VILLANOVA                   35-16
+S.09*  Florida           L    +22' 0-42  u50
+S.16   S FLORIDA         L    +1   17-24 u44
+S.26*  SO. MISS          W    +6   14-19 u47
+O.04*  Marshall          W    +3'  23-22 o44
+O.13*  PITT.             L    +10' 7-52  o47
+O.21*  RICE              L    -6   29-40 o55
+O.28   Houston           L    +17  31-51 o57
+N.04*  E. CAR.#          L    +5'  10-23 u55
+N.11*  Memphis           L    -2'  26-24 u56'
+N.18   Tulane            W    +2'  9-10  u57'
+N.25   UAB               W    -3   31-22 o46'
+UCLA
+(SUR: 7-6 PSR: 8-5 O-U: 3-10)
+S.02*  UTAH              W    -3   31-10 u53
+S.09*  RICE              L    -27' 26-16 u56
+S.23*  Washington        L    -3   19-29 u51
+S.30   STANFORD          W    -23' 31-0  u51'
+O.07*  ARIZONA           W    -12  27-7  u40
+O.14   Oregon            L    +9'  20-30 u52
+O.21   Notre Dame        W    +13  17-20 u50
+O.28*  WASH. ST.#        L    -2   15-37 o44
+N.04*  California        W    +17' 24-38 o51'
+N.11   OREGON ST.        W    +1'  25-7  u47
+N.18*  Arizona St.       W    +5   24-12 u52
+D.02   SO. CAL           W    +12' 13-9  u47'
+D.27*  Florida State     L    -3'  27-44 o39
+(Emerald Bowl)
+UNLV (AT)
+(SUR: 2-10 PSR: 4-7 O-U: 5-6)
+S.02*  IDAHO ST.                   54-10
+S.09*  Iowa St.          W    +14  10-16 u54
+S.16*  Hawaii            L    +12' 13-42 u57'
+S.30*  NEVADA            L    +3'  3-31  u48'
+O.07*  Colorado St.      L    +17  7-28  u43'
+O.14*  N. MEX.-OT        L    +2'  36-39 o38
+O.21   Byu               L    +28' 7-52  o55
+O.28   Utah              L    +21' 23-45 o45
+N.04   TCU#              W    +20  10-25 u43
+N.11*  S. Diego St.      L    +9   7-21  u44
+N.18   WYOMING           W    +9'  26-34 o42'
+N.24*  AIR FORCE         W    +10' 42-39 o47'
+UTAH (FT)
+(SUR: 8-5 PSR: 8-4 O-U: 7-5)
+S.02*  Ucla              L    +3   10-31 u53
+S.09*  N.ARIZONA                   45-7
+S.16*  Utah St.          W    -20  48-0  o44'
+S.23*  San Diego St.     W    -9   38-7  o43
+S.30   BOISE ST.#        L    -5   3-36  u51
+O.05*  TCU               W    -2   20-7  u40'
+O.14   Wyoming           L    -3'  15-31 o40
+O.19*  New Mexico        L    -6   31-34 o41
+O.28   UNLV              W    -21' 45-23 o45
+N.11   COL. ST.          W    -12  35-22 o43
+N.18*  Air Force         W    -1   17-14 u51'
+N.25   BYU               W    +10' 31-33 o54'
+D.23*  Tulsa             W    -2   25-13 u49
+(Armed Forces Bowl)
+UTAH STATE (AT)
+(SUR: 1-11 PSR: 3-9 O-U: 6-6)
+S.02   Wyoming           L    +12' 7-38  u46
+S.09*  Arkansas          W    +28' 0-20  u48
+S.16*  UTAH              L    +20  0-48  o44'
+S.23   Byu               L    +27  0-38  u48'
+S.30   IDAHO             L    +2'  21-41 o42'
+O.07*  FRESNO ST.#       W    +26' 13-12 u46
+O.14   San Jose St.      W    +16  14-21 u46
+O.21*  La. Tech          L    +6   35-48 o46'
+N.04   HAWAII            L    +26' 10-63 o67
+N.11   Nevada            L    +29  0-42  u50'
+N.18   Boise St.         L    +38  10-49 o56
+N.25   N. MEX. ST.       L    +6'  20-42 o54'
+UTEP (AT)
+(SUR: 5-7 PSR: 5-7 O-U: 6-6)
+A.31*  S Diego St.       W    +2   34-27 o50
+S.09*  TX. TECH-OT       W    +7   35-38 o57'
+S.23   New Mexico        L    -9'  13-26 u54'
+S.30*  N. MEX. ST.        L    -16' 44-38 o59
+O.07*  SMU               L    -12  24-21 u57
+O.14*  TULANE            W    -13  34-20 u61
+O.21*  Houston           L    +6'  17-34 u60'
+O.27*  Tulsa             W    +14' 20-30 u54'
+N.04*  RICE#             L    -9   31-37 o59'
+N.10*  Uab               W    +2   36-17 o51'
+N.18*  Marshall          L    +3   21-49 o55'
+N.25*  MEMPHIS           L    -12  19-38 u60
+VANDERBILT
+(SUR: 4-8 PSR: 6-5 O-U: 7-4)
+S.02   Michigan          W    +26  7-27  u47'
+S.09   Alabama           W    +15  10-13 u41
+S.16*  ARKANSAS          W    +5'  19-21 o38'
+S.23*  TENN. ST.                   38-9
+S.30*  TEMPLE            L    -33' 43-14 o42'
+O.07   Mississippi       L    -1'  10-17 u38'
+O.14   Georgia           W    +14  24-22 o38'
+O.21   S. CAR.#          L    +3'  13-31 o42
+O.28   Duke              W    -8   45-28 o40'
+N.04   FLORIDA           W    +16' 19-25 o43
+N.11   Kentucky          L    +2   26-38 o53
+N.18   TENNESSEE         L    +8   10-39 u49'
+VIRGINIA (P.A.T.)
+(SUR: 5-7 PSR: 5-5-2 O-U: 4-8)
+S.02*  Pittsburgh        L    +3'  13-38 o44'
+S.09   WYO-OT            L    -8'  13-12 u45'
+S.16   W. MICH.#         L    -10  10-17 u44'
+S.21*  Georgia Tech      N    +17  7-24  u39'
+S.30   Duke              W    -5'  37-0  o36'
+O.07*  East Carolina     L    -6'  21-31 o43
+O.14   MARYLAND          W    +3'  26-28 o39
+O.19*  N. CAR.           W    -6   23-0  u41'
+O.28   N. CAR. ST.       W    -1'  14-7  u37
+N.04   Florida St.       L    +13  0-33  u41
+N.18   MIA.-FLA.         W    +3   17-7  u37
+N.25   Virginia Tech     N    +17  0-17  u36'
+VIRGINIA TECH
+(SUR: 10-3 PSR: 6-5-1 O-U: 4-7-1)
+S.02   N'EASTERN                   38-0
+S.09   N. Carolina       W    -13  35-10 o41
+S.16   DUKE              W    -35  36-0  u44'
+S.23   CINCINNATI        L    -27' 29-13 n42
+S.30*  GA. TECH          L    -9'  27-38 o37'
+O.12*  Boston Coll.      L    -2'  3-22  u42
+O.21*  S. MISS#          W    -17  36-6  o41'
+O.26*  CLEMSON           W    +4   24-7  u42'
+N.04*  Miami-Florida     W    -2   17-10 u37'
+N.11   KENT ST.          L    -30' 23-0  u41'
+N.18   Wake Forest       W    P    27-6  u37'
+N.25   VIRGINIA          N    -17  17-0  u36'
+D.30*  Georgia           L    -2'  24-31 o37'
+(Chick-fil-A Bowl)
+WAKE FOREST (FT)
+(SUR: 11-3 PSR: 8-5 O-U: 2-11)
+S.02*  SYRACUSE          L    -14  20-10 u44
+S.09   DUKE              L    -20' 14-13 u38'
+S.16   Connecticut       W    +6   24-13 u42
+S.23*  Mississippi       W    +2'  27-3  u40
+S.30   LIBERTY#                    34-14
+O.07   CLEMSON           W    +16  17-27 u46'
+O.14   N. Car. St.       W    +3   25-23 o39'
+O.28   North Carolina    L    -8   24-17 u41'
+N.04*  BOSTON COL.       W    +4   21-14 u40'
+N.11*  Florida St.       W    +8'  30-0  u42'
+N.18   VA. TECH          L    P    6-27  u37'
+N.25*  Maryland          W    +1'  38-24 o39'
+D.02   Georgia Tech      W    +2   9-6   u40
+(at Jacksonville, FL)
+J.02*  Louisville        L    +10  13-24 u52
+(Orange Bowl)
+WASHINGTON (FT)
+(SUR: 5-7 PSR: 6-6 O-U: 4-8)
+S.02   S JOSE ST.        L    -19' 35-29 o50
+S.09   Oklahoma          L    +16' 20-37 o44
+S.16   FRESNO ST.        W    +3'  21-20 u53
+S.23   UCLA              W    +3   29-19 u51
+S.30*  Arizona           W    +3'  21-10 u41
+O.07   Southern Cal      W    +19  20-26 u49
+O.14   OREGON ST.        L    -9   17-27 u46
+O.21   California-OT     W    +23  24-31 o52
+O.28*  AZ. ST.#-OT       L    +1'  23-26 u49'
+N.04   Oregon            L    +14' 14-34 u50
+N.11   STANFORD          L    -19  3-20  u41'
+N.18   Wash. St.         W    +8'  35-32 o43
+WASHINGTON ST. (FT)
+(SUR: 6-6 PSR: 6-6 O-U: 7-4-1)
+S.02*  Auburn            L    +14' 14-40 o50
+S.09   IDAHO             W    -17' 56-10 o53'
+S.16   BAYLOR            L    -13  17-15 u51'
+(at Seattle, WA)
+S.23   Stanford          W    -10  26-10 u53'
+S.30   S. CAL            W    +16' 22-28 n50
+O.07*  Oregon St.        W    -3   13-6  u52
+O.14   CAL.#             L    +9   3-21  u55'
+O.21   OREGON            W    +3'  34-23 o51'
+O.28*  Ucla              W    +2   37-15 o44
+N.04   ARIZONA           L    -16  17-27 o39'
+N.11*  Arizona St.       L    -1   14-47 o50
+N.18   WASH.             L    -8'  32-35 o43
+WEST VIRGINIA (AT)
+(SUR: 11-2 PSR: 5-6-1 O-U: 9-3)
+S.02   MARSHALL          W    -22  42-10 o47'
+S.09   E. WASH                     52-3
+S.14*  MARYLAND          W    -17  45-24 o48
+S.23*  East Carolina     L    -21  27-10 u56
+O.07   Miss. St.         W    -21  42-14 o49
+O.14   SYRACUSE#         L    -25' 41-17 o49
+O.20*  Connecticut       W    -23  37-11 u49
+N.02*  Louisville        L    +1'  34-44 o56'
+N.11   CINCINNATI        N    -18  42-24 o46'
+N.16*  Pittsburgh        W    -10' 45-27 o53
+N.25   S. FLORIDA        L    -21  19-24 u54
+D.02   RUTGERS-OT        L    -10' 41-39 o49'
+J.01   Georgia Tech      L    -10' 38-35 o47
+(Gator Bowl)
+WESTERN MICHIGAN (FT)
+(SUR: 8-5 PSR: 8-5 O-U: 7-6)
+S.02*  Indiana           L    +6'  20-39 o52
+S.09*  TOLEDO            W    +10' 31-10 u50
+S.16   Virginia          W    +10  17-10 u44'
+S.23*  TEMPLE            W    -30  41-7  o47
+O.07   Ohio              L    -4   20-27 o41'
+O.14   N. ILLINOIS#      W    +3   16-14 u51
+O.21   Ball St.          W    -3   41-27 o52
+O.28   E. MICH.          L    -15  18-15 u42'
+N.04   MIAMI-OHIO        L    -12' 27-24 o44
+N.10*  C. Michigan       L    +6   7-31  u47
+N.18   Florida St.       W    +16' 20-28 o44
+N.24   Akron             W    +2   17-0  u44'
+J.06   Cincinnati        W    +7   24-27 o42
+(International Bowl)
+WISCONSIN (AT)
+(SUR: 12-1 PSR: 9-2-1 O-U: 5-7)
+S.02*  B. Green          W    -10' 35-14 u50
+(at Cleveland, OH)
+S.09   W. ILL                      34-10
+S.16   S DIEGO ST.       W    -13' 14-0  u47
+S.23   Michigan          N    +14  13-27 u42
+S.30   Indiana           W    -10' 52-17 o42
+O.07   N'WESTERN         W    -20' 41-9  o42'
+O.14   MINN.#            W    -8   48-12 o50
+O.21   Purdue            W    -6'  24-3  u55
+O.28   ILLINOIS          L    -21  30-24 o45
+N.04   PENN ST.          W    -7   13-3  u38
+N.11   Iowa              W    -1'  24-21 o38'
+N.18   BUFFALO           L    -38  35-3  u46'
+J.01   Arkansas          W    +2   17-14 u45
+(Capital One Bowl)
+WYOMING
+(SUR: 6-6 PSR: 6-6 O-U: 6-6)
+S.02   UTAH ST.          W    -12' 38-7  u46
+S.09   Virginia-OT       W    +8'  12-13 u45'
+S.16   BOISE ST.         W    +7'  10-17 u50
+S.23   AIR FORCE         L    P    24-31 o48'
+S.30   Syracuse-OT       L    +5   34-40 o37'
+O.07*  New Mexico        W    -1'  14-10 u42
+O.14   UTAH#             W    +3'  31-15 o40
+O.21   COL. ST.          W    -4   24-0  u40
+O.28*  Tcu               L    +6'  3-26  u38'
+N.04   S. DIEGO ST.      L    -15  27-24 o39
+N.09*  Byu               L    +18' 7-55  o47
+N.18   Unlv              L    -9'  34-26 o42'
