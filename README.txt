@@ -1,3 +1,5 @@
+INCOMPLETE - ABANDONED DUE TO COVID AFFECT ON COLLEGE FOOTBALL
+
 Step 1) compileBettingLines.py and txtToCsv.py create CSVs of betting data with game results; advStatsCleanUp.py and adjAdvStatsCleanUp.py create respective forward looking season average CSVs for S&P+ stats
 Step 2) eloRating.py uses betting CSVs to create Elo rankings starting in 1999 and includes them in the betting CSVs
 Step 3) combineFwdLookingStats.py to merge base S&P+ stats with my adjusted S&P+ stats
