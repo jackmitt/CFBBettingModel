@@ -19,7 +19,7 @@ for index, row in teamDf.iterrows():
 #Adding Idaho Manually since they are no longer FBS
 d1Teams.append("Idaho")
 years = []
-start = 2003
+start = 2014
 while (start != 2020):
     years.append(start)
     start += 1
@@ -30,7 +30,7 @@ for year in years:
         for col in stats.columns:
             if (col != "gameId" and col != "week" and col != "team" and col != "opponent"):
                 masterDict[standardizeTeamName(d1,True)][col] = []
-    stats = pd.read_csv('./csv_Data/advStatsgame/' + str(year) + '.csv', encoding = "ISO-8859-1")
+    stats = pd.read_csv('./new_csv_Data/advStatsgame/' + str(year) + '.csv', encoding = "ISO-8859-1")
     betting = pd.read_csv('./csv_Data/BettingResults+Elo/' + str(year) + '.csv', encoding = "ISO-8859-1")
     for index1, row1 in stats.iterrows():
         print (index1)
@@ -75,7 +75,7 @@ for year in years:
 
 
     dfFinal = pd.DataFrame.from_dict(final)
-    dfFinal.to_csv("./csv_Data/adjAdvStatsFwdLooking/" + str(year) + ".csv")
+    dfFinal.to_csv("./new_csv_Data/adjAdvStatsFwdLooking/" + str(year) + ".csv")
     for key in final:
         final[key] = []
     print (year)

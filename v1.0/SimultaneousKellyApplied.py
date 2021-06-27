@@ -55,7 +55,7 @@ def log_growth_gradients(pa, pb, wager):
         toAvg2 = []
         for j in range(1):
             #epsilon = random.gauss(0, wager[i])
-            epsilon = 0.001
+            epsilon = 0.01
             xNew = wager[i] + epsilon
             newWager = wager.copy()
             newWager[i] = xNew
@@ -66,34 +66,38 @@ def log_growth_gradients(pa, pb, wager):
         growthRates.append(np.average(toAvg2))
     return (gradients, growthRates)
 
-def gradient_ascent(pa, pb, kellyWagers):
+def gradient_ascent(pa, pb, kellyWagers, max_iter = 10000, verbose = True):
     bankrollConstraint = min(np.sum(kellyWagers), 1)
     wager = kellyWagers.copy()
     learningRates = []
     for i in range(len(pa)):
-        learningRates.append([10, True])
+        learningRates.append([5, True])
 
     iterCount = 1
-    while(np.average(learningRates)*2 < 100000 and iterCount < 10000):
-        print ("Iteration: " + str(iterCount))
+    while(np.average(learningRates)*2 < 100000 and iterCount < max_iter):
+        if (verbose):
+            print ("Iteration: " + str(iterCount))
         iterCount += 1
         #rngIndex = random.randint(0, len(wager)-1)
         #eq 18
         t = np.log(wager)
         gradients, logGrowths = log_growth_gradients(pa, pb, wager)
-        print ("Average learning rate:", np.average(learningRates)*2)
+        if (verbose):
+            print ("Average learning rate:", np.average(learningRates)*2)
         weightedSumGradients = 0
         for i in range(len(gradients)):
-            if (gradients[i] < 0):
-                if (not learningRates[i][1]):
-                    learningRates[i][0] = learningRates[i][0]*1.05
-                else:
-                    learningRates[i][0] = learningRates[i][0]*0.95
-            else:
-                if (learningRates[i][1]):
-                    learningRates[i][0] = learningRates[i][0]*1.05
-                else:
-                    learningRates[i][0] = learningRates[i][0]*0.95
+            # if (gradients[i] < 0):
+            #     if (not learningRates[i][1]):
+            #         learningRates[i][0] = learningRates[i][0]*1.05
+            #     else:
+            #         learningRates[i][0] = learningRates[i][0]*0.95
+            #     learningRates[i][1] = False
+            # else:
+            #     if (learningRates[i][1]):
+            #         learningRates[i][0] = learningRates[i][0]*1.05
+            #     else:
+            #         learningRates[i][0] = learningRates[i][0]*0.95
+            #     learningRates[i][1] = True
             weightedSumGradients += gradients[i]*wager[i]
         #eq 19
         dt = []
@@ -108,18 +112,33 @@ def gradient_ascent(pa, pb, kellyWagers):
         #eq 15
         for i in range(len(wager)):
             wager[i] = np.exp(t[i])/(np.sum(np.exp(t)) + (1-bankrollConstraint))
-
-        print (wager)
-        print ("TOTAL BANKROLL BET: " + str(np.sum(wager)))
+        if (verbose):
+            print (wager)
+            print ("TOTAL BANKROLL BET: " + str(np.sum(wager)))
     return (wager)
 
 
-a = pd.read_csv('./csv_Data/whitrowT2.csv', encoding = "ISO-8859-1")
-pa = a["p"].to_numpy()
-pb = a["pSquiggle"].to_numpy()
-wager = a["kellyPct"].to_numpy()
+a = pd.read_csv('./csv_Data/betsForOptimization.csv', encoding = "ISO-8859-1")
+pa = []
+pb = []
+wager = []
+for index, row in a.iterrows():
+    if (int(row["Week"]) != 5):
+        break
+    if (row["PFITSSpread"] > 0.5122):
+        pa.append(row["PFITSSpread"])
+        pb.append(0.5122)
+        wager.append((row["PFITSSpread"] - 0.5122)/0.4878)
+    if (row["PFITSTotal"] > 0.5122):
+        pa.append(row["PFITSTotal"])
+        pb.append(0.5122)
+        wager.append((row["PFITSTotal"] - 0.5122)/0.4878)
 
-a["OUR ALGO"] = gradient_ascent(pa, pb, wager)
-a.to_csv("./csv_Data/whitrowT1.csv")
+#pa = pa.to_numpy()
+#pb = pb.to_numpy()
+#wager = wager.to_numpy()
+
+gradient_ascent(pa, pb, wager)
+# a.to_csv("./csv_Data/whitrowT1.csv")
 #print("Simplex expected log growth:", expected_log_growth(a["p"].to_numpy(), a["pSquiggle"].to_numpy(), a["simplexPct"].to_numpy()))
 #print("Constrained expected log growth:", expected_log_growth(a["p"].to_numpy(), a["pSquiggle"].to_numpy(), a["constrainedPct"].to_numpy()))

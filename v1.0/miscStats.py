@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 from cfbFcns import standardizeTeamName
-import CFBScrapy as cfb
 import os.path
 from os import path
 
@@ -59,7 +58,7 @@ for year in years:
                 if (row["category"] == "possessionTime"):
                     dict[str(year)][standardizeTeamName(row["school"],False)]["Week " + str(w)]["TOP"] = int(row["stat"].split(":")[0])*60 + int(row["stat"].split(":")[1])
                     top = int(row["stat"].split(":")[0])*60 + int(row["stat"].split(":")[1])
-bigboy = pd.read_csv('./csv_Data/bigboy.csv', encoding = "ISO-8859-1")
+bigboy = pd.read_csv('./new_csv_Data/bigboy.csv', encoding = "ISO-8859-1")
 pf = []
 pa = []
 com = []
@@ -188,4 +187,4 @@ bigboy["Opponent Completion Pct"] = opct
 bigboy["Avg TOP"] = poss
 bigboy["Avg Opponent TOP"] = oposs
 
-bigboy.to_csv("./csv_Data/bigboy.csv")
+bigboy.to_csv("./new_csv_Data/bigboy.csv")

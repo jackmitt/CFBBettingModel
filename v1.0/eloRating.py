@@ -3,6 +3,8 @@ import numpy as np
 import operator
 from cfbFcns import standardizeTeamName
 
+#UPDATE JULY 2020: PARTS ARE MESSED UP - REVIEW LINES 169-174 FOR EXAMPLE
+
 curElo = {}
 teamDf = pd.read_csv('./csv_Data/majorDivTeams.csv', encoding = "ISO-8859-1")
 for index, row in teamDf.iterrows():

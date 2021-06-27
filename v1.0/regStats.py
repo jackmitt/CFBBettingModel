@@ -1,14 +1,13 @@
 import pandas as pd
 import numpy as np
 from cfbFcns import standardizeTeamName
-import CFBScrapy as cfb
 import os.path
 from os import path
 
 years = []
 fked = []
 weeks = []
-cur = 2003
+cur = 2014
 while (cur <= 2019):
     years.append(cur)
     cur += 1
@@ -111,7 +110,7 @@ for year in years:
                     dict[str(year)][standardizeTeamName(row["offense"],False)]["Week " + str(w)]["Turnovers"] += 1
                     dict[str(year)][standardizeTeamName(row["defense"],False)]["Week " + str(w)]["Opponent Turnovers"] += 1
 
-bigboy = pd.read_csv('./csv_Data/bigboy.csv', encoding = "ISO-8859-1")
+bigboy = pd.read_csv('./new_csv_Data/bigboy.csv', encoding = "ISO-8859-1")
 opy = []
 dpy = []
 fgp = []
@@ -213,4 +212,4 @@ bigboy["dRedZone ppa"] = drz
 bigboy["Turnover avg"] = to
 bigboy["Opponent turnover avg"] = oto
 
-bigboy.to_csv("./csv_Data/bigboy.csv")
+bigboy.to_csv("./new_csv_Data/bigboy.csv")

@@ -9,6 +9,15 @@ from evalPredictions import testClassification
 from sklearn.utils import shuffle
 import random
 
+def calibrationFactor(df, betType):
+    total = 0
+    for index, row in df.iterrows():
+        if (betType == "O/U"):
+            total += (int(row["binSpread"]) - float(row["PFITS"])) ** 2
+        else:
+            total += (int(row["binSpread"]) - float(row["PFITS"])) ** 2
+    return (total)
+
 predictions = []
 allSums = []
 x = []
@@ -25,14 +34,14 @@ scaler = StandardScaler()
 X = pd.DataFrame(a, columns = xCols)
 X[xCols] = scaler.fit_transform(X[xCols])
 X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.33, random_state=42)
-rkf = RepeatedKFold(n_splits=10, n_repeats=300)
+rkf = RepeatedKFold(n_splits=10, n_repeats=10)
 best = -9999999999
 bestC = -1
 counter = 1
-C_options = [999999999, 3, 2.5, 2, 1.75, 1.5, 1.25, 1, 0.9, 0.825, 0.75, 0.625, 0.5, 0.375, 0.25, 0.175, 0.1, 0.05, 0.01, 0.001, 0.0001]
+C_options = [1000, 100, 10, 1.5, 1.25, 1, 0.825, 0.75, 0.25, 0.1, 0.01, 0.001, 0.0001, 0.00001, 0.000000001, 0.0000000000000000001]
 for c in C_options:
     for train_index, test_index in rkf.split(X_train):
-        print (str(counter) + "/3000 for", c)
+        print (str(counter) + "/100 for", c)
         x_cvTrain, x_cvTest = X_train.iloc[train_index], X_train.iloc[test_index]
         y_cvTrain, y_cvTest = y_train.iloc[train_index], y_train.iloc[test_index]
         model = LogisticRegression(max_iter = 100000, C = c)
@@ -54,18 +63,7 @@ for c in C_options:
             else:
                 x.append(float(row["PFITS"]))
                 y.append(int(row["binSpread"]))
-        model = LogisticRegression(max_iter = 100000, penalty = 'none')
-        x1 = np.array(x)
-        y1 = np.array(y)
-        model.fit(X = x1.reshape(-1,1), y = y1)
-        for p in model.predict_proba(x1.reshape(-1,1)):
-            if (model.classes_[1] == 1):
-                predictions.append(p[1])
-                if (p[1] > 0.5122):
-                    z.append(p[1])
-            else:
-                predictions.append(p[0])
-        b["PFITS"] = predictions
+        b["PFITS"] = x
         b["binSpread"] = y
         predictions = []
         allSums.append(testClassification(b, 300, 'Kelly', Year = False, Week = False, odds = -105, betType = "Spread", printOption = False))
@@ -73,9 +71,9 @@ for c in C_options:
         x = []
         y = []
     print (c, np.average(allScores), np.average(allSums))
-    if (np.average(allSums) > best):
+    if (np.average(allScores) > best):
         bestC = c
-        best = np.average(allSums)
+        best = np.average(allScores)
     allScores = []
     allSums = []
     counter = 0
@@ -99,17 +97,6 @@ for index, row in b.iterrows():
     else:
         x.append(float(row["PFITS"]))
         y.append(int(row["binSpread"]))
-model = LogisticRegression(max_iter = 100000, penalty = 'none')
-x1 = np.array(x)
-y1 = np.array(y)
-model.fit(X = x1.reshape(-1,1), y = y1)
-for p in model.predict_proba(x1.reshape(-1,1)):
-    if (model.classes_[1] == 1):
-        predictions.append(p[1])
-        if (p[1] > 0.5122):
-            z.append(p[1])
-    else:
-        predictions.append(p[0])
-b["PFITS"] = predictions
+b["PFITS"] = x
 b["binSpread"] = y
 testClassification(b, 300, 'Kelly', Year = False, Week = False, odds = -105, betType = "Spread")

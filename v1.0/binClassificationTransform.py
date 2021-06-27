@@ -11,7 +11,7 @@ Drop = True
 for w in we:
     reg = pd.DataFrame()
     #ignore 37 or greater spreads
-    a = pd.read_csv('./csv_Data/bigboyAltGoodDataWeek6+.csv', encoding = "ISO-8859-1")
+    a = pd.read_csv('./new_csv_Data/bigboyAlt.csv', encoding = "ISO-8859-1")
     rem = []
     for col in a.columns:
         if ("totalPPA" in col):
@@ -298,4 +298,4 @@ for w in we:
     for key in dict:
         a[key] = dict[key]
     a = a.dropna()
-    a.to_csv("./csv_Data/bigboyBinClassificationWeek6+.csv")
+    a.to_csv("./new_csv_Data/bigboyBinClassification.csv")

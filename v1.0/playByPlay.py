@@ -5,7 +5,7 @@ import CFBScrapy as cfb
 
 years = []
 weeks = []
-cur = 2003
+cur = 2014
 while (cur <= 2019):
     years.append(cur)
     cur += 1
@@ -17,4 +17,4 @@ while (cur <= 20):
 for year in years:
     for w in weeks:
         print (year, w,"-----------------------------------------------------------------------------------")
-        cfb.get_play_by_play_data(year, week = w).to_csv("./csv_Data/playByPlay/" + str(year) + "_" + str(w) + ".csv")
+        cfb.get_play_by_play_data(year, week = w).to_csv("./new_csv_Data/playByPlay/" + str(year) + "_" + str(w) + ".csv")

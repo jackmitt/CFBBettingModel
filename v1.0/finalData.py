@@ -3,7 +3,7 @@ import numpy as np
 from cfbFcns import standardizeTeamName
 
 years = []
-start = 2003
+start = 2014
 while (start != 2020):
     years.append(start)
     start += 1
@@ -38,7 +38,7 @@ dict["Actual Total"] = []
 
 
 for year in years:
-    stats = pd.read_csv('./csv_Data/combinedFwdLookingStats/' + str(year) + '.csv', encoding = "ISO-8859-1").drop(columns = ["Unnamed: 0"])
+    stats = pd.read_csv('./new_csv_Data/combinedFwdLookingStats/' + str(year) + '.csv', encoding = "ISO-8859-1").drop(columns = ["Unnamed: 0"])
     games = pd.read_csv('./csv_Data/BettingResults+Elo/' + str(year) + '.csv', encoding = "ISO-8859-1").drop(columns = ["Unnamed: 0"])
 
     for index, row in games.iterrows():
@@ -134,4 +134,4 @@ for year in years:
     print (year)
 dfFinal = pd.DataFrame.from_dict(dict)
 print (dfFinal)
-dfFinal.to_csv("./csv_Data/bigboy.csv")
+dfFinal.to_csv("./new_csv_Data/bigboy.csv")

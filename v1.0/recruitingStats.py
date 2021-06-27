@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from cfbFcns import standardizeTeamName
 
-bigboy = pd.read_csv('./csv_Data/bigboy.csv', encoding = "ISO-8859-1")
+bigboy = pd.read_csv('./new_csv_Data/bigboy.csv', encoding = "ISO-8859-1")
 
 Fresh = []
 Soph = []
@@ -54,4 +54,4 @@ bigboy["Sophomore Class"] = Soph
 bigboy["Junior Class"] = Jun
 bigboy["Senior Class"] = Sen
 
-bigboy.to_csv("./csv_Data/bigboy.csv")
+bigboy.to_csv("./new_csv_Data/bigboy.csv")

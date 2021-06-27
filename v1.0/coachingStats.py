@@ -43,12 +43,12 @@ def getCoachRating(team, year):
         return 0
 
 dict = {}
-cur = 2003
+cur = 2014
 while (cur <= 2019):
     dict[str(cur)] = {}
     cur += 1
 coach = []
-bigboy = pd.read_csv('./csv_Data/bigboy.csv', encoding = "ISO-8859-1")
+bigboy = pd.read_csv('./new_csv_Data/bigboy.csv', encoding = "ISO-8859-1")
 for index, row in bigboy.iterrows():
     print (index)
     if (row["Team"] in dict[str(row["Year"])]):
@@ -58,4 +58,4 @@ for index, row in bigboy.iterrows():
         coach.append(curRate)
         dict[str(row["Year"])][row["Team"]] = curRate
 bigboy["Coach WPAR"] = coach
-bigboy.to_csv("./csv_Data/bigboy.csv")
+bigboy.to_csv("./new_csv_Data/bigboy.csv")

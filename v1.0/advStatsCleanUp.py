@@ -4,9 +4,9 @@ from cfbFcns import standardizeTeamName
 
 #creates forward looking adv stats file for a given year using normal adv stats game file
 
-years = ["2001"]
-cur = 2003
-for i in range(17):
+years = []
+cur = 2014
+for i in range(6):
     years.append(str(cur))
     cur += 1
 
@@ -16,7 +16,7 @@ def avg(arr):
     return np.nan
 
 for year in years:
-    df = pd.read_csv('./csv_data/advStatsGame/' + year + '.csv', encoding = "ISO-8859-1")
+    df = pd.read_csv('./new_csv_data/advStatsGame/' + year + '.csv', encoding = "ISO-8859-1")
     dropRows = []
     for index, row in df.iterrows():
         if (index > 0 and row["gameId"] == df.at[index-1,"gameId"]):
@@ -447,4 +447,4 @@ for year in years:
         final["dPassExp"].append(avg(adj))
     dfFinal = pd.DataFrame.from_dict(final)
     #print (dfFinal)
-    dfFinal.to_csv("./csv_Data/advStatsFwdLooking/" + year + ".csv")
+    dfFinal.to_csv("./new_csv_Data/advStatsFwdLooking/" + year + ".csv")

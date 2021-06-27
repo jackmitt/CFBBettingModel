@@ -34,3 +34,4 @@ a["PFITS"] = predictions
 a["binSpread"] = y
 testClassification(a, 300, 'Kelly', Year = False, Week = False, odds = -105, betType = "Spread")
 print (np.average(z))
+a.to_csv('./csv_Data/LogisticPythonPredictionsLRWeek5+Leave-One-OutNoStepwiseScaledC0.25PTK.csv')
