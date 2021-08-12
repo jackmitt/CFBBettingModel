@@ -24,7 +24,20 @@ x = []
 y = []
 z = []
 allScores = []
-a = pd.read_csv('./csv_Data/bigboyBinClassificationWeek5+.csv', encoding = "ISO-8859-1")
+# a = pd.read_csv('./new_csv_Data/bigboyBinClassificationTest2.csv', encoding = "ISO-8859-1")
+# aa = pd.read_csv('./new_csv_Data/bigboyBinClassificationTrain2.csv', encoding = "ISO-8859-1")
+# y_test = a["binSpread"]
+# y_train = aa["binSpread"]
+# xCols = []
+# for col in a.columns:
+#     if ("aboveAvg" in col):
+#         xCols.append(col)
+# scaler = StandardScaler()
+# X_train = pd.DataFrame(aa, columns = xCols)
+# X_train[xCols] = scaler.fit_transform(X_train[xCols])
+# X_test = pd.DataFrame(a, columns = xCols)
+# X_test[xCols] = scaler.transform(X_test[xCols])
+a = pd.read_csv('./new_csv_Data/bigboyBinClassification.csv', encoding = "ISO-8859-1")
 Y = a["binSpread"]
 xCols = []
 for col in a.columns:
@@ -33,7 +46,7 @@ for col in a.columns:
 scaler = StandardScaler()
 X = pd.DataFrame(a, columns = xCols)
 X[xCols] = scaler.fit_transform(X[xCols])
-X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.33, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.33)
 rkf = RepeatedKFold(n_splits=10, n_repeats=10)
 best = -9999999999
 bestC = -1
