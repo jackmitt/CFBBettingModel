@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 a = pd.read_csv('./new_csv_Data/betsForOptimization.csv', encoding = "ISO-8859-1")
-bankroll = 30000
+bankroll = 20000
 betResults = []
 for index, row in a.iterrows():
     print (index)
@@ -21,7 +21,7 @@ for index, row in a.iterrows():
     betResults.append(int(row["binTotal"]))
 
 
-bankroll = 30000
+bankroll = 20000
 betResults = []
 kellySizes = []
 for index, row in a.iterrows():

@@ -18,7 +18,7 @@ from sklearn.utils import shuffle
 import random
 
 weekMain = 3
-
+bankroll = 20000
 
 #advStatsCleanUp
 def avg(arr):
@@ -577,10 +577,13 @@ for col in stats.columns:
 dict["Elo"] = []
 dict["XElo"] = []
 for col in games.columns:
-    if (col != "Week" and col != "Date" and col != "Home Team" and col != "Road Team" and col != "Night Game" and col != "Postseason Game" and col != "Home Incoming Elo" and col != "Road Incoming Elo" and col != "Home Resulting Elo" and col != "Road Resulting Elo"):
+    if ("Odds" not in col and col != "Week" and col != "Date" and col != "Home Team" and col != "Road Team" and col != "Night Game" and col != "Postseason Game" and col != "Home Incoming Elo" and col != "Road Incoming Elo" and col != "Home Resulting Elo" and col != "Road Resulting Elo"):
         dict[col] = []
 dict["TrueHF"] = []
 dict["alt_spread"] = []
+dict["Spread Odds"] = []
+dict["Over Odds"] = []
+dict["Under Odds"] = []
 
 for index, row in games.iterrows():
     hI = -999
@@ -600,6 +603,9 @@ for index, row in games.iterrows():
         elif (r["Team"] == road):
             rI = i;
     #home team:
+    dict["Spread Odds"].append(row["Home Spread Odds"])
+    dict["Over Odds"].append(row["Over Odds"])
+    dict["Under Odds"].append(row["Under Odds"])
     dict["Week"].append(week)
     dict["Team"].append(home)
     for col in stats.columns:
@@ -619,7 +625,7 @@ for index, row in games.iterrows():
     dict["Elo"].append(row["Home Incoming Elo"])
     dict["XElo"].append(row["Road Incoming Elo"])
     for col in games.columns:
-        if (col != "Week" and col != "Date" and col != "Home Team" and col != "Road Team" and col != "Night Game" and col != "Postseason Game" and col != "Home Incoming Elo" and col != "Road Incoming Elo" and col != "Home Resulting Elo" and col != "Road Resulting Elo"):
+        if ("Odds" not in col and col != "Week" and col != "Date" and col != "Home Team" and col != "Road Team" and col != "Night Game" and col != "Postseason Game" and col != "Home Incoming Elo" and col != "Road Incoming Elo" and col != "Home Resulting Elo" and col != "Road Resulting Elo"):
             dict[col].append(row[col])
     if (int(dict["Homefield"][-1]) == 1 and int(dict["Neutral Field"][-1]) == 0):
         dict["TrueHF"].append(1)
@@ -630,6 +636,9 @@ for index, row in games.iterrows():
     else:
         dict["alt_spread"].append(float(dict["Spread"][-1]))
     #road team:
+    dict["Spread Odds"].append(row["Road Spread Odds"])
+    dict["Over Odds"].append(row["Over Odds"])
+    dict["Under Odds"].append(row["Under Odds"])
     dict["Week"].append(week)
     dict["Team"].append(road)
     for col in stats.columns:
@@ -649,7 +658,7 @@ for index, row in games.iterrows():
     dict["Elo"].append(row["Road Incoming Elo"])
     dict["XElo"].append(row["Home Incoming Elo"])
     for col in games.columns:
-        if (col != "Week" and col != "Date" and col != "Home Team" and col != "Road Team" and col != "Night Game" and col != "Postseason Game" and col != "Home Incoming Elo" and col != "Road Incoming Elo" and col != "Home Resulting Elo" and col != "Road Resulting Elo"):
+        if ("Odds" not in col and col != "Week" and col != "Date" and col != "Home Team" and col != "Road Team" and col != "Night Game" and col != "Postseason Game" and col != "Home Incoming Elo" and col != "Road Incoming Elo" and col != "Home Resulting Elo" and col != "Road Resulting Elo"):
             dict[col].append(row[col])
     if (int(dict["Homefield"][-1]) == 1 and int(dict["Neutral Field"][-1]) == 0):
         dict["TrueHF"].append(1)
@@ -886,5 +895,65 @@ for p in model.predict_proba(X_test):
         predictions.append(p[0])
 a["O/U PFITS"] = predictions
 
+dict = {"Home Team":[],"Road Team":[],"PFITS Spread":[],"Spread Bet":[],"Spread Amt":[],"Spread Odds":[],"PFITS O/U":[],"O/U Bet":[],"O/U Amt":[],"O/U Odds":[]}
+for index, row in a.iterrows():
+    dict["Home Team"].append(row["HTeam"])
+    dict["Road Team"].append(row["RTeam"])
+    dict["PFITS Spread"].append(row["Spread PFITS"])
+    dict["PFITS O/U"].append(row["O/U PFITS"])
+    if (row["Favorite"] == row["HTeam"]):
+        if (float(row["Spread PFITS"]) > 1 / float(row["HSpread Odds"])):
+            dict["Spread Bet"].append(row["HTeam"] + " -" + str(row["Spread"]))
+            dict["Spread Amt"].append((float(row["Spread PFITS"]) * (float(row["HSpread Odds"]) + 1) - 1) / float(row["HSpread Odds"]))
+            dict["Spread Odds"].append(row["HSpread Odds"])
+        elif (1 - float(row["Spread PFITS"]) > 1 / float(row["RSpread Odds"])):
+            dict["Spread Bet"].append(row["RTeam"] + " +" + str(row["Spread"]))
+            dict["Spread Amt"].append(((1 - float(row["Spread PFITS"])) * (float(row["RSpread Odds"]) + 1) - 1) / float(row["RSpread Odds"]))
+            dict["Spread Odds"].append(row["RSpread Odds"])
+        else:
+            dict["Spread Bet"].append(np.nan)
+            dict["Spread Amt"].append(np.nan)
+            dict["Spread Odds"].append(np.nan)
+    else:
+        if (float(row["Spread PFITS"]) > 1 / float(row["RSpread Odds"])):
+            dict["Spread Bet"].append(row["RTeam"] + " -" + str(row["Spread"]))
+            dict["Spread Amt"].append((float(row["Spread PFITS"]) * (float(row["RSpread Odds"]) + 1) - 1) / float(row["RSpread Odds"]))
+            dict["Spread Odds"].append(row["RSpread Odds"])
+        elif (1 - float(row["Spread PFITS"]) > 1 / float(row["HSpread Odds"])):
+            dict["Spread Bet"].append(row["HTeam"] + " +" + str(row["Spread"]))
+            dict["Spread Amt"].append(((1 - float(row["Spread PFITS"])) * (float(row["HSpread Odds"]) + 1) - 1) / float(row["HSpread Odds"]))
+            dict["Spread Odds"].append(row["HSpread Odds"])
+        else:
+            dict["Spread Bet"].append(np.nan)
+            dict["Spread Amt"].append(np.nan)
+            dict["Spread Odds"].append(np.nan)
+    if (float(row["O/U PFITS"]) > 1 / float(row["HOver Odds"])):
+        dict["O/U Bet"].append("Over " + str(row["O/U"]))
+        dict["O/U Amt"].append((float(row["O/U PFITS"]) * (float(row["HOver Odds"]) + 1) - 1) / float(row["HOver Odds"]))
+        dict["O/U Odds"].append(row["HOver Odds"])
+    elif (1 - float(row["O/U PFITS"]) > 1 / float(row["HUnder Odds"])):
+        dict["O/U Bet"].append("Under " + str(row["O/U"]))
+        dict["O/U Amt"].append(((1 - float(row["O/U PFITS"])) * (float(row["HUnder Odds"]) + 1) - 1) / float(row["HUnder Odds"]))
+        dict["O/U Odds"].append(row["HUnder Odds"])
+    else:
+        dict["O/U Bet"].append(np.nan)
+        dict["O/U Amt"].append(np.nan)
+        dict["O/U Odds"].append(np.nan)
 
-print(a)
+totalAmt = 0
+for i in range(len(dict["Home Team"])):
+    if (not np.isnan(dict["Spread Amt"][i])):
+        totalAmt += dict["Spread Amt"][i]
+    if (not np.isnan(dict["O/U Amt"][i])):
+        totalAmt += dict["O/U Amt"][i]
+
+print(totalAmt)
+
+for i in range(len(dict["Home Team"])):
+    if (not np.isnan(dict["Spread Amt"][i])):
+        dict["Spread Amt"][i] = dict["Spread Amt"][i] * bankroll / totalAmt
+    if (not np.isnan(dict["O/U Amt"][i])):
+        dict["O/U Amt"][i] = dict["O/U Amt"][i] * bankroll / totalAmt
+
+a = pd.DataFrame.from_dict(dict)
+a.to_csv("./new_csv_Data/currentSeason/predictionsWeek" + str(weekMain) + ".csv")

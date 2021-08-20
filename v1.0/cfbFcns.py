@@ -80,7 +80,7 @@ def standardizeTeamName(str, withError):
         return ("Georgia Southern")
     elif (name == "georgia state" or name == "georgia st." or name == "ga st." or name == "georgia st" or name == "ga st" or name == "ga. st."):
         return ("Georgia St.")
-    elif (name == "georgia tech" or name == "ga. tech" or name == "ga tech"):
+    elif (name == "georgia tech" or name == "ga. tech" or name == "ga tech" or name == "geogia tech"):
         return ("Georgia Tech")
     elif (name == "hawaii" or name == "hawai'i"):
         return ("Hawaii")
@@ -124,9 +124,9 @@ def standardizeTeamName(str, withError):
         return ("UMass")
     elif (name == "memphis" or name == "mem "):
         return ("Memphis")
-    elif (name == "miami-florida" or name == "miami-fla." or name == "miami-fla" or name == "miami" or name == "miami-fl" or name == "miami fl" or name == "mia.-fla." or name == "mia-fla" or ("mia" in name and "fla" in name)):
+    elif (name == "miami-florida" or name == "miami-fla." or name == "miami-fla" or name == "miami" or name == "miami-fl" or name == "miami fl" or name == "mia.-fla." or name == "mia-fla" or ("mia" in name and "fla" in name) or name == "miami florida"):
         return ("Miami-FL")
-    elif (name == "miami-ohio" or name == "miami-o." or name == "miami (oh)" or "-oh" in name or name == "miami oh"):
+    elif (name == "miami-ohio" or name == "miami-o." or name == "miami (oh)" or "-oh" in name or name == "miami oh" or name == "miami ohio"):
         return ("Miami-Ohio")
     elif (name == "michigan" or name == "mich."):
         return ("Michigan")
