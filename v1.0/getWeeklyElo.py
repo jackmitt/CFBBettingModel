@@ -2,6 +2,10 @@ import pandas as pd
 import numpy as np
 import operator
 from cfbFcns import standardizeTeamName
+import cfbd
+from cfbd.rest import ApiException
+
+curWeek = 1
 
 curElo = {}
 teamDf = pd.read_csv('./csv_Data/majorDivTeams.csv', encoding = "ISO-8859-1")
@@ -141,4 +145,101 @@ for year in years:
         for teams in curElo:
             curElo[teams]["Elo"] -= eloLoss/131
 
-#all the 2021 stuff now
+configuration = cfbd.Configuration()
+configuration.api_key['Authorization'] = 'XBWTTfw3Jo8o/r/jmDnRA6SsnoHp0MKKPBEE0UGID/hPKqzKLV/+0Ljn06dCbQRS'
+configuration.api_key_prefix['Authorization'] = 'Bearer'
+api_instance = cfbd.GamesApi(cfbd.ApiClient(configuration))
+year = 2021
+for i in range(1, curWeek):
+    api_response = api_instance.get_games(year=year, week=i, season_type="regular")
+    for x in api_response:
+        if (len(standardizeTeamName(standardizeTeamName(x.home_team, False),True).split("Error: ")) > 1):
+            eR = 1
+            eH = 0
+            kR = 150**(50/(curElo[standardizeTeamName(x.away_team, False)]["G"]+50))
+            if (int(x.away_points) > int(x.home_points)):
+                curElo[standardizeTeamName(x.away_team, False)]["Elo"] += kR*(1-eR)
+                eloLoss -= kR*(1-eR)
+            else:
+                curElo[standardizeTeamName(x.away_team, False)]["Elo"] += kR*(0-eR)
+                eloLoss += kR*(1-eR)
+            curElo[standardizeTeamName(x.away_team, False)]["G"] += min(eH,eR)/max(eH,eR)
+        elif (len(standardizeTeamName(standardizeTeamName(x.away_team, False),True).split("Error: ")) > 1):
+            eR = 0
+            eH = 1
+            kH = 150**(50/(curElo[standardizeTeamName(x.home_team, False)]["G"]+50))
+            if (int(x.home_points) > int(x.away_points)):
+                curElo[standardizeTeamName(x.home_team, False)]["Elo"] += kH*(1-eH)
+                eloLoss -= kH*(1-eH)
+            else:
+                curElo[standardizeTeamName(x.home_team, False)]["Elo"] += kH*(0-eH)
+                eloLoss += kH*(0-eH)
+            curElo[standardizeTeamName(x.home_team, False)]["G"] += min(eH,eR)/max(eH,eR)
+        else:
+            eH = min(1, 1/(1+10**((curElo[standardizeTeamName(x.away_team, False)]["Elo"] - curElo[standardizeTeamName(x.home_team, False)]["Elo"])/400)) + 0.05)
+            eR = 1 - eH
+            kH = 150**(50/(curElo[standardizeTeamName(x.home_team, False)]["G"]+50))
+            kR = 150**(50/(curElo[standardizeTeamName(x.away_team, False)]["G"]+50))
+            if (int(x.home_points) > int(x.away_points)):
+                curElo[standardizeTeamName(x.home_team, False)]["Elo"] += kH*(1-eH)
+                curElo[standardizeTeamName(x.away_team, False)]["Elo"] += kR*(0-eR)
+            else:
+                curElo[standardizeTeamName(x.home_team, False)]["Elo"] += kH*(0-eH)
+                curElo[standardizeTeamName(x.away_team, False)]["Elo"] += kR*(1-eR)
+            curElo[standardizeTeamName(x.away_team, False)]["G"] += min(eH,eR)/max(eH,eR)
+            curElo[standardizeTeamName(x.home_team, False)]["G"] += min(eH,eR)/max(eH,eR)
+
+if (curWeek == 1):
+    incElo = []
+    lastWeek = pd.read_csv('./new_csv_Data/2021/BettingLinesWeek' + str(1) + '.csv', encoding = "ISO-8859-1")
+    for index, row in lastWeek.iterrows():
+        try:
+            incElo.append(curElo[standardizeTeamName(row["team"], False)]["Elo"])
+        except:
+            incElo.append(np.nan)
+    lastWeek["incElo"] = incElo
+    lastWeek.to_csv('./new_csv_Data/2021/BettingLinesWeek' + str(1) + '.csv')
+elif (curWeek <= 3):
+    incElo = []
+    resElo = []
+    lastWeek = pd.read_csv('./new_csv_Data/2021/BettingLinesWeek' + str(curWeek - 1) + '.csv', encoding = "ISO-8859-1")
+    for index, row in lastWeek.iterrows():
+        try:
+            resElo.append(curElo[standardizeTeamName(row["team"], False)]["Elo"])
+        except:
+            resElo.append(np.nan)
+    lastWeek["resElo"] = resElo
+    lastWeek.to_csv('./new_csv_Data/2021/BettingLinesWeek' + str(curWeek - 1) + '.csv')
+    thisWeek = pd.read_csv('./new_csv_Data/2021/BettingLinesWeek' + str(curWeek) + '.csv', encoding = "ISO-8859-1")
+    for index, row in thisWeek.iterrows():
+        try:
+            incElo.append(curElo[standardizeTeamName(row["team"], False)]["Elo"])
+        except:
+            incElo.append(np.nan)
+    thisWeek["incElo"] = incElo
+    thisWeek.to_csv('./new_csv_Data/2021/BettingLinesWeek' + str(curWeek) + '.csv')
+elif (curWeek == 4):
+    homeIncElo = []
+    awayIncElo = []
+    resElo = []
+    lastWeek = pd.read_csv('./new_csv_Data/2021/BettingLinesWeek' + str(curWeek - 1) + '.csv', encoding = "ISO-8859-1")
+    for index, row in lastWeek.iterrows():
+        try:
+            resElo.append(curElo[standardizeTeamName(row["team"], False)]["Elo"])
+        except:
+            resElo.append(np.nan)
+    lastWeek["resElo"] = resElo
+    lastWeek.to_csv('./new_csv_Data/2021/BettingLinesWeek' + str(curWeek - 1) + '.csv')
+    thisWeek = pd.read_csv('./new_csv_Data/2021/BettingLinesWeek' + str(curWeek) + '.csv', encoding = "ISO-8859-1")
+    for index, row in thisWeek.iterrows():
+        try:
+            homeIncElo.append(curElo[standardizeTeamName(row["Home Team"], False)]["Elo"])
+        except:
+            homeIncElo.append(np.nan)
+        try:
+            awayIncElo.append(curElo[standardizeTeamName(row["Road Team"], False)]["Elo"])
+        except:
+            awayIncElo.append(np.nan)
+    thisWeek["Home Incoming Elo"] = homeIncElo
+    thisWeek["Road Incoming Elo"] = awayIncElo
+    thisWeek.to_csv('./new_csv_Data/2021/BettingLinesWeek' + str(curWeek) + '.csv')

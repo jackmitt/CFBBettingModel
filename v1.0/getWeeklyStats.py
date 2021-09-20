@@ -15,8 +15,8 @@ configuration.api_key_prefix['Authorization'] = 'Bearer'
 
 # create an instance of the API class
 api_instance = cfbd.StatsApi(cfbd.ApiClient(configuration))
-year = 2018 # int | Year/season filter for games (optional)
-week = 1 # int | Week filter (optional)
+year = 2021 # int | Year/season filter for games (optional)
+week = 3 # int | Week filter (optional)
 
 api_response = api_instance.get_advanced_team_game_stats(year=year, week=week, season_type="regular")
 dict = {}
@@ -90,4 +90,4 @@ for x in api_response:
     dict["defense" + ".passingPlays.explosiveness"].append(x.defense["passingPlays"]["explosiveness"])
 
 dfFinal = pd.DataFrame.from_dict(dict)
-dfFinal.to_csv("./new_csv_Data/currentSeason/week" + str(week) + ".csv")
+dfFinal.to_csv("./new_csv_Data/2021/StatsWeek" + str(week) + ".csv")

@@ -17,7 +17,7 @@ from evalPredictions import testClassification
 from sklearn.utils import shuffle
 import random
 
-weekMain = 3
+weekMain = 4
 bankroll = 20000
 
 #advStatsCleanUp
@@ -26,9 +26,9 @@ def avg(arr):
         return sum(arr)/len(arr)
     return np.nan
 
-df = pd.read_csv('./new_csv_data/currentSeason/week1.csv', encoding = "ISO-8859-1")
+df = pd.read_csv('./new_csv_data/2021/StatsWeek1.csv', encoding = "ISO-8859-1")
 for w in range(2, weekMain):
-    df = df.append(pd.read_csv('./new_csv_data/currentSeason/week' + str(w) + '.csv', encoding = "ISO-8859-1"), ignore_index=True)
+    df = df.append(pd.read_csv('./new_csv_data/2021/StatsWeek' + str(w) + '.csv', encoding = "ISO-8859-1"), ignore_index=True)
 
 
 dropRows = []
@@ -461,12 +461,11 @@ for i in range(len(dict["Team"])):
     final["dPassExp"].append(avg(adj))
 stats = pd.DataFrame.from_dict(final)
 
-###################################################################################################ELO UPDATE CODE NEEDED**************************************************************************************
 
 #adjAdvStatesCleanUp
-statsTemp = pd.read_csv('./new_csv_data/currentSeason/week1.csv', encoding = "ISO-8859-1")
+statsTemp = pd.read_csv('./new_csv_data/2021/StatsWeek1.csv', encoding = "ISO-8859-1")
 for w in range(2, weekMain):
-    statsTemp = statsTemp.append(pd.read_csv('./new_csv_data/currentSeason/week' + str(w) + '.csv', encoding = "ISO-8859-1"), ignore_index=True)
+    statsTemp = statsTemp.append(pd.read_csv('./new_csv_data/2021/StatsWeek' + str(w) + '.csv', encoding = "ISO-8859-1"), ignore_index=True)
 
 final = {}
 final["Week"] = []
@@ -487,7 +486,12 @@ for d1 in d1Teams:
     for col in statsTemp.columns:
         if (col != "gameId" and col != "week" and col != "team" and col != "opponent"):
             masterDict[standardizeTeamName(d1,True)][col] = []
-betting = pd.read_csv('./new_csv_Data/currentSeason/BettingLines.csv', encoding = "ISO-8859-1")
+bettingW123 = pd.read_csv('./new_csv_Data/2021/BettingLinesWeek1.csv', encoding = "ISO-8859-1")
+for w in range(2, 4):
+    bettingW123 = bettingW123.append(pd.read_csv('./new_csv_data/2021/BettingLinesWeek' + str(w) + '.csv', encoding = "ISO-8859-1"), ignore_index=True)
+betting = pd.read_csv('./new_csv_Data/2021/BettingLinesWeek4.csv', encoding = "ISO-8859-1")
+for w in range(5, weekMain + 1):
+    betting = betting.append(pd.read_csv('./new_csv_data/2021/BettingLinesWeek' + str(w) + '.csv', encoding = "ISO-8859-1"), ignore_index=True)
 for index1, row1 in statsTemp.iterrows():
     #print (row1["team"], standardizeTeamName(row1["team"], True))
     if (row1["week"] == 99):
@@ -497,20 +501,31 @@ for index1, row1 in statsTemp.iterrows():
     if (standardizeTeamName(row1["opponent"],False) not in d1Teams):
         oppElo = 500
     else:
-        #need to test to make sure opp elos are always found if they are d1
-        for index, row in betting.iterrows():
-            if (row["Week"] == "Bowl"):
-                continue
-            if (standardizeTeamName(row1["opponent"],False) == standardizeTeamName(row["Home Team"],False) and int(row1["week"]) == int(row["Week"])):
-                if (np.isnan(row["Home Incoming Elo"])):
-                    print ("ERROR FINDING ELO:", row["Home Team"])
-                oppElo = float(row["Home Incoming Elo"])
-                break
-            elif (standardizeTeamName(row1["opponent"],False) == standardizeTeamName(row["Road Team"],False) and int(row1["week"]) == int(row["Week"])):
-                if (np.isnan(row["Road Incoming Elo"])):
-                    print ("ERROR FINDING ELO:", row["Road Team"])
-                oppElo = float(row["Road Incoming Elo"])
-                break
+        if (row1["week"] > 3):
+            #need to test to make sure opp elos are always found if they are d1
+            for index, row in betting.iterrows():
+                if (standardizeTeamName(row1["opponent"],False) == standardizeTeamName(row["Home Team"],False) and int(row1["week"]) == int(row["Week"])):
+                    if (np.isnan(row["Home Incoming Elo"])):
+                        print ("ERROR FINDING ELO:", row["Home Team"])
+                    oppElo = float(row["Home Incoming Elo"])
+                    break
+                elif (standardizeTeamName(row1["opponent"],False) == standardizeTeamName(row["Road Team"],False) and int(row1["week"]) == int(row["Week"])):
+                    if (np.isnan(row["Road Incoming Elo"])):
+                        print ("ERROR FINDING ELO:", row["Road Team"])
+                    oppElo = float(row["Road Incoming Elo"])
+                    break
+        else:
+            for index, row in bettingW123.iterrows():
+                if (standardizeTeamName(row1["opponent"],False) == standardizeTeamName(row["team"],False) and int(row1["week"]) == int(row["Week"])):
+                    if (np.isnan(row["incElo"])):
+                        print ("ERROR FINDING ELO:", row["team"])
+                    oppElo = float(row["incElo"])
+                    break
+                elif (standardizeTeamName(row1["opponent"],False) == standardizeTeamName(row["team"],False) and int(row1["week"]) == int(row["Week"])):
+                    if (np.isnan(row["incElo"])):
+                        print ("ERROR FINDING ELO:", row["team"])
+                    oppElo = float(row["incElo"])
+                    break
     if (standardizeTeamName(row1["team"],False) in d1Teams):
         final["Week"].append(int(row1["week"]) + 1)
         final["Team"].append(standardizeTeamName(row1["team"],False))
@@ -565,7 +580,7 @@ teamDf = pd.read_csv('./csv_Data/majorDivTeams.csv', encoding = "ISO-8859-1")
 for index, row in teamDf.iterrows():
     d1Teams.append(standardizeTeamName(row["school"],True))
 
-games = pd.read_csv('./new_csv_Data/currentSeason/BettingLines.csv', encoding = "ISO-8859-1")
+games = pd.read_csv('./new_csv_Data/2021/BettingLinesWeek' + str(weekMain) + '.csv', encoding = "ISO-8859-1")
 
 for col in stats.columns:
     dict[col] = []
@@ -895,6 +910,8 @@ for p in model.predict_proba(X_test):
         predictions.append(p[0])
 a["O/U PFITS"] = predictions
 
+a.to_csv("./new_csv_Data/2021/predictfdsfsfionsWeek" + str(weekMain) + ".csv")
+
 dict = {"Home Team":[],"Road Team":[],"PFITS Spread":[],"Spread Bet":[],"Spread Amt":[],"Spread Odds":[],"PFITS O/U":[],"O/U Bet":[],"O/U Amt":[],"O/U Odds":[]}
 for index, row in a.iterrows():
     dict["Home Team"].append(row["HTeam"])
@@ -904,11 +921,11 @@ for index, row in a.iterrows():
     if (row["Favorite"] == row["HTeam"]):
         if (float(row["Spread PFITS"]) > 1 / float(row["HSpread Odds"])):
             dict["Spread Bet"].append(row["HTeam"] + " -" + str(row["Spread"]))
-            dict["Spread Amt"].append((float(row["Spread PFITS"]) * (float(row["HSpread Odds"]) + 1) - 1) / float(row["HSpread Odds"]))
+            dict["Spread Amt"].append((float(row["Spread PFITS"]) - (1 - float(row["Spread PFITS"])/(float(row["HSpread Odds"]) - 1))))
             dict["Spread Odds"].append(row["HSpread Odds"])
         elif (1 - float(row["Spread PFITS"]) > 1 / float(row["RSpread Odds"])):
             dict["Spread Bet"].append(row["RTeam"] + " +" + str(row["Spread"]))
-            dict["Spread Amt"].append(((1 - float(row["Spread PFITS"])) * (float(row["RSpread Odds"]) + 1) - 1) / float(row["RSpread Odds"]))
+            dict["Spread Amt"].append((1 - float(row["Spread PFITS"])) - (float(row["Spread PFITS"])/(float(row["RSpread Odds"]) - 1)))
             dict["Spread Odds"].append(row["RSpread Odds"])
         else:
             dict["Spread Bet"].append(np.nan)
@@ -917,11 +934,11 @@ for index, row in a.iterrows():
     else:
         if (float(row["Spread PFITS"]) > 1 / float(row["RSpread Odds"])):
             dict["Spread Bet"].append(row["RTeam"] + " -" + str(row["Spread"]))
-            dict["Spread Amt"].append((float(row["Spread PFITS"]) * (float(row["RSpread Odds"]) + 1) - 1) / float(row["RSpread Odds"]))
+            dict["Spread Amt"].append((float(row["Spread PFITS"])) - ((1 - float(row["Spread PFITS"]))/(float(row["RSpread Odds"]) - 1)))
             dict["Spread Odds"].append(row["RSpread Odds"])
         elif (1 - float(row["Spread PFITS"]) > 1 / float(row["HSpread Odds"])):
             dict["Spread Bet"].append(row["HTeam"] + " +" + str(row["Spread"]))
-            dict["Spread Amt"].append(((1 - float(row["Spread PFITS"])) * (float(row["HSpread Odds"]) + 1) - 1) / float(row["HSpread Odds"]))
+            dict["Spread Amt"].append(((1 - float(row["Spread PFITS"])) - (float(row["Spread PFITS"])/(float(row["HSpread Odds"]) - 1))))
             dict["Spread Odds"].append(row["HSpread Odds"])
         else:
             dict["Spread Bet"].append(np.nan)
@@ -929,11 +946,11 @@ for index, row in a.iterrows():
             dict["Spread Odds"].append(np.nan)
     if (float(row["O/U PFITS"]) > 1 / float(row["HOver Odds"])):
         dict["O/U Bet"].append("Over " + str(row["O/U"]))
-        dict["O/U Amt"].append((float(row["O/U PFITS"]) * (float(row["HOver Odds"]) + 1) - 1) / float(row["HOver Odds"]))
+        dict["O/U Amt"].append(float(row["O/U PFITS"]) - (1-float(row["O/U PFITS"]))/(float(row["HOver Odds"]) - 1))
         dict["O/U Odds"].append(row["HOver Odds"])
     elif (1 - float(row["O/U PFITS"]) > 1 / float(row["HUnder Odds"])):
         dict["O/U Bet"].append("Under " + str(row["O/U"]))
-        dict["O/U Amt"].append(((1 - float(row["O/U PFITS"])) * (float(row["HUnder Odds"]) + 1) - 1) / float(row["HUnder Odds"]))
+        dict["O/U Amt"].append((1 - float(row["O/U PFITS"])) - (float(row["O/U PFITS"])/(float(row["HUnder Odds"]) - 1)))
         dict["O/U Odds"].append(row["HUnder Odds"])
     else:
         dict["O/U Bet"].append(np.nan)
@@ -956,4 +973,4 @@ for i in range(len(dict["Home Team"])):
         dict["O/U Amt"][i] = dict["O/U Amt"][i] * bankroll / totalAmt
 
 a = pd.DataFrame.from_dict(dict)
-a.to_csv("./new_csv_Data/currentSeason/predictionsWeek" + str(weekMain) + ".csv")
+a.to_csv("./new_csv_Data/2021/predictionsWeek" + str(weekMain) + ".csv")
