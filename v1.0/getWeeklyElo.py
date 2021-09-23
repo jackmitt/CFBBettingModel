@@ -5,7 +5,7 @@ from cfbFcns import standardizeTeamName
 import cfbd
 from cfbd.rest import ApiException
 
-curWeek = 1
+curWeek = 5
 
 curElo = {}
 teamDf = pd.read_csv('./csv_Data/majorDivTeams.csv', encoding = "ISO-8859-1")
@@ -199,7 +199,7 @@ if (curWeek == 1):
             incElo.append(np.nan)
     lastWeek["incElo"] = incElo
     lastWeek.to_csv('./new_csv_Data/2021/BettingLinesWeek' + str(1) + '.csv')
-elif (curWeek <= 3):
+elif (curWeek <= 4):
     incElo = []
     resElo = []
     lastWeek = pd.read_csv('./new_csv_Data/2021/BettingLinesWeek' + str(curWeek - 1) + '.csv', encoding = "ISO-8859-1")
@@ -218,7 +218,7 @@ elif (curWeek <= 3):
             incElo.append(np.nan)
     thisWeek["incElo"] = incElo
     thisWeek.to_csv('./new_csv_Data/2021/BettingLinesWeek' + str(curWeek) + '.csv')
-elif (curWeek == 4):
+elif (curWeek == 5):
     homeIncElo = []
     awayIncElo = []
     resElo = []
@@ -229,6 +229,37 @@ elif (curWeek == 4):
         except:
             resElo.append(np.nan)
     lastWeek["resElo"] = resElo
+    lastWeek.to_csv('./new_csv_Data/2021/BettingLinesWeek' + str(curWeek - 1) + '.csv')
+    thisWeek = pd.read_csv('./new_csv_Data/2021/BettingLinesWeek' + str(curWeek) + '.csv', encoding = "ISO-8859-1")
+    for index, row in thisWeek.iterrows():
+        try:
+            homeIncElo.append(curElo[standardizeTeamName(row["Home Team"], False)]["Elo"])
+        except:
+            homeIncElo.append(np.nan)
+        try:
+            awayIncElo.append(curElo[standardizeTeamName(row["Road Team"], False)]["Elo"])
+        except:
+            awayIncElo.append(np.nan)
+    thisWeek["Home Incoming Elo"] = homeIncElo
+    thisWeek["Road Incoming Elo"] = awayIncElo
+    thisWeek.to_csv('./new_csv_Data/2021/BettingLinesWeek' + str(curWeek) + '.csv')
+else:
+    homeIncElo = []
+    awayIncElo = []
+    homeResElo = []
+    awayResElo = []
+    lastWeek = pd.read_csv('./new_csv_Data/2021/BettingLinesWeek' + str(curWeek - 1) + '.csv', encoding = "ISO-8859-1")
+    for index, row in lastWeek.iterrows():
+        try:
+            homeResElo.append(curElo[standardizeTeamName(row["Home Team"], False)]["Elo"])
+        except:
+            homeResElo.append(np.nan)
+        try:
+            awayResElo.append(curElo[standardizeTeamName(row["Road Team"], False)]["Elo"])
+        except:
+            awayResElo.append(np.nan)
+    lastWeek["Home Resulting Elo"] = homeResElo
+    lastWeek["Road Resulting Elo"] = awayResElo
     lastWeek.to_csv('./new_csv_Data/2021/BettingLinesWeek' + str(curWeek - 1) + '.csv')
     thisWeek = pd.read_csv('./new_csv_Data/2021/BettingLinesWeek' + str(curWeek) + '.csv', encoding = "ISO-8859-1")
     for index, row in thisWeek.iterrows():

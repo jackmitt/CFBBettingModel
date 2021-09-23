@@ -21,8 +21,8 @@ for i in range(25):
     for game in games:
         dict["Week"].append(week)
         dict["Neutral Field"].append(0)
-        dict["Home Team"].append(standardizeTeamName(game.find_all(class_="ellipsis event-row-participant style_participant__H8-ku")[0].text, True))
-        dict["Road Team"].append(standardizeTeamName(game.find_all(class_="ellipsis event-row-participant style_participant__H8-ku")[1].text, True))
+        dict["Home Team"].append(standardizeTeamName(game.find_all(class_="ellipsis event-row-participant style_participant__H8-ku")[1].text, True))
+        dict["Road Team"].append(standardizeTeamName(game.find_all(class_="ellipsis event-row-participant style_participant__H8-ku")[0].text, True))
         spread = game.find(class_="style_buttons__XEQem")
         if (float(spread.find(class_="style_label__2KJur").text) < 0):
             dict["Favorite"].append(standardizeTeamName(game.find_all(class_="ellipsis event-row-participant style_participant__H8-ku")[0].text, False))
@@ -31,8 +31,8 @@ for i in range(25):
         else:
             dict["Favorite"].append("EVEN")
         dict["Spread"].append(abs(float(spread.find(class_="style_label__2KJur").text)))
-        dict["Home Spread Odds"].append(spread.find_all(class_="style_price__15SlF")[0].text)
-        dict["Road Spread Odds"].append(spread.find_all(class_="style_price__15SlF")[1].text)
+        dict["Home Spread Odds"].append(spread.find_all(class_="style_price__15SlF")[1].text)
+        dict["Road Spread Odds"].append(spread.find_all(class_="style_price__15SlF")[0].text)
         total = game.find_all(class_="style_buttons__XEQem")[2]
         try:
             dict["O/U"].append(abs(float(total.find(class_="style_label__2KJur").text)))

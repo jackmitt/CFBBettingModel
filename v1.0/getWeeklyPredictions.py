@@ -17,8 +17,13 @@ from evalPredictions import testClassification
 from sklearn.utils import shuffle
 import random
 
-weekMain = 4
-bankroll = 20000
+weekMain = 5
+results = pd.read_csv('./new_csv_data/2021/RESULTS.csv', encoding = "ISO-8859-1")
+
+for index, row in results.iterrows():
+    if (int(row["Week"]) == weekMain - 1):
+        bankroll = float(row["Ending Bankroll"])
+
 
 #advStatsCleanUp
 def avg(arr):
@@ -910,8 +915,6 @@ for p in model.predict_proba(X_test):
         predictions.append(p[0])
 a["O/U PFITS"] = predictions
 
-a.to_csv("./new_csv_Data/2021/predictfdsfsfionsWeek" + str(weekMain) + ".csv")
-
 dict = {"Home Team":[],"Road Team":[],"PFITS Spread":[],"Spread Bet":[],"Spread Amt":[],"Spread Odds":[],"PFITS O/U":[],"O/U Bet":[],"O/U Amt":[],"O/U Odds":[]}
 for index, row in a.iterrows():
     dict["Home Team"].append(row["HTeam"])
@@ -921,7 +924,7 @@ for index, row in a.iterrows():
     if (row["Favorite"] == row["HTeam"]):
         if (float(row["Spread PFITS"]) > 1 / float(row["HSpread Odds"])):
             dict["Spread Bet"].append(row["HTeam"] + " -" + str(row["Spread"]))
-            dict["Spread Amt"].append((float(row["Spread PFITS"]) - (1 - float(row["Spread PFITS"])/(float(row["HSpread Odds"]) - 1))))
+            dict["Spread Amt"].append((float(row["Spread PFITS"]) - (1 - float(row["Spread PFITS"]))/(float(row["HSpread Odds"]) - 1)))
             dict["Spread Odds"].append(row["HSpread Odds"])
         elif (1 - float(row["Spread PFITS"]) > 1 / float(row["RSpread Odds"])):
             dict["Spread Bet"].append(row["RTeam"] + " +" + str(row["Spread"]))
@@ -968,9 +971,9 @@ print(totalAmt)
 
 for i in range(len(dict["Home Team"])):
     if (not np.isnan(dict["Spread Amt"][i])):
-        dict["Spread Amt"][i] = dict["Spread Amt"][i] * bankroll / totalAmt
+        dict["Spread Amt"][i] = int(dict["Spread Amt"][i] * bankroll / totalAmt)
     if (not np.isnan(dict["O/U Amt"][i])):
-        dict["O/U Amt"][i] = dict["O/U Amt"][i] * bankroll / totalAmt
+        dict["O/U Amt"][i] = int(dict["O/U Amt"][i] * bankroll / totalAmt)
 
 a = pd.DataFrame.from_dict(dict)
 a.to_csv("./new_csv_Data/2021/predictionsWeek" + str(weekMain) + ".csv")

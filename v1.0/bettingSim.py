@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-
+#####################################This is flawed but im not fixing it at the moment
 a = pd.read_csv('./new_csv_Data/betsForOptimization.csv', encoding = "ISO-8859-1")
 bankroll = 20000
 betResults = []
@@ -43,16 +43,17 @@ for index, row in a.iterrows():
                         betSize.append((kellySizes[i]))
                 else:
                     if (totalKellySizes > 1):
-                        bankroll += (kellySizes[i]*(1/totalKellySizes)) * preBR * 0.95238
+                        bankroll += (kellySizes[i]*(1/totalKellySizes)) * preBR * 0.95
                         betSize.append((kellySizes[i]*(1/totalKellySizes)))
                     else:
-                        bankroll += (kellySizes[i]) * preBR * 0.95238
+                        bankroll += (kellySizes[i]) * preBR * 0.95
                         betSize.append((kellySizes[i]))
         print (bankroll, np.sum(betSize), totalKellySizes)
         betResults = []
         kellySizes = []
         preBR = bankroll
     betResults.append(int(row["binSpread"]))
-    kellySizes.append((float(row["PFITSSpread"]) - 0.5122)/0.4878)
+    kellySizes.append((float(row["PFITSSpread"]) - (1 - float(row["PFITSSpread"]))/(0.95)))
     betResults.append(int(row["binTotal"]))
-    kellySizes.append((float(row["PFITSTotal"]) - 0.5122)/0.4878)
+    kellySizes.append((float(row["PFITSTotal"]) - (1 - float(row["PFITSSpread"]))/0.95))
+    print (kellySizes)
