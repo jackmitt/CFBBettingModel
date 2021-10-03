@@ -5,7 +5,7 @@ from cfbFcns import standardizeTeamName
 import cfbd
 from cfbd.rest import ApiException
 
-week = 13
+week = 4
 
 bets = pd.read_csv('./new_csv_Data/2021/predictionsWeek' + str(week) + '.csv', encoding = "ISO-8859-1")
 

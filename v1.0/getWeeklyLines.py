@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 from cfbFcns import standardizeTeamName
 
-week = 4
+week = 5
 
 dict = {"Week":[],"Home Team":[],"Road Team":[],"Neutral Field":[],"Favorite":[],"Spread":[],"Home Spread Odds":[],"Road Spread Odds":[],"O/U":[],"Over Odds":[],"Under Odds":[]}
 
@@ -24,12 +24,20 @@ for i in range(25):
         dict["Home Team"].append(standardizeTeamName(game.find_all(class_="ellipsis event-row-participant style_participant__H8-ku")[1].text, True))
         dict["Road Team"].append(standardizeTeamName(game.find_all(class_="ellipsis event-row-participant style_participant__H8-ku")[0].text, True))
         spread = game.find(class_="style_buttons__XEQem")
-        if (float(spread.find(class_="style_label__2KJur").text) < 0):
-            dict["Favorite"].append(standardizeTeamName(game.find_all(class_="ellipsis event-row-participant style_participant__H8-ku")[0].text, False))
-        elif (float(spread.find(class_="style_label__2KJur").text) > 0):
-            dict["Favorite"].append(standardizeTeamName(game.find_all(class_="ellipsis event-row-participant style_participant__H8-ku")[1].text, False))
-        else:
-            dict["Favorite"].append("EVEN")
+        try:
+            if (float(spread.find(class_="style_label__2KJur").text) < 0):
+                dict["Favorite"].append(standardizeTeamName(game.find_all(class_="ellipsis event-row-participant style_participant__H8-ku")[0].text, False))
+            elif (float(spread.find(class_="style_label__2KJur").text) > 0):
+                dict["Favorite"].append(standardizeTeamName(game.find_all(class_="ellipsis event-row-participant style_participant__H8-ku")[1].text, False))
+            else:
+                dict["Favorite"].append("EVEN")
+        except:
+            print ("ERROR: No spread data found")
+            dict["Week"] = dict["Week"][:-1]
+            dict["Neutral Field"] = dict["Neutral Field"][:-1]
+            dict["Home Team"] = dict["Home Team"][:-1]
+            dict["Road Team"] = dict["Road Team"][:-1]
+            continue
         dict["Spread"].append(abs(float(spread.find(class_="style_label__2KJur").text)))
         dict["Home Spread Odds"].append(spread.find_all(class_="style_price__15SlF")[1].text)
         dict["Road Spread Odds"].append(spread.find_all(class_="style_price__15SlF")[0].text)
@@ -45,7 +53,7 @@ for i in range(25):
     try:
         element = browser.find_element_by_xpath("//*[@id='events-chunkmode']/div/div/div[7]/div/div[1]/a/div/div/div[1]/span")
     except:
-        element = browser.find_element_by_xpath("//*[@id='events-chunkmode']/div/div/div[8]/div/div[1]/a/div/div/div[2]/span")
+        element = browser.find_element_by_xpath("//*[@id='events-chunkmode']/div/div/div[4]/div/div[1]/a/div/div/div[2]/span")
     browser.execute_script("arguments[0].scrollIntoView();", element)
     time.sleep(5)
 

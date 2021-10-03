@@ -18,11 +18,14 @@ from sklearn.utils import shuffle
 import random
 
 weekMain = 5
-results = pd.read_csv('./new_csv_data/2021/RESULTS.csv', encoding = "ISO-8859-1")
+try:
+    results = pd.read_csv('./new_csv_data/2021/RESULTS.csv', encoding = "ISO-8859-1")
 
-for index, row in results.iterrows():
-    if (int(row["Week"]) == weekMain - 1):
-        bankroll = float(row["Ending Bankroll"])
+    for index, row in results.iterrows():
+        if (int(row["Week"]) == weekMain - 1):
+            bankroll = float(row["Ending Bankroll"])
+except:
+    bankroll = 17384.83
 
 
 #advStatsCleanUp
@@ -906,7 +909,7 @@ X_train[xCols] = scaler.fit_transform(X_train[xCols])
 X_test = pd.DataFrame(a, columns = xCols)
 X_test[xCols] = scaler.transform(X_test[xCols])
 
-model = LogisticRegression(max_iter = 100000, C = 0.25)
+model = LogisticRegression(max_iter = 100000, C = 0.1)
 model.fit(X = X_train, y = y_train)
 for p in model.predict_proba(X_test):
     if (model.classes_[1] == 1):
