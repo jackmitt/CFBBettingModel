@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 from cfbFcns import standardizeTeamName
 
-week = 5
+week = 14
 
 dict = {"Week":[],"Home Team":[],"Road Team":[],"Neutral Field":[],"Favorite":[],"Spread":[],"Home Spread Odds":[],"Road Spread Odds":[],"O/U":[],"Over Odds":[],"Under Odds":[]}
 
@@ -14,7 +14,7 @@ browser = webdriver.Chrome(executable_path='chromedriver.exe')
 browser.get("https://www.pinnacle.com/en/football/ncaa/matchups/#period:0")
 browser.maximize_window()
 time.sleep(5)
-for i in range(25):
+for i in range(18):
     soup = BeautifulSoup(browser.page_source, 'html.parser')
     main = soup.find(class_="contentBlock square")
     games = main.find_all(class_="style_row__3q4g_ style_row__3hCMX")
@@ -51,9 +51,9 @@ for i in range(25):
             dict["Over Odds"].append(np.nan)
             dict["Under Odds"].append(np.nan)
     try:
-        element = browser.find_element_by_xpath("//*[@id='events-chunkmode']/div/div/div[7]/div/div[1]/a/div/div/div[1]/span")
+        element = browser.find_element_by_xpath("//*[@id='events-chunkmode']/div/div/div[7]/div/div[1]/div/a/div/div/div[1]/span")
     except:
-        element = browser.find_element_by_xpath("//*[@id='events-chunkmode']/div/div/div[4]/div/div[1]/a/div/div/div[2]/span")
+        element = browser.find_element_by_xpath("//*[@id='events-chunkmode']/div/div/div[12]/div/div[1]/div/a/div/div/div[1]/span")
     browser.execute_script("arguments[0].scrollIntoView();", element)
     time.sleep(5)
 

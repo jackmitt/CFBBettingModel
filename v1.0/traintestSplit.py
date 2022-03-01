@@ -3,7 +3,7 @@ import numpy as np
 from cfbFcns import standardizeTeamName
 from evalPredictions import testClassification
 
-a = pd.read_csv('./new_csv_Data/bigboyBinClassificationBINNED.csv', encoding = "ISO-8859-1")
+a = pd.read_csv('./new_csv_Data/bigboyBinClassificationOctTest.csv', encoding = "ISO-8859-1")
 b = pd.DataFrame()
 bRows = []
 c = pd.DataFrame()
@@ -15,5 +15,5 @@ for index, row in a.iterrows():
         bRows.append(index)
 b = a.iloc[bRows]
 c = a.iloc[cRows]
-b.to_csv("./new_csv_Data/bigboyBinClassificationBINNEDTrain.csv")
-c.to_csv("./new_csv_Data/bigboyBinClassificationBINNEDTest.csv")
+b.to_csv("./new_csv_Data/bigboyBinClassificationOctTestTrain.csv")
+c.to_csv("./new_csv_Data/bigboyBinClassificationOctTestTest.csv")

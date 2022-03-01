@@ -5,7 +5,7 @@ from cfbFcns import standardizeTeamName
 import cfbd
 from cfbd.rest import ApiException
 
-curWeek = 5
+curWeek = 14
 
 curElo = {}
 teamDf = pd.read_csv('./csv_Data/majorDivTeams.csv', encoding = "ISO-8859-1")
@@ -153,41 +153,44 @@ year = 2021
 for i in range(1, curWeek):
     api_response = api_instance.get_games(year=year, week=i, season_type="regular")
     for x in api_response:
-        if (len(standardizeTeamName(standardizeTeamName(x.home_team, False),True).split("Error: ")) > 1):
-            eR = 1
-            eH = 0
-            kR = 150**(50/(curElo[standardizeTeamName(x.away_team, False)]["G"]+50))
-            if (int(x.away_points) > int(x.home_points)):
-                curElo[standardizeTeamName(x.away_team, False)]["Elo"] += kR*(1-eR)
-                eloLoss -= kR*(1-eR)
+        try:
+            if (len(standardizeTeamName(standardizeTeamName(x.home_team, False),True).split("Error: ")) > 1):
+                eR = 1
+                eH = 0
+                kR = 150**(50/(curElo[standardizeTeamName(x.away_team, False)]["G"]+50))
+                if (int(x.away_points) > int(x.home_points)):
+                    curElo[standardizeTeamName(x.away_team, False)]["Elo"] += kR*(1-eR)
+                    eloLoss -= kR*(1-eR)
+                else:
+                    curElo[standardizeTeamName(x.away_team, False)]["Elo"] += kR*(0-eR)
+                    eloLoss += kR*(1-eR)
+                curElo[standardizeTeamName(x.away_team, False)]["G"] += min(eH,eR)/max(eH,eR)
+            elif (len(standardizeTeamName(standardizeTeamName(x.away_team, False),True).split("Error: ")) > 1):
+                eR = 0
+                eH = 1
+                kH = 150**(50/(curElo[standardizeTeamName(x.home_team, False)]["G"]+50))
+                if (int(x.home_points) > int(x.away_points)):
+                    curElo[standardizeTeamName(x.home_team, False)]["Elo"] += kH*(1-eH)
+                    eloLoss -= kH*(1-eH)
+                else:
+                    curElo[standardizeTeamName(x.home_team, False)]["Elo"] += kH*(0-eH)
+                    eloLoss += kH*(0-eH)
+                curElo[standardizeTeamName(x.home_team, False)]["G"] += min(eH,eR)/max(eH,eR)
             else:
-                curElo[standardizeTeamName(x.away_team, False)]["Elo"] += kR*(0-eR)
-                eloLoss += kR*(1-eR)
-            curElo[standardizeTeamName(x.away_team, False)]["G"] += min(eH,eR)/max(eH,eR)
-        elif (len(standardizeTeamName(standardizeTeamName(x.away_team, False),True).split("Error: ")) > 1):
-            eR = 0
-            eH = 1
-            kH = 150**(50/(curElo[standardizeTeamName(x.home_team, False)]["G"]+50))
-            if (int(x.home_points) > int(x.away_points)):
-                curElo[standardizeTeamName(x.home_team, False)]["Elo"] += kH*(1-eH)
-                eloLoss -= kH*(1-eH)
-            else:
-                curElo[standardizeTeamName(x.home_team, False)]["Elo"] += kH*(0-eH)
-                eloLoss += kH*(0-eH)
-            curElo[standardizeTeamName(x.home_team, False)]["G"] += min(eH,eR)/max(eH,eR)
-        else:
-            eH = min(1, 1/(1+10**((curElo[standardizeTeamName(x.away_team, False)]["Elo"] - curElo[standardizeTeamName(x.home_team, False)]["Elo"])/400)) + 0.05)
-            eR = 1 - eH
-            kH = 150**(50/(curElo[standardizeTeamName(x.home_team, False)]["G"]+50))
-            kR = 150**(50/(curElo[standardizeTeamName(x.away_team, False)]["G"]+50))
-            if (int(x.home_points) > int(x.away_points)):
-                curElo[standardizeTeamName(x.home_team, False)]["Elo"] += kH*(1-eH)
-                curElo[standardizeTeamName(x.away_team, False)]["Elo"] += kR*(0-eR)
-            else:
-                curElo[standardizeTeamName(x.home_team, False)]["Elo"] += kH*(0-eH)
-                curElo[standardizeTeamName(x.away_team, False)]["Elo"] += kR*(1-eR)
-            curElo[standardizeTeamName(x.away_team, False)]["G"] += min(eH,eR)/max(eH,eR)
-            curElo[standardizeTeamName(x.home_team, False)]["G"] += min(eH,eR)/max(eH,eR)
+                eH = min(1, 1/(1+10**((curElo[standardizeTeamName(x.away_team, False)]["Elo"] - curElo[standardizeTeamName(x.home_team, False)]["Elo"])/400)) + 0.05)
+                eR = 1 - eH
+                kH = 150**(50/(curElo[standardizeTeamName(x.home_team, False)]["G"]+50))
+                kR = 150**(50/(curElo[standardizeTeamName(x.away_team, False)]["G"]+50))
+                if (int(x.home_points) > int(x.away_points)):
+                    curElo[standardizeTeamName(x.home_team, False)]["Elo"] += kH*(1-eH)
+                    curElo[standardizeTeamName(x.away_team, False)]["Elo"] += kR*(0-eR)
+                else:
+                    curElo[standardizeTeamName(x.home_team, False)]["Elo"] += kH*(0-eH)
+                    curElo[standardizeTeamName(x.away_team, False)]["Elo"] += kR*(1-eR)
+                curElo[standardizeTeamName(x.away_team, False)]["G"] += min(eH,eR)/max(eH,eR)
+                curElo[standardizeTeamName(x.home_team, False)]["G"] += min(eH,eR)/max(eH,eR)
+        except:
+            pass
 
 if (curWeek == 1):
     incElo = []

@@ -15,7 +15,7 @@ x = []
 y = []
 z = []
 allScores = []
-a = pd.read_csv('./new_csv_Data/bigboyBinClassificationTrain2.csv', encoding = "ISO-8859-1")
+a = pd.read_csv('./new_csv_Data/bigboyBinClassificationOctTestTrain.csv', encoding = "ISO-8859-1")
 y_train = a["binSpread"]
 xCols = []
 for col in a.columns:
@@ -24,12 +24,12 @@ for col in a.columns:
 scaler = StandardScaler()
 X_train = pd.DataFrame(a, columns = xCols)
 X_train[xCols] = scaler.fit_transform(X_train[xCols])
-bSpread = pd.read_csv('./new_csv_Data/bigboyBinClassificationTest2.csv', encoding = "ISO-8859-1")
+bSpread = pd.read_csv('./new_csv_Data/bigboyBinClassificationOctTestTest.csv', encoding = "ISO-8859-1")
 y_test = bSpread["binSpread"]
 X_test = pd.DataFrame(bSpread, columns = xCols)
 X_test[xCols] = scaler.transform(X_test[xCols])
 
-model = LogisticRegression(max_iter = 100000, C = 0.1)
+model = LogisticRegression(max_iter = 100000, C = 0.25)
 model.fit(X = X_train, y = y_train)
 for p in model.predict_proba(X_test):
     if (model.classes_[1] == 1):

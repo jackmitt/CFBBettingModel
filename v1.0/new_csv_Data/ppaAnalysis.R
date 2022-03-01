@@ -1,0 +1,10 @@
+library(ggplot2)
+library(sandwich)
+library(msm)
+library(glmnetUtils)
+library(sigmoid)
+library(My.stepwise)
+library(MASS)
+
+data = read.csv("C:/Users/JackMitt/Documents/CFBBettingModel/v1.0/new_csv_Data/aaaappatest.csv")
+ggplot(data, aes(x=Ppa)) + geom_histogram(data=subset(data,Year == 2014), fill="red", alpha = 0.2) + geom_histogram(data=subset(data,Year == 2015), fill="blue", alpha = 0.2) + geom_histogram(data=subset(data,Year == 2016), fill="yellow", alpha = 0.2) + geom_histogram(data=subset(data,Year == 2017), fill="green", alpha = 0.2) + geom_histogram(data=subset(data,Year == 2018), fill="orange", alpha = 0.2) + geom_histogram(data=subset(data,Year == 2019), fill="pink", alpha = 0.2) + geom_histogram(data=subset(data,Year == 2021), fill="black", alpha = 0.5)

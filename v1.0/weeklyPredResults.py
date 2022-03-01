@@ -910,7 +910,7 @@ for i in range(5, 14):
     X_test = pd.DataFrame(a, columns = xCols)
     X_test[xCols] = scaler.transform(X_test[xCols])
 
-    model = LogisticRegression(max_iter = 100000, C = 10)
+    model = LogisticRegression(max_iter = 100000, C = 0.1)
     model.fit(X = X_train, y = y_train)
     for p in model.predict_proba(X_test):
         if (model.classes_[1] == 1):
@@ -926,11 +926,11 @@ for i in range(5, 14):
         dict["PFITS Spread"].append(row["Spread PFITS"])
         dict["PFITS O/U"].append(row["O/U PFITS"])
         if (row["Favorite"] == row["HTeam"]):
-            if (float(row["Spread PFITS"]) > 1 / float(row["HSpread Odds"])):
+            if (float(row["Spread PFITS"]) > (1 / float(row["HSpread Odds"])) + 0.05):
                 dict["Spread Bet"].append(row["HTeam"] + " -" + str(row["Spread"]))
                 dict["Spread Amt"].append((float(row["Spread PFITS"]) - (1 - float(row["Spread PFITS"]))/(float(row["HSpread Odds"]) - 1)))
                 dict["Spread Odds"].append(row["HSpread Odds"])
-            elif (1 - float(row["Spread PFITS"]) > 1 / float(row["RSpread Odds"])):
+            elif (1 - float(row["Spread PFITS"]) > (1 / float(row["RSpread Odds"])) + 0.05):
                 dict["Spread Bet"].append(row["RTeam"] + " +" + str(row["Spread"]))
                 dict["Spread Amt"].append((1 - float(row["Spread PFITS"])) - (float(row["Spread PFITS"])/(float(row["RSpread Odds"]) - 1)))
                 dict["Spread Odds"].append(row["RSpread Odds"])
@@ -939,11 +939,11 @@ for i in range(5, 14):
                 dict["Spread Amt"].append(np.nan)
                 dict["Spread Odds"].append(np.nan)
         else:
-            if (float(row["Spread PFITS"]) > 1 / float(row["RSpread Odds"])):
+            if (float(row["Spread PFITS"]) > 1 / float(row["RSpread Odds"]) + 0.05):
                 dict["Spread Bet"].append(row["RTeam"] + " -" + str(row["Spread"]))
                 dict["Spread Amt"].append((float(row["Spread PFITS"])) - ((1 - float(row["Spread PFITS"]))/(float(row["RSpread Odds"]) - 1)))
                 dict["Spread Odds"].append(row["RSpread Odds"])
-            elif (1 - float(row["Spread PFITS"]) > 1 / float(row["HSpread Odds"])):
+            elif (1 - float(row["Spread PFITS"]) > 1 / float(row["HSpread Odds"]) + 0.05):
                 dict["Spread Bet"].append(row["HTeam"] + " +" + str(row["Spread"]))
                 dict["Spread Amt"].append(((1 - float(row["Spread PFITS"])) - (float(row["Spread PFITS"])/(float(row["HSpread Odds"]) - 1))))
                 dict["Spread Odds"].append(row["HSpread Odds"])
@@ -951,11 +951,11 @@ for i in range(5, 14):
                 dict["Spread Bet"].append(np.nan)
                 dict["Spread Amt"].append(np.nan)
                 dict["Spread Odds"].append(np.nan)
-        if (float(row["O/U PFITS"]) > 1 / float(row["HOver Odds"])):
+        if (float(row["O/U PFITS"]) > 1 / float(row["HOver Odds"]) + 0.05):
             dict["O/U Bet"].append("Over " + str(row["O/U"]))
             dict["O/U Amt"].append(float(row["O/U PFITS"]) - (1-float(row["O/U PFITS"]))/(float(row["HOver Odds"]) - 1))
             dict["O/U Odds"].append(row["HOver Odds"])
-        elif (1 - float(row["O/U PFITS"]) > 1 / float(row["HUnder Odds"])):
+        elif (1 - float(row["O/U PFITS"]) > 1 / float(row["HUnder Odds"]) + 0.05):
             dict["O/U Bet"].append("Under " + str(row["O/U"]))
             dict["O/U Amt"].append((1 - float(row["O/U PFITS"])) - (float(row["O/U PFITS"])/(float(row["HUnder Odds"]) - 1)))
             dict["O/U Odds"].append(row["HUnder Odds"])
@@ -971,6 +971,9 @@ for i in range(5, 14):
         if (not np.isnan(dict["O/U Amt"][i])):
             totalAmt += dict["O/U Amt"][i]
 
+
+    if (totalAmt < 5):
+        totalAmt = 5
     print(totalAmt)
 
     for i in range(len(dict["Home Team"])):
@@ -1045,7 +1048,7 @@ for i in range(5, 14):
                         elif (int(x.home_points) + int(x.away_points) < float(row["O/U Bet"].split("Over ")[1])):
                             ouSum -= float(row["O/U Amt"])
 
-    dict = {"Week":[week],"Total Net Win":[spreadSum + ouSum],"Ending Bankroll":[spreadSum + ouSum + spreadVol + ouVol],"Total Bets":[spreadNum + ouNum],"Total Volume":[spreadVol + ouVol],"Spread Bets":[spreadNum],"Spread Volume":[spreadVol],"Spread Net Win":[spreadSum],"O/U Bets":[ouNum],"O/U Volume":[ouVol],"O/U Net Win":[ouSum]}
+    dict = {"Week":[week],"Total Net Win":[spreadSum + ouSum],"Ending Bankroll":[spreadSum + ouSum + bankroll],"Total Bets":[spreadNum + ouNum],"Total Volume":[spreadVol + ouVol],"Spread Bets":[spreadNum],"Spread Volume":[spreadVol],"Spread Net Win":[spreadSum],"O/U Bets":[ouNum],"O/U Volume":[ouVol],"O/U Net Win":[ouSum]}
     dfFinal = pd.DataFrame.from_dict(dict)
 
     try:

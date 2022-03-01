@@ -16,7 +16,7 @@ configuration.api_key_prefix['Authorization'] = 'Bearer'
 # create an instance of the API class
 api_instance = cfbd.StatsApi(cfbd.ApiClient(configuration))
 year = 2021 # int | Year/season filter for games (optional)
-week = 4 # int | Week filter (optional)
+week = 13 # int | Week filter (optional)
 
 api_response = api_instance.get_advanced_team_game_stats(year=year, week=week, season_type="regular")
 dict = {}

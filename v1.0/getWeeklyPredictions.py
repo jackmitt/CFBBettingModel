@@ -17,13 +17,13 @@ from evalPredictions import testClassification
 from sklearn.utils import shuffle
 import random
 
-weekMain = 5
+weekMain = 14
 try:
     results = pd.read_csv('./new_csv_data/2021/RESULTS.csv', encoding = "ISO-8859-1")
 
     for index, row in results.iterrows():
         if (int(row["Week"]) == weekMain - 1):
-            bankroll = float(row["Ending Bankroll"])
+            bankroll = float(row["Ending Bankroll"]) + float(row["Manual Adjustment"])
 except:
     bankroll = 17384.83
 
@@ -971,6 +971,9 @@ for i in range(len(dict["Home Team"])):
         totalAmt += dict["O/U Amt"][i]
 
 print(totalAmt)
+
+if (totalAmt < 5):
+    totalAmt = 5
 
 for i in range(len(dict["Home Team"])):
     if (not np.isnan(dict["Spread Amt"][i])):
