@@ -49,12 +49,12 @@ def model_iteration(idₕ, sₕ_obs, idₐ, sₐ_obs, priors, n_teams, Δσ, sam
         # Team-specific poisson model parameters
         o_star_init = pm.Normal('o_star_init', mu=priors['offense'][0], sigma=priors['offense'][1], shape=n_teams)
         Δ_o = pm.Normal('Δ_o', mu=0.0, sigma=Δσ, shape=n_teams)
-        o = pm.Deterministic('o_star', o_star_init + Δ_o) #formerly o_star
+        o = pm.Deterministic('offense', o_star_init + Δ_o) #formerly o_star
         #o = pm.Deterministic('offense', o_star - tt.mean(o_star))
 
         d_star_init = pm.Normal('d_star_init', mu=priors['defense'][0], sigma=priors['defense'][1], shape=n_teams)
         Δ_d = pm.Normal('Δ_d', mu=0.0, sigma=Δσ, shape=n_teams)
-        d = pm.Deterministic('d_star', d_star_init + Δ_d) #formerly d_star
+        d = pm.Deterministic('defense', d_star_init + Δ_d) #formerly d_star
         #d = pm.Deterministic('defense', d_star - tt.mean(d_star))
 
         #μₕ = tt.exp(i + h + o[idₕ] - d[idₐ])
