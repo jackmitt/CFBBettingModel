@@ -1,3 +1,7 @@
 import data_manipulation as dm
+import pickle
 
-dm.preMatchAverages()
+
+with open("./csv_data/last_prior.pkl","rb") as inputFile:
+    priors = pickle.load(inputFile)
+print (priors)
