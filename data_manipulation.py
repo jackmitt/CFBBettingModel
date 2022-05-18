@@ -120,8 +120,8 @@ def preMatchAverages():
             print (seasonDict)
 
 def bayesian():
-    factor = 1.05                 # Expand the posteriors by this amount before using as priors -- old: 1.05
-    f_thresh = 10         # A cap on team variable standard deviation to prevent blowup -- old: 0.075
+    factor = 1                 # Expand the posteriors by this amount before using as priors -- old: 1.05
+    f_thresh = 35         # A cap on team variable standard deviation to prevent blowup -- old: 0.075
     Δσ = 0.005               # The standard deviaton of the random walk variables -- old: 0.001
 
     train = pd.read_csv("./csv_data/results.csv", encoding = "ISO-8859-1")
@@ -182,7 +182,16 @@ def bayesian():
     for index, row in train.iterrows():
         for col in train.columns:
             finalDict[col].append(row[col])
-        if (index != 0 and (row["week"] != train.at[index+1,"week"] or index == len(train.index) - 1)):
+        if (index != len(train.index) - 1 and row["week"] > train.at[index+1,"week"]):
+            bmf.fatten_priors(priors, 1.75, f_thresh)
+        if (oneIterComplete):
+            curPred = bmf.single_game_prediction(row, posteriors, teams_to_int, decimals = 5)
+            for key in curPred:
+                finalDict[key].append(curPred[key][0])
+        else:
+            for col in ["H_proj","A_proj"]:
+                finalDict[col].append(np.nan)
+        if (index != 0 and (index == len(train.index) - 1 or row["week"] != train.at[index+1,"week"])):
             new_obs = train.iloc[startIndex:index+1]
     #
             home_team = theano.shared(new_obs.i_home.values)
@@ -198,13 +207,6 @@ def bayesian():
     #
             startIndex = index+1
             oneIterComplete = True
-        if (oneIterComplete):
-            curPred = bmf.single_game_prediction(row, posteriors, teams_to_int, decimals = 5)
-            for key in curPred:
-                finalDict[key].append(curPred[key][0])
-        else:
-            for col in ["H_proj","A_proj"]:
-                finalDict[col].append(np.nan)
         tempDF = pd.DataFrame.from_dict(finalDict)
         tempDF.to_csv("./csv_data/bayes_predictions.csv", index = False)
         with open("./csv_data/last_prior.pkl", "wb") as f:
