@@ -121,8 +121,8 @@ def preMatchAverages():
 
 def bayesian():
     factor = 1                 # Expand the posteriors by this amount before using as priors -- old: 1.05
-    f_thresh = 35         # A cap on team variable standard deviation to prevent blowup -- old: 0.075
-    Δσ = 0.005               # The standard deviaton of the random walk variables -- old: 0.001
+    f_thresh = 7.5        # A cap on team variable standard deviation to prevent blowup -- old: 0.075
+    Δσ = 0.1               # The standard deviaton of the random walk variables -- old: 0.001
 
     train = pd.read_csv("./csv_data/results.csv", encoding = "ISO-8859-1")
     finalDict = {}
