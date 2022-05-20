@@ -119,15 +119,31 @@ def preMatchAverages():
                                seasonDict[game.teams[1]["school"]]["pen_yards"].append(int(cat["stat"].split("-")[1]))
             print (seasonDict)
 
+def mergeStatsResults():
+    results = pd.read_csv("./csv_data/results.csv", encoding = "ISO-8859-1")
+    stats = pd.DataFrame()
+    for file in listdir("./csv_data/adv_game_stats/"):
+        stats = stats.append(pd.read_csv("./csv_data/adv_game_stats/" + file, encoding = "ISO-8859-1"))
+    stats = stats.rename(columns={"ï»¿gameId":"id"})
+    results = results.merge(stats, on = "id")
+    droprows = []
+    for index, row in results.iterrows():
+        if (row["homeTeam"] != row["team"]):
+            droprows.append(index)
+    results = results.drop(droprows)
+    results.to_csv("./csv_data/kindafucked.csv", index = False)
+
 def bayesian():
     factor = 1                 # Expand the posteriors by this amount before using as priors -- old: 1.05
-    f_thresh = 7.5        # A cap on team variable standard deviation to prevent blowup -- old: 0.075
-    Δσ = 0.1               # The standard deviaton of the random walk variables -- old: 0.001
+    f_thresh = 20         # A cap on team variable standard deviation to prevent blowup -- old: 0.075
+    Δσ = 0.005               # The standard deviaton of the random walk variables -- old: 0.001
 
-    train = pd.read_csv("./csv_data/results.csv", encoding = "ISO-8859-1")
+    train = pd.read_csv("./csv_data/kindafucked.csv", encoding = "ISO-8859-1")
     finalDict = {}
     train = train.rename(columns={"homeScore": "home_team_reg_score"})
     train = train.rename(columns={"awayScore": "away_team_reg_score"})
+    train = train.rename(columns={"offense.ppa": "home_ppa"})
+    train = train.rename(columns={"defense.ppa": "away_ppa"})
     allTeams = []
     for index, row in train.iterrows():
         if (row["homeTeam"] not in allTeams):
@@ -170,7 +186,7 @@ def bayesian():
     #
     #
     num_teams = len(teams.index)
-    priors = {"home":[0,f_thresh],"intercept":[0,f_thresh],"offense":[[],[]],"defense":[[],[]]}
+    priors = {"home":[0,f_thresh],"intercept":[0,f_thresh],"beta1":[15,f_thresh],"offense":[[],[]],"defense":[[],[]]}
     for i in range(num_teams):
         priors["offense"][0].append(0)
         priors["offense"][1].append(f_thresh)
@@ -183,7 +199,7 @@ def bayesian():
         for col in train.columns:
             finalDict[col].append(row[col])
         if (index != len(train.index) - 1 and row["week"] > train.at[index+1,"week"]):
-            bmf.fatten_priors(priors, 1.75, f_thresh)
+            bmf.fatten_priors(priors, 2, f_thresh)
         if (oneIterComplete):
             curPred = bmf.single_game_prediction(row, posteriors, teams_to_int, decimals = 5)
             for key in curPred:
@@ -200,8 +216,10 @@ def bayesian():
     #
             observed_home_pts = new_obs.home_team_reg_score.values
             observed_away_pts = new_obs.away_team_reg_score.values
+            observed_home_ppa = new_obs.home_ppa.values
+            observed_away_ppa = new_obs.away_ppa.values
     #
-            posteriors = bmf.model_update(home_team, observed_home_pts, away_team, observed_away_pts, priors, num_teams, factor, f_thresh, Δσ)
+            posteriors = bmf.model_update(home_team, observed_home_pts, observed_home_ppa, away_team, observed_away_pts, observed_away_ppa, priors, num_teams, factor, f_thresh, Δσ)
     #
             priors = posteriors
     #

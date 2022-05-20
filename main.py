@@ -3,3 +3,5 @@ import evaluations as eval
 import pickle
 
 dm.bayesian()
+#eval.absoluteDiffs()
+#dm.mergeStatsResults()
