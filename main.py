@@ -2,7 +2,7 @@ import data_manipulation as dm
 import evaluations as eval
 import pickle
 
-#dm.bayesian()
+dm.bayesian()
 #eval.absoluteDiffs()
 #dm.mergeStatsResults()
 
