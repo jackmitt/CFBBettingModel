@@ -42,6 +42,7 @@ def fatten_priors(prev_posteriors, factor, f_thresh):
 
     return priors
 
+
 def model_iteration(idₕ, sₕ_obs, ppa_h_obs, idₐ, sₐ_obs, ppa_a_obs, priors, n_teams, Δσ, samples=2000, tune=1000, cores=1):
     with pm.Model():
 
@@ -55,6 +56,10 @@ def model_iteration(idₕ, sₕ_obs, ppa_h_obs, idₐ, sₐ_obs, ppa_a_obs, prio
         #Team PPA Efficiency
         o = pm.Normal('offense', mu=priors['offense'][0], sigma=priors['offense'][1], shape=n_teams)
         d = pm.Normal('defense', mu=priors['defense'][0], sigma=priors['defense'][1], shape=n_teams)
+
+        # constant parameters to help with ppa modelling
+        # h_ppa = pm.Normal('h_ppa', mu=priors['h_ppa'][0], sigma=priors['h_ppa'][1])
+        # i_ppa = pm.Normal('i_ppa', mu=priors['i_ppa'][0], sigma=priors['i_ppa'][1])
 
         # Team-specific poisson model parameters
         #o_star_init = pm.Normal('o_star_init', mu=priors['offense'][0], sigma=priors['offense'][1], shape=n_teams)

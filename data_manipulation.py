@@ -187,7 +187,7 @@ def bayesian():
     #
     #
     num_teams = len(teams.index)
-    priors = {"home":[3,1],"intercept":[0,f_thresh_global],"beta1":[15,f_thresh_global],"offense":[[],[]],"defense":[[],[]]}
+    priors = {"home":[3,0.25],"intercept":[15,f_thresh_global],"beta1":[15,f_thresh_global],"offense":[[],[]],"defense":[[],[]]}
     for i in range(num_teams):
         priors["offense"][0].append(0)
         priors["offense"][1].append(f_thresh_ppa)
