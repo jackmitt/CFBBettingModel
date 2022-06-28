@@ -6,7 +6,7 @@ from pprint import pprint
 import json
 import pandas as pd
 import numpy as np
-from helpers import Database, standardizeTeamName
+from helpers import Database, standardizeTeamName, openLineFileTeamFix
 from os import listdir
 import pymc3 as pm
 import theano.tensor as tt
@@ -232,15 +232,46 @@ def bayesian():
             pickle.dump(priors, f)
 
 def mergeOpenLines():
-    pred = pd.read_csv("./csv_data/bayes_predictions.csv", encoding = "ISO-8859-1")
-    fucked = []
+    pred = pd.read_csv("./csv_data/bayes_predictions1.csv", encoding = "ISO-8859-1")
+    pred = pred.drop_duplicates(ignore_index=True)
+    openSpreads = []
+    openers = {}
     for year in [2013,2014,2015,2016,2017,2018,2019,2020,2021]:
-        cur = pd.read_csv("./csv_data/opening_lines/" + str(year) + ".csv", encoding = "ISO-8859-1")
-        for index, row in cur.iterrows():
-            if ("Error:" in standardizeTeamName(row["Team"], True)):
-                if (row["Team"] not in fucked):
-                    fucked.append(row["Team"])
-    for fuck in fucked:
-        print (fuck)
+        openers[year] = pd.read_csv("./csv_data/opening_lines/" + str(year) + ".csv", encoding = "ISO-8859-1")
+    for index, row in pred.iterrows():
+        print (index)
+        curIndex = 0
+        while (curIndex < len(openers[row["season"]].index)):
+            found = False
+            # print (openers[row["season"]].at[curIndex, "Team"])
+            # print (openers[row["season"]].at[curIndex+1, "Team"])
+            if (standardizeTeamName(openLineFileTeamFix(openers[row["season"]].at[curIndex, "Team"]), False) == standardizeTeamName(row["Away"], False) and standardizeTeamName(openLineFileTeamFix(openers[row["season"]].at[curIndex+1, "Team"]), False) == standardizeTeamName(row["Home"], False)):
+                found = True
+                if (openers[row["season"]].at[curIndex, "Open"] == "pk" or openers[row["season"]].at[curIndex+1, "Open"] == "pk"):
+                    openSpreads.append(0)
+                    break
+                elif (openers[row["season"]].at[curIndex+1, "Open"] == "NL"):
+                    openSpreads.append(openers[row["season"]].at[curIndex, "Open"])
+                    break
+                elif (openers[row["season"]].at[curIndex, "Open"] == "NL"):
+                    openSpreads.append(0-float(openers[row["season"]].at[curIndex+1, "Open"]))
+                    break
+                try:
+                    float(openers[row["season"]].at[curIndex, "Open"])
+                    float(openers[row["season"]].at[curIndex+1, "Open"])
+                except:
+                    found = False
+                    break
+                if (float(openers[row["season"]].at[curIndex, "Open"]) < float(openers[row["season"]].at[curIndex+1, "Open"])):
+                    openSpreads.append(openers[row["season"]].at[curIndex, "Open"])
+                else:
+                    openSpreads.append(0-float(openers[row["season"]].at[curIndex+1, "Open"]))
+                break
+            curIndex += 2
+        if (not found):
+            openSpreads.append(np.nan)
+
+    pred["Open Spread"] = openSpreads
+    pred.to_csv("./csv_data/bayes_predictions1.csv", index = False)
 
 mergeOpenLines()

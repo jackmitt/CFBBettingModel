@@ -112,7 +112,7 @@ def standardizeTeamName(str, withError):
         return ("Bowling Green")
     elif (name == "buffalo"):
         return ("Buffalo")
-    elif (name == "byu"):
+    elif (name == "byu" or name == "b y u"):
         return ("BYU")
     elif (name == "california" or name == "califrnia" or name == "cal" or name == "cal."):
         return ("Cal")
@@ -182,13 +182,13 @@ def standardizeTeamName(str, withError):
         return ("Liberty")
     elif (name == "louisiana lafayette" or name == "louisiana" or name == "la.-laf" or name == "la.-laff" or name == "la.-lafayette" or name == "la.-laf." or name == "la.-laff" or name == "la.-laff." or name == "lafayette" or name == "la.-lafay." or name == "la. laf." or name == "louisiana-lafayette" or name == "la.-lafayete" or name == "la lafayette" or name == "la.-lafay" or "lafay" in name):
         return ("LA Lafayette")
-    elif (name == "louisiana monroe" or name == "la.-mon" or name == "la-mnroe" or name == "la.-monroe" or name == "la.-mon." or name == "la-monroe" or name == "la. monroe" or name == "la. mon." or name == "louisiana-monroe" or name == "la monroe" or name == "ul monroe" or name == "ulm"):
+    elif (name == "louisiana monroe" or name == "u l monroe" or name == "u l- monroe" or name == "la.-mon" or name == "la-mnroe" or name == "la.-monroe" or name == "la.-mon." or name == "la-monroe" or name == "la. monroe" or name == "la. mon." or name == "louisiana-monroe" or name == "la monroe" or name == "ul monroe" or name == "ulm"):
         return ("LA Monroe")
     elif (name == "louisiana tech" or name == "la tech" or name == "la. tech" or name == "la .tech" or name == "latech" or name == "latech"):
         return ("LA Tech")
     elif (name == "louisville" or name == "l'ville" or name == "lv"):
         return ("Louisville")
-    elif (name == "lsu"):
+    elif (name == "lsu" or name == "l s u"):
         return ("LSU")
     elif (name == "marshall" or name == "marsh."):
         return ("Marshall")
@@ -206,7 +206,7 @@ def standardizeTeamName(str, withError):
         return ("Michigan")
     elif (name == "michigan state" or name == "michigan st." or name == "mich. st." or name == "mich st." or name == "mich.st." or name == "mich. st" or name == "michigan st" or name == "mich st" or name == "mich.st"):
         return ("Michigan St.")
-    elif (name == "middle tennessee" or name == "mtsu" or name == "m. tenn. st." or name == "m. tenn. st" or name == "middle tennessee state" or name == "m.tenn st." or name == "m.tenn. st." or name == "mid. tenn. st." or name == "mid.tenn. st." or name == "mid tenn. st." or name == "m. tn. st." or name == "md. tenn. st." or "m.tenn" in name or name == "m tenn. st." or name == "middle tenn"):
+    elif (name == "middle tennessee" or name == "mtsu" or name == "mid tennessee state" or name == "middle tenn st" or name == "m. tenn. st." or name == "m. tenn. st" or name == "middle tennessee state" or name == "m.tenn st." or name == "m.tenn. st." or name == "mid. tenn. st." or name == "mid.tenn. st." or name == "mid tenn. st." or name == "m. tn. st." or name == "md. tenn. st." or "m.tenn" in name or name == "m tenn. st." or name == "middle tenn"):
         return ("MTSU")
     elif (name == "minnesota" or name == "minn." or name == "minn"):
         return ("Minnesota")
@@ -228,7 +228,7 @@ def standardizeTeamName(str, withError):
         return ("New Mexico St.")
     elif (name == "north carolina" or name == "n. carolina" or name == "n. carol." or name == "n. car." or name == "no. carolina"):
         return ("North Carolina")
-    elif (name == "north carolina state" or name == "n. carolina st." or name == "n. car. st." or name == "north carolina st." or name == "n. carolina st" or name == "n. car. st" or name == "north carolina st" or name == "n. carolina st.." or name == "nc state" or name == "nc st." or name == "n. c. st." or name == "n. car.st." or name == "north car. st." or name == "n.c. st."):
+    elif (name == "north carolina state" or name == "n. carolina st." or name == "n c state" or name == "n. car. st." or name == "north carolina st." or name == "n. carolina st" or name == "n. car. st" or name == "north carolina st" or name == "n. carolina st.." or name == "nc state" or name == "nc st." or name == "n. c. st." or name == "n. car.st." or name == "north car. st." or name == "n.c. st."):
         return ("NC St.")
     elif (name == "north texas" or name == "n. texas" or name == "no. texas" or name == "no.texas"):
         return ("North Texas")
@@ -266,7 +266,7 @@ def standardizeTeamName(str, withError):
         return ("San Diego St.")
     elif (name == "san jose state" or name == "san jose st." or name == "s. jose st." or name == "san jose st" or name == "s. jose st" or name == "s jose st" or name == "s.j. st." or name == "san josé state" or name == "s.jose st." or name == "san josac state" or name == "sjsu" or name == "s jose st."):
         return ("San Jose St.")
-    elif (name == "smu"):
+    elif (name == "smu" or name == "s m u"):
         return ("SMU")
     elif (name == "south alabama" or name == "s. alabama"):
         return ("South Alabama")
@@ -274,7 +274,7 @@ def standardizeTeamName(str, withError):
         return ("South Carolina")
     elif (name == "south florida" or name == "usf" or name == "s. florida" or name == "so florida" or name == "so. florida" or name == "s. fla." or name == "s florida"):
         return ("USF")
-    elif (name == "southern california" or name == "usc" or name == "s. california" or name == "s. calif." or name == "s.california" or name == "so. california" or name == "so. cal" or name == "so. calif." or name == "southern cal" or name == "s. cal." or name == "s. cal" or name == "so cal" or name == "so. cal."):
+    elif (name == "southern california" or name == "usc" or name == "u s c" or name == "s. california" or name == "s. calif." or name == "s.california" or name == "so. california" or name == "so. cal" or name == "so. calif." or name == "southern cal" or name == "s. cal." or name == "s. cal" or name == "so cal" or name == "so. cal."):
         return ("USC")
     elif (name == "southern miss" or name == "s. miss" or name == "so. miss." or name == "s. mississippi" or name == "so. miss" or name == "s. miss." or name == "southern mississippi" or name == "s mississippi" or name == "usm"):
         return ("Southern Miss")
@@ -282,7 +282,7 @@ def standardizeTeamName(str, withError):
         return ("Stanford")
     elif (name == "syracuse" or name == "syr."):
         return ("Syracuse")
-    elif (name == "tcu"):
+    elif (name == "tcu" or name == "t c u"):
         return ("TCU")
     elif (name == "temple"):
         return ("Temple")
@@ -290,7 +290,7 @@ def standardizeTeamName(str, withError):
         return ("Tennessee")
     elif (name == "texas"):
         return ("Texas")
-    elif (name == "texas a&m" or name == "tex. a&m" or name == "texas am"):
+    elif (name == "texas a&m" or name == "tex. a&m" or name == "texas am" or name == "texas a& m" or name == "texas a m"):
         return ("Texas A&M")
     elif (name == "texas state" or name == "texas st." or name == "texas st" or name == "txst"):
         return ("Texas St.")
@@ -304,21 +304,21 @@ def standardizeTeamName(str, withError):
         return ("Tulane")
     elif (name == "tulsa"):
         return ("Tulsa")
-    elif (name == "uab"):
+    elif (name == "uab" or name == "u a b"):
         return ("UAB")
     elif (name == "ucf" or name == "central florida" or name == "c. florida" or name == "central fla." or name == "c. fla." or name == "cent. fla."):
         return ("UCF")
-    elif (name == "ucla"):
+    elif (name == "ucla" or name == "u c l a"):
         return ("UCLA")
-    elif (name == "unlv"):
+    elif (name == "unlv" or name == "u n l v"):
         return ("UNLV")
     elif (name == "utah"):
         return ("Utah")
     elif (name == "utah state" or name == "utah st." or name == "utah st"):
         return ("Utah St.")
-    elif (name == "utep" or name == "texas-el paso" or name == "tx.-el paso"):
+    elif (name == "utep" or name == "texas-el paso" or name == "tx.-el paso" or name == "u t e p"):
         return ("UTEP")
-    elif (name == "utsa" or name == "ut san antonio" or name == "texassan"):
+    elif (name == "utsa" or name == "ut san antonio" or name == "texassan" or name == "tex san antonio" or name == "u t s a"):
         return ("UTSA")
     elif (name == "vanderbilt" or name == "vandy"):
         return ("Vanderbilt")
@@ -346,3 +346,13 @@ def standardizeTeamName(str, withError):
         if (withError):
             return ("Error: " + str.title())
         return (str.title())
+
+def openLineFileTeamFix(name):
+    fixed = ""
+    for i in range(len(name)):
+        if (name[i] >= "A" and name[i] <= "Z" and i != 0):
+            fixed = fixed + " "
+        fixed = fixed + name[i]
+    if (len(fixed) > 8 and fixed[-2:] == " U"):
+        fixed = fixed[:-2]
+    return (fixed)
