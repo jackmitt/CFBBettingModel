@@ -1,12 +1,12 @@
 from __future__ import print_function
 import time
-import cfbd
-from cfbd.rest import ApiException
+#import cfbd
+#from cfbd.rest import ApiException
 from pprint import pprint
 import json
 import pandas as pd
 import numpy as np
-from helpers import Database
+from helpers import Database, standardizeTeamName
 from os import listdir
 import pymc3 as pm
 import theano.tensor as tt
@@ -230,3 +230,17 @@ def bayesian():
         tempDF.to_csv("./csv_data/bayes_predictions.csv", index = False)
         with open("./csv_data/last_prior.pkl", "wb") as f:
             pickle.dump(priors, f)
+
+def mergeOpenLines():
+    pred = pd.read_csv("./csv_data/bayes_predictions.csv", encoding = "ISO-8859-1")
+    fucked = []
+    for year in [2013,2014,2015,2016,2017,2018,2019,2020,2021]:
+        cur = pd.read_csv("./csv_data/opening_lines/" + str(year) + ".csv", encoding = "ISO-8859-1")
+        for index, row in cur.iterrows():
+            if ("Error:" in standardizeTeamName(row["Team"], True)):
+                if (row["Team"] not in fucked):
+                    fucked.append(row["Team"])
+    for fuck in fucked:
+        print (fuck)
+
+mergeOpenLines()
