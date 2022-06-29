@@ -15,6 +15,7 @@ import datetime
 from itertools import combinations
 from scipy.stats import norm
 import bayesianModelFcns as bmf
+import bayesianStats as bsf
 import pickle
 
 
@@ -135,11 +136,28 @@ def mergeStatsResults():
 
 def bayesian():
     factor = 1                 # Expand the posteriors by this amount before using as priors -- old: 1.05
-    f_thresh_ppa = 0.25         # A cap on team variable standard deviation to prevent blowup -- old: 0.075
+    f_thresh_ppa = 0.5         # A cap on team variable standard deviation to prevent blowup -- old: 0.075
     f_thresh_global = 20
     Δσ = 0.005               # The standard deviaton of the random walk variables -- old: 0.001
 
     train = pd.read_csv("./csv_data/kindafucked.csv", encoding = "ISO-8859-1")
+    fbs_teams = []
+    teamDf = pd.read_csv('./csv_data/fbs_teams.csv', encoding = "ISO-8859-1")
+    for index, row in teamDf.iterrows():
+        fbs_teams.append(standardizeTeamName(row["school"],True))
+    #Adding Idaho Manually since they are no longer FBS
+    fbs_teams.append("Idaho")
+
+    droprows = []
+    for index, row in train.iterrows():
+        if (standardizeTeamName(row["homeTeam"], False) not in fbs_teams):
+            droprows.append(index)
+        elif (standardizeTeamName(row["awayTeam"], False) not in fbs_teams):
+            droprows.append(index)
+    train = train.drop(droprows)
+    train.reset_index(drop=True,inplace=True)
+
+
     finalDict = {}
     train = train.rename(columns={"homeScore": "home_team_reg_score"})
     train = train.rename(columns={"awayScore": "away_team_reg_score"})
@@ -187,22 +205,28 @@ def bayesian():
     #
     #
     num_teams = len(teams.index)
-    priors = {"home":[3,0.25],"intercept":[15,f_thresh_global],"beta1":[15,f_thresh_global],"offense":[[],[]],"defense":[[],[]]}
+    priors = {"home":[3,0.25],"intercept":[15,f_thresh_global],"beta1":[15,f_thresh_global]}
+
+    stats_priors = {"offense":[[],[]],"defense":[[],[]]}
     for i in range(num_teams):
-        priors["offense"][0].append(0)
-        priors["offense"][1].append(f_thresh_ppa)
-        priors["defense"][0].append(0)
-        priors["defense"][1].append(f_thresh_ppa)
+        stats_priors["offense"][0].append(0)
+        stats_priors["offense"][1].append(f_thresh_ppa)
+        stats_priors["defense"][0].append(0)
+        stats_priors["defense"][1].append(f_thresh_ppa)
     #
     oneIterComplete = False
+    oneSeasonComplete = False
     startIndex = 0
     for index, row in train.iterrows():
         for col in train.columns:
             finalDict[col].append(row[col])
         if (index != len(train.index) - 1 and row["week"] > train.at[index+1,"week"]):
-            bmf.fatten_priors(priors, 2, f_thresh_ppa)
-        if (oneIterComplete):
-            curPred = bmf.single_game_prediction(row, posteriors, teams_to_int, decimals = 5)
+            bsf.stats_fatten_priors(stats_priors, 20, f_thresh_ppa)
+            oneSeasonComplete = True
+        print (priors)
+        print (stats_priors)
+        if (oneIterComplete and oneSeasonComplete):
+            curPred = bmf.single_game_prediction(row, posteriors, stats_priors, teams_to_int, decimals = 5)
             for key in curPred:
                 finalDict[key].append(curPred[key][0])
         else:
@@ -219,20 +243,25 @@ def bayesian():
             observed_away_pts = new_obs.away_team_reg_score.values
             observed_home_ppa = new_obs.home_ppa.values
             observed_away_ppa = new_obs.away_ppa.values
+
+            stats_posteriors = bsf.stats_update(home_team, observed_home_ppa, away_team, observed_away_ppa, stats_priors, num_teams)
     #
-            posteriors = bmf.model_update(home_team, observed_home_pts, observed_home_ppa, away_team, observed_away_pts, observed_away_ppa, priors, num_teams, factor, f_thresh_ppa, Δσ)
+            stats_priors = stats_posteriors
+            if (oneSeasonComplete):
+                posteriors = bmf.model_update(home_team, observed_home_pts, away_team, observed_away_pts, priors, num_teams, stats_priors)
     #
-            priors = posteriors
+                priors = posteriors
+                oneIterComplete = True
     #
             startIndex = index+1
-            oneIterComplete = True
         tempDF = pd.DataFrame.from_dict(finalDict)
         tempDF.to_csv("./csv_data/bayes_predictions.csv", index = False)
-        with open("./csv_data/last_prior.pkl", "wb") as f:
-            pickle.dump(priors, f)
+        ########### Ignoring dumping priors until i settle on a model
+        # with open("./csv_data/last_prior.pkl", "wb") as f:
+        #     pickle.dump(priors, f)
 
 def mergeOpenLines():
-    pred = pd.read_csv("./csv_data/bayes_predictions1.csv", encoding = "ISO-8859-1")
+    pred = pd.read_csv("./csv_data/bayes_predictions_ppa2.csv", encoding = "ISO-8859-1")
     pred = pred.drop_duplicates(ignore_index=True)
     openSpreads = []
     openers = {}
@@ -272,6 +301,6 @@ def mergeOpenLines():
             openSpreads.append(np.nan)
 
     pred["Open Spread"] = openSpreads
-    pred.to_csv("./csv_data/bayes_predictions1.csv", index = False)
+    pred.to_csv("./csv_data/bayes_predictions_ppa2.csv", index = False)
 
-mergeOpenLines()
+bayesian()
