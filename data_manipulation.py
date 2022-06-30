@@ -163,6 +163,10 @@ def bayesian():
     train = train.rename(columns={"awayScore": "away_team_reg_score"})
     train = train.rename(columns={"offense.ppa": "home_ppa"})
     train = train.rename(columns={"defense.ppa": "away_ppa"})
+    train = train.rename(columns={"offense.successRate": "home_sr"})
+    train = train.rename(columns={"defense.successRate": "away_sr"})
+    train = train.rename(columns={"offense.explosiveness": "home_exp"})
+    train = train.rename(columns={"defense.explosiveness": "away_exp"})
     allTeams = []
     for index, row in train.iterrows():
         if (row["homeTeam"] not in allTeams):
@@ -205,14 +209,19 @@ def bayesian():
     #
     #
     num_teams = len(teams.index)
-    priors = {"home":[3,0.25],"intercept":[15,f_thresh_global],"beta1":[15,f_thresh_global]}
+    priors = {"home":[3,0.25],"intercept":[15,f_thresh_global],"beta_ppa":[15,f_thresh_global],"beta_sr":[15,f_thresh_global],"beta_exp":[15,f_thresh_global]}
 
-    stats_priors = {"offense":[[],[]],"defense":[[],[]]}
+    stats_priors = {"o_ppa":[[],[]],"d_ppa":[[],[]],"o_sr":[[],[]],"d_sr":[[],[]],"o_exp":[[],[]],"d_exp":[[],[]]}
     for i in range(num_teams):
-        stats_priors["offense"][0].append(0)
-        stats_priors["offense"][1].append(f_thresh_ppa)
-        stats_priors["defense"][0].append(0)
-        stats_priors["defense"][1].append(f_thresh_ppa)
+        for x in ["ppa","sr","exp"]:
+            stats_priors["o_" + x][0].append(0)
+            stats_priors["d_" + x][0].append(0)
+            if (x != "exp"):
+                stats_priors["o_" + x][1].append(f_thresh_ppa)
+                stats_priors["d_" + x][1].append(f_thresh_ppa)
+            else:
+                stats_priors["o_" + x][1].append(f_thresh_ppa * 2)
+                stats_priors["d_" + x][1].append(f_thresh_ppa * 2)
     #
     oneIterComplete = False
     oneSeasonComplete = False
@@ -223,8 +232,6 @@ def bayesian():
         if (index != len(train.index) - 1 and row["week"] > train.at[index+1,"week"]):
             bsf.stats_fatten_priors(stats_priors, 20, f_thresh_ppa)
             oneSeasonComplete = True
-        print (priors)
-        print (stats_priors)
         if (oneIterComplete and oneSeasonComplete):
             curPred = bmf.single_game_prediction(row, posteriors, stats_priors, teams_to_int, decimals = 5)
             for key in curPred:
@@ -243,8 +250,12 @@ def bayesian():
             observed_away_pts = new_obs.away_team_reg_score.values
             observed_home_ppa = new_obs.home_ppa.values
             observed_away_ppa = new_obs.away_ppa.values
+            observed_home_sr = new_obs.home_sr.values
+            observed_away_sr = new_obs.away_sr.values
+            observed_home_exp = new_obs.home_exp.values
+            observed_away_exp = new_obs.away_exp.values
 
-            stats_posteriors = bsf.stats_update(home_team, observed_home_ppa, away_team, observed_away_ppa, stats_priors, num_teams)
+            stats_posteriors = bsf.stats_update(home_team, observed_home_ppa, away_team, observed_away_ppa, observed_home_sr, observed_away_sr, observed_home_exp, observed_away_exp, stats_priors, num_teams)
     #
             stats_priors = stats_posteriors
             if (oneSeasonComplete):
@@ -261,7 +272,7 @@ def bayesian():
         #     pickle.dump(priors, f)
 
 def mergeOpenLines():
-    pred = pd.read_csv("./csv_data/bayes_predictions_ppa2.csv", encoding = "ISO-8859-1")
+    pred = pd.read_csv("./csv_data/bayes_predictions.csv", encoding = "ISO-8859-1")
     pred = pred.drop_duplicates(ignore_index=True)
     openSpreads = []
     openers = {}
@@ -301,6 +312,6 @@ def mergeOpenLines():
             openSpreads.append(np.nan)
 
     pred["Open Spread"] = openSpreads
-    pred.to_csv("./csv_data/bayes_predictions_ppa2.csv", index = False)
+    pred.to_csv("./csv_data/bayes_predictions.csv", index = False)
 
-bayesian()
+mergeOpenLines()

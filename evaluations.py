@@ -3,7 +3,7 @@ import numpy as np
 
 def absoluteDiffs():
     dict = {"<2.5":[],"<5":[],"<10":[],">10":[]}
-    pred = pd.read_csv("./csv_data/bayes_predictions1.csv", encoding = "ISO-8859-1")
+    pred = pd.read_csv("./csv_data/bayes_predictions.csv", encoding = "ISO-8859-1")
     for index, row in pred.iterrows():
         if (row["season"] < 2017):
             continue
@@ -62,7 +62,7 @@ def absoluteDiffs():
         print (key, np.average(dict[key]), len(dict[key]))
 
 def clv():
-    pred = pd.read_csv("./csv_data/bayes_predictions1.csv", encoding = "ISO-8859-1")
+    pred = pd.read_csv("./csv_data/bayes_predictions.csv", encoding = "ISO-8859-1")
     clv = []
     wr = []
     for index, row in pred.iterrows():
@@ -87,4 +87,4 @@ def clv():
 
     print (np.average(clv), len(clv))
     print (np.average(wr), len(wr))
-clv()
+absoluteDiffs()
