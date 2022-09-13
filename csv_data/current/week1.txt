@@ -1,0 +1,13 @@
+('Colorado', 'TCU') {'spread': 14.0, 'H_proj': 27.96460720615735, 'A_proj': 25.844864859553713, 'Bet': 'Colorado'}
+('Michigan State', 'Western Michigan') {'spread': -23.0, 'H_proj': 38.777223687733105, 'A_proj': 24.427834219891505, 'Bet': 'Western Michigan'}
+('Ole Miss', 'Troy') {'spread': -21.0, 'H_proj': 42.67055171215538, 'A_proj': 12.167402779986423, 'Bet': 'Ole Miss'}
+('Pittsburgh', 'West Virginia') {'spread': -7.5, 'H_proj': 33.49815389607188, 'A_proj': 17.419215559875042, 'Bet': 'Pittsburgh'}
+('South Carolina', 'Georgia State') {'spread': -12.5, 'H_proj': 26.53336585322549, 'A_proj': 21.49479870811168, 'Bet': 'Georgia State'}
+('UCLA', 'Bowling Green') {'spread': -23.0, 'H_proj': 50.236618385137085, 'A_proj': 13.154023987609532, 'Bet': 'UCLA'}
+('Indiana', 'Illinois') {'spread': -3.0, 'H_proj': 19.229506767128605, 'A_proj': 25.370269125289607, 'Bet': 'Illinois'}
+('Washington', 'Kent State') {'spread': -22.5, 'H_proj': 36.30444050815322, 'A_proj': 24.33903465954769, 'Bet': 'Kent State'}
+('Southern Mississippi', 'Liberty') {'spread': 3.5, 'H_proj': 16.37777392782371, 'A_proj': 28.58748924611958, 'Bet': 'Liberty'}
+('Maryland', 'Buffalo') {'spread': -24.5, 'H_proj': 37.41387679856026, 'A_proj': 26.650436508359014, 'Bet': 'Buffalo'}
+('Michigan', 'Colorado State') {'spread': -30.5, 'H_proj': 48.932804202229725, 'A_proj': 10.00708110158701, 'Bet': 'Michigan'}
+('Tulane', 'UMass') {'spread': -28.5, 'H_proj': 46.42687232670983, 'A_proj': 10.841932711883913, 'Bet': 'Tulane'}
+('Tennessee', 'Ball State') {'spread': -35.0, 'H_proj': 39.81276861165025, 'A_proj': 20.72341805802452, 'Bet': 'Ball State'}
