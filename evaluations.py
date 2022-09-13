@@ -3,7 +3,7 @@ import numpy as np
 
 def absoluteDiffs():
     dict = {"<2.5":[],"<5":[],"<10":[],">10":[]}
-    pred = pd.read_csv("./csv_data/bayes_predictions.csv", encoding = "ISO-8859-1")
+    pred = pd.read_csv("./csv_data/bayes_predictions1.csv", encoding = "ISO-8859-1")
     for index, row in pred.iterrows():
         if (row["season"] < 2017):
             continue

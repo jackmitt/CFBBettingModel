@@ -1,0 +1,3611 @@
+week,neutral_site,home_team,home_points,away_team,away_points,season
+1,false,Western Kentucky,38,Austin Peay,27,2022
+1,true,Northwestern,31,Nebraska,28,2022
+1,true,Florida Memorial University,39,Edward Waters,34,2022
+1,false,UNLV,52,Idaho State,21,2022
+1,true,Jacksonville State,42,Stephen F. Austin,17,2022
+1,false,Illinois,38,Wyoming,6,2022
+1,false,Utah State,31,Connecticut,20,2022
+1,false,Florida State,47,Duquesne,7,2022
+1,false,Florida Atlantic,43,Charlotte,13,2022
+1,false,Mercer,63,Morehead State,13,2022
+1,true,Alabama State,23,Howard,13,2022
+1,false,North Carolina,56,Florida A&M,24,2022
+1,false,UTEP,13,North Texas,31,2022
+1,false,New Mexico State,12,Nevada,23,2022
+1,false,Hawai'i,10,Vanderbilt,63,2022
+1,false,New Mexico Highlands,18,Eastern New Mexico,34,2022
+1,false,Southern Connecticut State,7,Shepherd,48,2022
+1,false,Clarion,14,West Liberty,21,2022
+1,false,Chowan,3,Barton College,17,2022
+1,false,Saginaw Valley,72,WV Wesleyan,0,2022
+1,false,Ashland,31,Notre Dame College,14,2022
+1,false,Michigan Tech,23,Wisconsin-Platteville,13,2022
+1,false,Bluefield,35,Johnson C Smith,34,2022
+1,false,Akron,30,St Francis (PA),23,2022
+1,false,Wagner,31,Fordham,48,2022
+1,false,Indiana State,17,North Alabama,14,2022
+1,false,Tusculum,70,St. Augustine's,13,2022
+1,false,Campbell,29,The Citadel,10,2022
+1,false,California (PA),35,Fairmont State,15,2022
+1,false,Northern Michigan,24,McKendree,31,2022
+1,false,Missouri S&T,20,South Dakota Mines,43,2022
+1,false,Quincy,15,Glenville State,44,2022
+1,false,Gannon,47,Charleston (WV),13,2022
+1,false,Minnesota-Duluth,31,Southwest Minnesota State,21,2022
+1,false,Bemidji State,34,Minnesota State,37,2022
+1,false,Pace,31,East Stroudsburg,16,2022
+1,false,Northern State,30,Upper Iowa,0,2022
+1,false,Gardner-Webb,56,Limestone,21,2022
+1,false,Florida International,38,Bryant,37,2022
+1,false,Toledo,37,Long Island University,0,2022
+1,false,Tennessee,59,Ball State,10,2022
+1,false,UCF,56,South Carolina State,10,2022
+1,false,Oklahoma State,58,Central Michigan,44,2022
+1,false,Valdosta State,,Keiser University,,2022
+1,false,Trine,38,Anderson (IN),0,2022
+1,false,Millsaps,21,Belhaven College,49,2022
+1,false,Furman,52,North Greenville,0,2022
+1,false,Lakeland University,20,Illinois College,38,2022
+1,false,Samford,27,Kennesaw State,17,2022
+1,false,Stony Brook,14,Rhode Island,35,2022
+1,false,St. Anselm,28,Millersville,10,2022
+1,false,Wheeling Jesuit,25,Seton Hill College,11,2022
+1,false,Washburn,45,Lincoln (MO),3,2022
+1,false,Grand Valley State,25,Colorado Mines,22,2022
+1,false,Frostburg State,21,American International,7,2022
+1,false,East Central,12,Harding,29,2022
+1,false,Oklahoma Baptist,32,Ouachita Baptist,42,2022
+1,false,Southeastern Oklahoma,41,Arkansas Tech,34,2022
+1,false,Southern Arkansas,62,Northwestern Oklahoma State,31,2022
+1,false,Southern Nazarene,26,Arkansas-Monticello,40,2022
+1,false,UVA-Wise,41,Ferrum,9,2022
+1,false,Minnesota St-Moorhead,14,Sioux Falls,27,2022
+1,false,Pittsburgh,38,West Virginia,31,2022
+1,false,Virginia Union,,Virginia Lynchburg,,2022
+1,false,New Hampshire,31,Monmouth,21,2022
+1,false,East Tennessee State,44,Mars Hill,7,2022
+1,false,Wake Forest,44,VMI,10,2022
+1,false,UT Martin,42,Western Illinois,25,2022
+1,false,Concordia-St. Paul,14,Augustana (SD),28,2022
+1,false,Ferris State,36,Central Washington,20,2022
+1,false,Henderson State,30,Southwestern Oklahoma,13,2022
+1,false,Angelo State,35,Chadron State,0,2022
+1,false,Purdue,31,Penn State,35,2022
+1,false,Texas A&M-Commerce,52,Lincoln University (CA),7,2022
+1,false,UAB,59,Alabama A&M,0,2022
+1,false,Northwest Missouri State,33,Fort Hays State,19,2022
+1,false,Central Arkansas,14,Missouri State,27,2022
+1,false,Southern Utah,44,St. Thomas (MN),13,2022
+1,true,Valley City State,,Concordia (MN),,2022
+1,false,Abilene Christian,28,Lamar,14,2022
+1,false,Missouri,52,Louisiana Tech,24,2022
+1,false,Northern Illinois,34,Eastern Illinois,27,2022
+1,false,Missouri Southern State,7,Nebraska-Kearney,24,2022
+1,false,Missouri Western,35,Central Oklahoma,0,2022
+1,false,Emporia State,42,Northeastern State,17,2022
+1,false,William Jewell College,14,Colorado Mesa,37,2022
+1,false,Pittsburg State,21,Central Missouri State,10,2022
+1,true,Dickinson State,,Black Hills State,,2022
+1,false,Tarleton State,29,Mississippi Valley State,13,2022
+1,false,Weber State,41,Western Oregon,5,2022
+1,false,Minnesota,38,New Mexico State,0,2022
+1,false,Arizona State,40,Northern Arizona,3,2022
+1,false,Fresno State,35,Cal Poly,7,2022
+1,false,San José State,21,Portland State,17,2022
+1,false,Villanova,45,Lehigh,17,2022
+1,false,West Chester,17,Bentley,16,2022
+1,false,Salisbury,49,Albright,0,2022
+1,false,Curry,20,MIT,34,2022
+1,false,Charlotte,24,William & Mary,41,2022
+1,false,Old Dominion,20,Virginia Tech,17,2022
+1,false,Michigan State,35,Western Michigan,13,2022
+1,false,Eastern Michigan,42,Eastern Kentucky,34,2022
+1,false,Merrimack,17,Holy Cross,31,2022
+1,false,Alvernia University,27,Ursinus,59,2022
+1,false,Franklin & Marshall,26,Lebanon Valley,7,2022
+1,false,Westfield State,29,Nichols,30,2022
+1,false,Carnegie Mellon,35,Whitworth,17,2022
+1,false,Springfield,42,Western New England,14,2022
+1,false,Hobart,36,Alfred,6,2022
+1,false,Worcester State College,21,Worcester Polytechnic,58,2022
+1,false,Fitchburg State,33,Dean College,28,2022
+1,false,Merchant Marine,7,FDU-Florham,17,2022
+1,false,Duke,30,Temple,0,2022
+1,false,Indiana,23,Illinois,20,2022
+1,false,Kansas,56,Tennessee Tech,10,2022
+1,false,Colorado,13,TCU,38,2022
+1,true,Wayland Baptist,,Hardin-Simmons,,2022
+1,false,East Carolina,20,NC State,21,2022
+1,false,Appalachian State,61,North Carolina,63,2022
+1,false,Charleston Southern,38,Western Carolina,52,2022
+1,false,Michigan,51,Colorado State,7,2022
+1,false,Morrisville State,,Kean,,2022
+1,false,Plymouth State,,Castleton State College,,2022
+1,false,Albion,,Carthage,,2022
+1,false,Marietta,,Dubuque,,2022
+1,false,Case Western Reserve,,Johns Hopkins,,2022
+1,false,Marist,12,Georgetown,43,2022
+1,false,UMass Dartmouth,,Husson,,2022
+1,false,Assumption,,Kutztown,,2022
+1,false,Navy,7,Delaware,14,2022
+1,false,Texas A&M,31,Sam Houston State,0,2022
+1,false,Connecticut,28,Central Connecticut,3,2022
+1,false,Iowa,7,South Dakota State,3,2022
+1,false,Boston College,21,Rutgers,22,2022
+1,false,Maryland,31,Buffalo,10,2022
+1,false,Southwestern University,,Cal Lutheran,,2022
+1,false,Greensboro,,Guilford,,2022
+1,false,College of New Jersey,,Moravian,,2022
+1,false,Allegheny,,Union,,2022
+1,false,Brockport State (NY),,Framingham State,,2022
+1,false,Bridgewater State,,Ithaca,,2022
+1,false,Ohio Wesleyan,,Otterbein,,2022
+1,false,Robert Morris,20,Dayton,22,2022
+1,false,Delaware Valley,,Westminster PA,,2022
+1,false,SUNY Cortland,,Wittenberg,,2022
+1,false,Ohio Dominican,,Findlay,,2022
+1,false,Salve Regina,,Norwich,,2022
+1,false,Lafayette,6,Sacred Heart,0,2022
+1,false,Virginia,34,Richmond,17,2022
+1,false,Luther,,Presentation College,,2022
+1,false,Coe,,Cornell College (IA),,2022
+1,false,Hope,,Aurora,,2022
+1,false,Kenyon,,Bluffton,,2022
+1,false,Air Force,48,Northern Iowa,17,2022
+1,false,Methodist,,Shenandoah,,2022
+1,false,Grove City College,,Juniata,,2022
+1,false,Wabash College,,Hampden-Sydney,,2022
+1,false,Gallaudet,,Waynesburg,,2022
+1,false,Gettysburg,,Bridgewater (VA),,2022
+1,false,Augustana (IL),,Rhodes,,2022
+1,false,St. John Fisher,,Buffalo State,,2022
+1,false,Alfred State College,,Misericordia,,2022
+1,false,McDaniel College,,Catholic University,,2022
+1,false,Hartwick,,SUNY Maritime,,2022
+1,false,Sewanee Univ. of the South,,St. Scholastica,,2022
+1,false,St Lawrence,0,Endicott College,27,2022
+1,false,DePauw,,Rose-Hulman,,2022
+1,false,St. Vincent,,Stevenson,,2022
+1,false,Kentucky State,10,Delta State,33,2022
+1,false,Butler,31,St. Thomas University (Fl),26,2022
+1,false,Brevard College,,Shorter,,2022
+1,false,WV State,,Shippensburg,,2022
+1,false,Erskine,49,UFTL,2,2022
+1,false,Rensselaer,,Dickinson,,2022
+1,false,Rockford,,Beloit College,,2022
+1,false,Truman State,,Davenport,,2022
+1,false,William Paterson,,Western Connecticut State,,2022
+1,true,Post University,,Lock Haven,,2022
+1,false,Ripon,,St. Norbert,,2022
+1,false,Northwood (MI),,Kentucky Wesleyan,,2022
+1,false,Lycoming,,Susquehanna,,2022
+1,false,Bethany (WV),,Hiram,,2022
+1,false,Kalamazoo,,Oberlin,,2022
+1,false,Bowie State,,New Haven,,2022
+1,false,Keystone,,Wilkes,,2022
+1,false,Washington & Jefferson,,John Carroll,,2022
+1,false,Montclair State,,Thiel College,,2022
+1,false,Widener,,Rowan,,2022
+1,false,Ohio Northern,,Alma College,,2022
+1,false,Emory & Henry,,Concord,,2022
+1,true,Franklin Pierce,,Edinboro,,2022
+1,false,Mount St. Joseph,,Baldwin-Wallace,,2022
+1,false,Coast Guard,,University of New England,,2022
+1,false,Mount Union,,Defiance,,2022
+1,false,Walsh,,Tiffin,,2022
+1,false,Iowa State,42,Southeast Missouri State,10,2022
+1,false,Olivet College,,Franklin,,2022
+1,false,Concordia (IL),,Chicago,,2022
+1,false,Lake Forest,,Wisconsin Lutheran,,2022
+1,false,Eureka College,,Nebraska Wesleyan University,,2022
+1,false,Bloomsburg,30,Stonehill,33,2022
+1,false,Jacksonville State,35,Davidson,17,2022
+1,false,St. Johns (MN),,UW-Whitewater,,2022
+1,false,Knox College,,Westminster,,2022
+1,false,Texas Lutheran,,Howard Payne,,2022
+1,false,Elmhurst,,UW-River Falls,,2022
+1,false,Youngstown State,31,Duquesne,14,2022
+1,false,UW-Oshkosh,,East Texas Baptist,,2022
+1,false,Delaware State,34,Lincoln (PA),0,2022
+1,false,Millikin,,Greenville,,2022
+1,false,Maryville TN,,Berry College,,2022
+1,false,Minot State,,Winona State,,2022
+1,false,Hendrix College,,Austin College,,2022
+1,false,Central,,St. Olaf College,,2022
+1,true,McMurry,,Birmingham-Southern,,2022
+1,false,Martin Luther College,,Concordia (WI),,2022
+1,false,Bethel (MN),,Pacific Lutheran,,2022
+1,false,Wisconsin-Eau Claire,,Loras College,,2022
+1,false,UCLA,45,Bowling Green,17,2022
+1,false,Lake Erie College,,Hillsdale,,2022
+1,false,Willamette,,Pomona-Pitzer,,2022
+1,false,LaGrange College,,Middle Georgia State College,,2022
+1,false,Montana,47,Northwestern State,0,2022
+1,false,Wyoming,40,Tulsa,37,2022
+1,false,Marshall,55,Norfolk State,3,2022
+1,false,San Diego State,20,Arizona,38,2022
+1,false,Nebraska,38,North Dakota,17,2022
+1,false,Oklahoma,45,UTEP,13,2022
+1,false,Miami,70,Bethune-Cookman,13,2022
+1,false,UT San Antonio,35,Houston,37,2022
+1,true,Georgia,49,Oregon,3,2022
+1,false,North Dakota State,56,Drake,14,2022
+1,false,Arkansas,31,Cincinnati,24,2022
+1,false,South Florida,21,BYU,50,2022
+1,false,Ole Miss,28,Troy,10,2022
+1,false,Northern Colorado,34,Houston Baptist,46,2022
+1,false,California,34,UC Davis,13,2022
+1,false,Eastern Washington,36,Tennessee State,29,2022
+1,false,Shaw,,Wingate,,2022
+1,false,Lewis & Clark,41,Puget Sound,15,2022
+1,false,Edward Waters,,Clark Atlanta,,2022
+1,false,South Alabama,48,Nicholls,7,2022
+1,false,Wisconsin-La Crosse,,Dakota State,,2022
+1,false,Nevada,38,Texas State,14,2022
+1,true,Averett,,Apprentice School,,2022
+1,false,James Madison,44,Middle Tennessee,7,2022
+1,false,Alabama State,21,Miles,13,2022
+1,false,Bucknell,13,Towson,14,2022
+1,false,Morehouse,,West Alabama,,2022
+1,false,Chattanooga,31,Wofford,0,2022
+1,false,Stetson,24,Concordia College (MI),14,2022
+1,false,Lenoir-Rhyne,,Virginia State,,2022
+1,true,Finlandia University,,Benedictine (IL),,2022
+1,false,USC,66,Rice,14,2022
+1,false,Livingstone,,Catawba,,2022
+1,false,Hampton,31,Howard,28,2022
+1,false,Georgia Southern,59,Morgan State,7,2022
+1,false,Ohio,41,Florida Atlantic,38,2022
+1,false,Benedict College,,Elizabeth City State,,2022
+1,false,Indianapolis,,St. Xavier (IL),,2022
+1,false,Slippery Rock,,Wayne State (MI),,2022
+1,false,Newberry,,Allen,,2022
+1,false,West Georgia,,Carson-Newman,,2022
+1,false,Alderson-Broaddus,,Mercyhurst,,2022
+1,false,Randolph-Macon,,NC Wesleyan,,2022
+1,false,Washington & Lee,,Christopher Newport,,2022
+1,false,Buena Vista,,Gustavus Adolphus,,2022
+1,false,University of Mary,,Wayne State (NE),,2022
+1,false,Valparaiso,,Indiana Wesleyan,,2022
+1,false,Wisconsin,38,Illinois State,0,2022
+1,false,Arkansas State,58,Grambling,3,2022
+1,false,Austin Peay,63,Presbyterian College,0,2022
+1,false,Alcorn State,27,Stephen F. Austin,31,2022
+1,true,West Florida,52,Warner,3,2022
+1,false,Valparaiso,20,Indiana Wesleyan,17,2022
+1,false,Baylor,69,Albany,10,2022
+1,false,Louisiana,24,Southeastern Louisiana,7,2022
+1,false,Incarnate Word,64,Southern Illinois,29,2022
+1,false,Arkansas-Pine Bluff,48,Lane,42,2022
+1,false,University of Texas of the Permian Basin,,Southwest Baptist,,2022
+1,false,Prairie View,40,Texas Southern,23,2022
+1,false,Auburn,42,Mercer,16,2022
+1,false,Vanderbilt,42,Elon,31,2022
+1,false,Kansas State,34,South Dakota,0,2022
+1,false,Southern Mississippi,27,Liberty,29,2022
+1,false,Florida,29,Utah,26,2022
+1,false,Coastal Carolina,38,Army,28,2022
+1,false,Tulane,42,UMass,10,2022
+1,false,Wisconsin-Stevens Point,,Mayville State,,2022
+1,false,Mary Hardin-Baylor,,Muhlenberg,,2022
+1,false,Utica,,Rochester,,2022
+1,false,Southern,86,Florida Memorial University,0,2022
+1,false,Albany State (GA),,Mississippi College,,2022
+1,false,Kentucky,37,Miami (OH),13,2022
+1,false,Heidelberg,,Adrian,,2022
+1,false,Minnesota-Morris,,Macalester,,2022
+1,false,Huntingdon,,Linfield,,2022
+1,false,North Park,,Manchester,,2022
+1,false,Trinity (TX),,Sul Ross State,,2022
+1,false,Fayetteville State,,UNC Pembroke,,2022
+1,false,Midwestern State,,Colorado State-Pueblo,,2022
+1,false,Denison,,Capital,,2022
+1,false,Southern Virginia,,Wilmington (OH),,2022
+1,false,Geneva College,,Wooster,,2022
+1,false,Mississippi State,49,Memphis,23,2022
+1,false,Alabama,55,Utah State,0,2022
+1,false,Ohio State,21,Notre Dame,10,2022
+1,true,North Carolina Central,28,North Carolina A&T,13,2022
+1,false,North Texas,10,SMU,48,2022
+1,false,South Carolina,35,Georgia State,14,2022
+1,false,Montana State,40,McNeese,17,2022
+1,false,Monmouth (IL),,Wartburg,,2022
+1,false,Western State,,West Texas A&M,,2022
+1,false,Texas,52,Louisiana Monroe,10,2022
+1,false,New Mexico,41,Maine,0,2022
+1,false,Texas A&M-Kingsville,,North American University,,2022
+1,false,Texas Tech,63,Murray State,10,2022
+1,false,Syracuse,31,Louisville,7,2022
+1,false,Crown College,,Hamline,,2022
+1,false,Western New Mexico,,Adams State,,2022
+1,false,Stanford,41,Colgate,10,2022
+1,false,Northwestern (MN),,Augsburg,,2022
+1,false,San Diego,58,La Verne,0,2022
+1,false,Washington State,24,Idaho,17,2022
+1,false,Chapman,,Pacific (OR),,2022
+1,false,George Fox University,,Redlands,,2022
+1,false,Washington,45,Kent State,20,2022
+1,false,Sacramento State,56,Utah Tech,33,2022
+1,false,Oregon State,34,Boise State,17,2022
+1,false,Hawai'i,17,Western Kentucky,49,2022
+1,false,Hanover,,Centre,,2022
+1,true,Jackson State,59,Florida A&M,3,2022
+1,true,Central State,41,Winston-Salem,21,2022
+1,true,Tuskegee,6,Fort Valley State,21,2022
+1,true,Florida State,24,LSU,23,2022
+1,true,Georgia Tech,,Clemson,,2022
+2,false,West Liberty,,Alderson-Broaddus,,2022
+2,false,Quincy,,Trinity International (IL),,2022
+2,false,Fairmont State,,Charleston (WV),,2022
+2,false,Nebraska-Kearney,,Pittsburg State,,2022
+2,false,Central Oklahoma,,Emporia State,,2022
+2,false,Central Missouri State,,Washburn,,2022
+2,false,Fort Hays State,,Missouri Western,,2022
+2,false,Missouri State,,UT Martin,,2022
+2,false,Worcester Polytechnic,,Endicott College,,2022
+2,false,Merrimack,,Assumption,,2022
+2,false,Nichols,,Dean College,,2022
+2,false,SUNY Maritime,,Mass Maritime,,2022
+2,false,FDU-Florham,,William Paterson,,2022
+2,false,UCF,,Louisville,,2022
+2,false,New Mexico,,Boise State,,2022
+2,false,Millersville,,Gannon,,2022
+2,false,Shepherd,,Edinboro,,2022
+2,false,West Chester,,Slippery Rock,,2022
+2,false,Georgia State,,North Carolina,,2022
+2,false,Miami,,Southern Mississippi,,2022
+2,false,Northwestern,,Duke,,2022
+2,false,Minnesota,,Western Illinois,,2022
+2,false,Ohio State,,Arkansas State,,2022
+2,false,Vanderbilt,,Wake Forest,,2022
+2,false,Kansas State,,Missouri,,2022
+2,false,Arkansas,,South Carolina,,2022
+2,false,Texas,,Alabama,,2022
+2,false,Hiram,,Wooster,,2022
+2,false,Oberlin,,Alvernia University,,2022
+2,false,Otterbein,,Heidelberg,,2022
+2,false,Norwich,,St Lawrence,,2022
+2,false,Springfield,,Rowan,,2022
+2,false,Shorter,,Catawba,,2022
+2,false,Duquesne,,Thomas More,,2022
+2,false,Penn State,,Ohio,,2022
+2,false,Army,,UT San Antonio,,2022
+2,false,SUNY Cortland,,College of New Jersey,,2022
+2,false,Notre Dame College,,Wheeling Jesuit,,2022
+2,false,UNC Pembroke,,WV Wesleyan,,2022
+2,false,Kutztown,,California (PA),,2022
+2,false,Albion,,Bluffton,,2022
+2,false,Anna Maria College,,UMass Dartmouth,,2022
+2,false,Framingham State,,St. John Fisher,,2022
+2,false,Utica,,Kean,,2022
+2,true,Hilbert College,,Denison,,2022
+2,false,NC State,,Charleston Southern,,2022
+2,false,Frostburg State,,WV State,,2022
+2,false,Rensselaer,,Carnegie Mellon,,2022
+2,false,Moravian,,Gettysburg,,2022
+2,false,UW-Whitewater,,Mary Hardin-Baylor,,2022
+2,false,Central Michigan,,South Alabama,,2022
+2,false,Kalamazoo,,Kenyon,,2022
+2,false,Lebanon Valley,,Lycoming,,2022
+2,false,Maine,,Colgate,,2022
+2,false,Monmouth,,Fordham,,2022
+2,false,Hope,,Coe,,2022
+2,false,Ithaca,,Brockport State (NY),,2022
+2,false,Grove City College,,Geneva College,,2022
+2,false,Westminster PA,,Bethany (WV),,2022
+2,false,Stonehill,,Post University,,2022
+2,false,Adrian,,Hanover,,2022
+2,false,Presbyterian College,,Virginia Lynchburg,,2022
+2,false,Long Island University,,Villanova,,2022
+2,false,Alfred,,Mount St. Joseph,,2022
+2,false,University of New England,,Bridgewater State,,2022
+2,false,Husson,,Plymouth State,,2022
+2,false,Ursinus,,Johns Hopkins,,2022
+2,false,Concord,,Glenville State,,2022
+2,false,Gallaudet,,Greensboro,,2022
+2,false,Northwood (MI),,Madonna University,,2022
+2,false,Carson-Newman,,Franklin Pierce,,2022
+2,false,Mississippi College,,Keiser University,,2022
+2,false,New Haven,,Southern Connecticut State,,2022
+2,false,Lenoir-Rhyne,,Ferris State,,2022
+2,false,Shippensburg,,Seton Hill College,,2022
+2,false,Chowan,,Tusculum,,2022
+2,false,Hartwick,,King's College (PA),,2022
+2,false,Tiffin,,Ohio Dominican,,2022
+2,false,MIT,,Salve Regina,,2022
+2,false,Northern Michigan,,UW-Oshkosh,,2022
+2,true,Mayville State,,Nebraska Wesleyan University,,2022
+2,false,Central State,,Lincoln (PA),,2022
+2,false,St. Augustine's,,Limestone,,2022
+2,false,Beloit College,,Cornell College (IA),,2022
+2,false,Ferrum,,Muskingum,,2022
+2,false,Sewanee Univ. of the South,,Washington & Lee,,2022
+2,false,Thiel College,,Allegheny,,2022
+2,false,Waynesburg,,Case Western Reserve,,2022
+2,false,Catholic University,,Randolph-Macon,,2022
+2,false,Union,,Worcester State College,,2022
+2,false,Wabash College,,North Central,,2022
+2,false,Olivet College,,Eureka College,,2022
+2,false,Concordia (IL),,Finlandia University,,2022
+2,false,Whitworth,,Eastern Oregon,,2022
+2,false,Hampden-Sydney,,Widener,,2022
+2,false,St. Vincent,,Washington & Jefferson,,2022
+2,true,Apprentice School,,Brevard College,,2022
+2,false,Susquehanna,,Franklin & Marshall,,2022
+2,false,Morrisville State,,Hobart,,2022
+2,false,Stevenson,,Salisbury,,2022
+2,false,Montclair State,,Delaware Valley,,2022
+2,false,Misericordia,,Keystone,,2022
+2,false,Western New England,,Westfield State,,2022
+2,false,Muhlenberg,,Dickinson,,2022
+2,false,Juniata,,McDaniel College,,2022
+2,false,Wilmington (OH),,Baldwin-Wallace,,2022
+2,false,VMI,,Bucknell,,2022
+2,false,Coast Guard,,Curry,,2022
+2,false,Clark Atlanta,,Erskine,,2022
+2,false,Utah,,Southern Utah,,2022
+2,false,Temple,,Lafayette,,2022
+2,false,Youngstown State,,Dayton,,2022
+2,false,Central,,Wisconsin-Eau Claire,,2022
+2,false,St. Thomas (MN),,Michigan Tech,,2022
+2,false,Hamline,,Minnesota-Morris,,2022
+2,false,Black Hills State,,William Jewell College,,2022
+2,false,Concordia (WI),,Northwestern (MN),,2022
+2,false,Sioux Falls,,Minot State,,2022
+2,false,St. Norbert,,Wisconsin-Stevens Point,,2022
+2,false,Illinois Wesleyan,,Ohio Wesleyan,,2022
+2,false,St. Olaf College,,Luther,,2022
+2,false,Grinnell,,Monmouth (IL),,2022
+2,false,Lakeland University,,Buena Vista,,2022
+2,false,Drake,,Missouri S&T,,2022
+2,false,McKendree,,Delta State,,2022
+2,false,South Dakota Mines,,Truman State,,2022
+2,false,Washington (MO),,Hendrix College,,2022
+2,false,Colorado Mines,,Angelo State,,2022
+2,false,Augustana (SD),,Bemidji State,,2022
+2,false,Aurora,,Franklin,,2022
+2,false,Austin College,,Rhodes,,2022
+2,false,Greenville,,Rockford,,2022
+2,false,Illinois College,,Chicago,,2022
+2,false,St. Johns (MN),,UW-River Falls,,2022
+2,false,McMurry,,Millsaps,,2022
+2,false,Wisconsin-Platteville,,Bethel (MN),,2022
+2,false,Carleton,,Crown College,,2022
+2,false,Westminster,,Iowa Wesleyan,,2022
+2,false,Ball State,,Western Michigan,,2022
+2,false,Castleton State College,,Fitchburg State,,2022
+2,false,Fort Lewis,,Arizona Christian,,2022
+2,false,Bridgewater (VA),,Southern Virginia,,2022
+2,false,Bloomsburg,,Clarion,,2022
+2,false,Winona State,,University of Mary,,2022
+2,false,Notre Dame,,Marshall,,2022
+2,false,Lane,,Benedict College,,2022
+2,false,St. Anselm,,American International,,2022
+2,false,Montana State,,Morehead State,,2022
+2,false,Willamette,,La Verne,,2022
+2,false,Lincoln (MO),,Northwest Missouri State,,2022
+2,false,Albright,,Western Connecticut State,,2022
+2,false,Montana,,South Dakota,,2022
+2,false,Texas A&M,,Appalachian State,,2022
+2,false,Wisconsin,,Washington State,,2022
+2,false,Pittsburgh,,Tennessee,,2022
+2,false,Cincinnati,,Kennesaw State,,2022
+2,false,Clemson,,Furman,,2022
+2,false,Charlotte,,Maryland,,2022
+2,false,North Dakota State,,North Carolina A&T,,2022
+2,false,Air Force,,Colorado,,2022
+2,false,Navy,,Memphis,,2022
+2,false,Purdue,,Indiana State,,2022
+2,false,Wyoming,,Northern Colorado,,2022
+2,false,Upper Iowa,,Minnesota St-Moorhead,,2022
+2,false,Bowling Green,,Eastern Kentucky,,2022
+2,false,Colorado State,,Middle Tennessee,,2022
+2,false,The Citadel,,East Tennessee State,,2022
+2,false,James Madison,,Norfolk State,,2022
+2,false,Bentley,,Pace,,2022
+2,false,Bethune-Cookman,,South Carolina State,,2022
+2,false,Rutgers,,Wagner,,2022
+2,false,Michigan State,,Akron,,2022
+2,false,Washington,,Portland State,,2022
+2,false,North Dakota,,Northern Iowa,,2022
+2,false,Georgia,,Samford,,2022
+2,false,Claremont,,Whittier,,2022
+2,false,Austin Peay,,Mississippi Valley State,,2022
+2,false,California,,UNLV,,2022
+2,false,Illinois,,Virginia,,2022
+2,false,Iowa,,Iowa State,,2022
+2,false,Texas Tech,,Houston,,2022
+2,true,Elizabeth City State,,Livingstone,,2022
+2,false,Simon Fraser,,MONTANASTN,,2022
+2,false,Western Oregon,,Lincoln University (CA),,2022
+2,false,Valdosta State,,Virginia Union,,2022
+2,false,UCLA,,Alabama State,,2022
+2,false,Cal Poly,,San Diego,,2022
+2,false,Georgetown,,Lehigh,,2022
+2,false,Richmond,,St Francis (PA),,2022
+2,false,Nevada,,Incarnate Word,,2022
+2,false,Wayne State (MI),,Shaw,,2022
+2,false,West Virginia,,Kansas,,2022
+2,false,East Carolina,,Old Dominion,,2022
+2,false,Buffalo,,Holy Cross,,2022
+2,false,Florida Atlantic,,Southeastern Louisiana,,2022
+2,false,Coastal Carolina,,Gardner-Webb,,2022
+2,false,Liberty,,UAB,,2022
+2,false,Anderson (IN),,DePauw,,2022
+2,false,Alfred State College,,Rochester,,2022
+2,true,Bluefield College,,Emory & Henry,,2022
+2,false,Ripon,,Knox College,,2022
+2,false,Lawrence,,Lake Forest,,2022
+2,false,Alma College,,Manchester,,2022
+2,false,Berry College,,LaGrange College,,2022
+2,false,Allen,,Johnson C Smith,,2022
+2,false,Virginia State,,Bluefield,,2022
+2,false,Saginaw Valley,,Bowie State,,2022
+2,false,Edward Waters,,Savannah State,,2022
+2,false,Morehouse,,West Georgia,,2022
+2,false,North Carolina Central,,Winston-Salem,,2022
+2,false,Central Connecticut,,Sacred Heart,,2022
+2,false,Bryant,,Rhode Island,,2022
+2,false,Wofford,,Elon,,2022
+2,false,Butler,,Taylor,,2022
+2,false,Stetson,,Louisiana College,,2022
+2,false,William & Mary,,Campbell,,2022
+2,false,Delaware,,Delaware State,,2022
+2,false,Hampton,,Tuskegee,,2022
+2,false,Florida A&M,,Albany State (GA),,2022
+2,false,Miami (OH),,Robert Morris,,2022
+2,false,Lock Haven,,Mercyhurst,,2022
+2,false,Findlay,,Ashland,,2022
+2,false,Southwest Minnesota State,,Concordia-St. Paul,,2022
+2,false,Capital,,Ohio Northern,,2022
+2,false,Wisconsin Lutheran,,Carroll (WI),,2022
+2,false,Benedictine (IL),,Loras College,,2022
+2,false,Miles,,West Alabama,,2022
+2,false,Fayetteville State,,Wingate,,2022
+2,false,Arkansas Tech,,East Central,,2022
+2,false,Arkansas-Monticello,,Oklahoma Baptist,,2022
+2,false,Northwestern Oklahoma State,,Henderson State,,2022
+2,false,Southwestern Oklahoma,,Southern Arkansas,,2022
+2,false,Ouachita Baptist,,Southern Nazarene,,2022
+2,false,Macalester,,Martin Luther College,,2022
+2,false,Centre,,Maryville TN,,2022
+2,false,Shenandoah,,NC Wesleyan,,2022
+2,false,Christopher Newport,,Averett,,2022
+2,false,Utah State,,Weber State,,2022
+2,false,Troy,,Alabama A&M,,2022
+2,false,Louisiana Tech,,Stephen F. Austin,,2022
+2,false,South Florida,,Howard,,2022
+2,false,Tulsa,,Northern Illinois,,2022
+2,false,Rose-Hulman,,Trine,,2022
+2,false,Birmingham-Southern,,Huntingdon,,2022
+2,false,Louisiana,,Eastern Michigan,,2022
+2,false,Guilford,,Methodist,,2022
+2,false,North Greenville,,Newberry,,2022
+2,false,Southwest Baptist,,West Florida,,2022
+2,false,Hillsdale,,Walsh,,2022
+2,false,Dubuque,,Wisconsin-La Crosse,,2022
+2,false,Murray State,,Jacksonville State,,2022
+2,false,Towson,,Morgan State,,2022
+2,false,Tennessee Tech,,Texas A&M-Commerce,,2022
+2,true,Northwestern State,,Grambling,,2022
+2,false,Wayne State (NE),,Northern State,,2022
+2,false,Southern Illinois,,Southeast Missouri State,,2022
+2,true,Tennessee State,,Jackson State,,2022
+2,false,Albany,,New Hampshire,,2022
+2,false,Davidson,,Barton College,,2022
+2,false,Eastern Illinois,,Chattanooga,,2022
+2,false,Houston Baptist,,Lindenwood,,2022
+2,false,North Alabama,,UVA-Wise,,2022
+2,false,South Dakota State,,UC Davis,,2022
+2,false,Sam Houston State,,Northern Arizona,,2022
+2,false,Wartburg,,UW-Stout,,2022
+2,false,Florida,,Kentucky,,2022
+2,false,Texas State,,Florida International,,2022
+2,false,Ole Miss,,Central Arkansas,,2022
+2,false,Trinity (TX),,Wheaton College (Ill),,2022
+2,false,Minnesota State,,Minnesota-Duluth,,2022
+2,false,Connecticut,,Syracuse,,2022
+2,false,Oklahoma,,Kent State,,2022
+2,false,Northeastern State,,Missouri Southern State,,2022
+2,false,University of Texas of the Permian Basin,,Western State,,2022
+2,false,Georgia Tech,,Western Carolina,,2022
+2,false,Toledo,,UMass,,2022
+2,false,SMU,,Lamar,,2022
+2,false,Tulane,,Alcorn State,,2022
+2,false,Arkansas-Pine Bluff,,North American University,,2022
+2,false,East Stroudsburg,,Indiana (PA),,2022
+2,false,LSU,,Southern,,2022
+2,false,Oklahoma State,,Arizona State,,2022
+2,false,Stanford,,USC,,2022
+2,false,Nebraska,,Georgia Southern,,2022
+2,false,North Texas,,Texas Southern,,2022
+2,false,Illinois State,,Valparaiso,,2022
+2,false,Auburn,,San José State,,2022
+2,false,Rice,,McNeese,,2022
+2,false,Harding,,Southeastern Oklahoma,,2022
+2,false,Kentucky Wesleyan,,Lake Erie College,,2022
+2,false,Eastern New Mexico,,Midwestern State,,2022
+2,false,Virginia Tech,,Boston College,,2022
+2,false,Abilene Christian,,Prairie View,,2022
+2,false,TCU,,Tarleton State,,2022
+2,false,Indiana,,Idaho,,2022
+2,false,Michigan,,Hawai'i,,2022
+2,false,San Diego State,,Idaho State,,2022
+2,false,Belhaven College,,Southwestern University,,2022
+2,false,Howard Payne,,George Fox University,,2022
+2,false,Louisiana Monroe,,Nicholls,,2022
+2,false,West Texas A&M,,Adams State,,2022
+2,false,Colorado State-Pueblo,,Grand Valley State,,2022
+2,true,Presentation College,,Concordia (MN),,2022
+2,false,Texas A&M-Kingsville,,Sul Ross State,,2022
+2,false,Oregon,,Eastern Washington,,2022
+2,false,UTEP,,New Mexico State,,2022
+2,false,Central Washington,,Western New Mexico,,2022
+2,false,Utah Tech,,Chadron State,,2022
+2,false,Pomona-Pitzer,,Redlands,,2022
+2,false,Cal Lutheran,,Chapman,,2022
+2,false,BYU,,Baylor,,2022
+2,false,Fresno State,,Oregon State,,2022
+2,false,Arizona,,Mississippi State,,2022
+2,true,Fort Valley State,,Kentucky State,,2022
+3,false,Benedict College,,Savannah State,,2022
+3,false,Bentley,,Post University,,2022
+3,false,Southern Connecticut State,,Pace,,2022
+3,false,Harvard,,Merrimack,,2022
+3,false,Westfield State,,Western Connecticut State,,2022
+3,false,St Lawrence,,Morrisville State,,2022
+3,false,Louisville,,Florida State,,2022
+3,false,Wyoming,,Air Force,,2022
+3,false,Wooster,,Wabash College,,2022
+3,false,Chowan,,Johnson C Smith,,2022
+3,false,Hiram,,DePauw,,2022
+3,false,Catholic University,,Kean,,2022
+3,false,Tufts,,Trinity (CT),,2022
+3,false,Wilmington (OH),,Otterbein,,2022
+3,false,Heidelberg,,Ohio Northern,,2022
+3,false,Husson,,Alfred State College,,2022
+3,false,Charleston (WV),,Frostburg State,,2022
+3,false,Lane,,Clark Atlanta,,2022
+3,false,Bluefield,,Central State,,2022
+3,false,Virginia Tech,,Wofford,,2022
+3,false,Michigan,,Connecticut,,2022
+3,false,Salisbury,,Ave Maria,,2022
+3,false,Bowdoin,,Hamilton,,2022
+3,false,Plymouth State,,Bridgewater State,,2022
+3,false,Wilkes,,Widener,,2022
+3,false,Buffalo State,,SUNY Cortland,,2022
+3,true,Hilbert College,,Willamette,,2022
+3,false,Fitchburg State,,Worcester State College,,2022
+3,false,FDU-Florham,,Lebanon Valley,,2022
+3,false,Rochester,,Brockport State (NY),,2022
+3,false,NC Wesleyan,,Bridgewater (VA),,2022
+3,false,Rose-Hulman,,Albion,,2022
+3,false,Nichols,,Coast Guard,,2022
+3,false,Indiana,,Western Kentucky,,2022
+3,false,Gannon,,West Chester,,2022
+3,false,Seton Hill College,,East Stroudsburg,,2022
+3,false,Millersville,,Slippery Rock,,2022
+3,false,Mercyhurst,,Kutztown,,2022
+3,false,Walsh,,Quincy,,2022
+3,false,Kent State,,Long Island University,,2022
+3,true,Miami (OH),,Cincinnati,,2022
+3,false,Northwestern,,Southern Illinois,,2022
+3,false,Syracuse,,Purdue,,2022
+3,false,Army,,Villanova,,2022
+3,false,Nebraska,,Oklahoma,,2022
+3,false,Baylor,,Texas State,,2022
+3,false,Missouri,,Abilene Christian,,2022
+3,false,South Carolina,,Georgia,,2022
+3,false,Morgan State,,Sacred Heart,,2022
+3,false,Lehigh,,Richmond,,2022
+3,false,Elizabeth City State,,Winston-Salem,,2022
+3,false,Kentucky,,Youngstown State,,2022
+3,false,Findlay,,Southwest Baptist,,2022
+3,false,Davenport,,Northern Michigan,,2022
+3,false,Shorter,,Albany State (GA),,2022
+3,false,Notre Dame College,,West Liberty,,2022
+3,false,Edinboro,,Bloomsburg,,2022
+3,false,Shepherd,,California (PA),,2022
+3,false,Albright,,Misericordia,,2022
+3,false,Springfield,,Union,,2022
+3,false,University of New England,,Gallaudet,,2022
+3,false,Endicott College,,College of New Jersey,,2022
+3,false,Dean College,,Curry,,2022
+3,false,Brown,,Bryant,,2022
+3,false,Gettysburg,,Dickinson,,2022
+3,false,Methodist,,Washington & Lee,,2022
+3,false,Carnegie Mellon,,Grove City College,,2022
+3,false,UVA-Wise,,Barton College,,2022
+3,false,Shippensburg,,Indiana (PA),,2022
+3,false,Emory & Henry,,Newberry,,2022
+3,false,Minnesota St-Moorhead,,Augustana (SD),,2022
+3,false,Alderson-Broaddus,,Wheeling Jesuit,,2022
+3,false,Northwood (MI),,Saginaw Valley,,2022
+3,false,Hillsdale,,Truman State,,2022
+3,false,Lincoln (PA),,Fayetteville State,,2022
+3,false,West Virginia,,Towson,,2022
+3,false,Glenville State,,UNC Pembroke,,2022
+3,false,Maryville TN,,Shenandoah,,2022
+3,false,Coastal Carolina,,Buffalo,,2022
+3,false,Wartburg,,Luther,,2022
+3,false,William Paterson,,Keystone,,2022
+3,true,Nebraska Wesleyan University,,Dubuque,,2022
+3,false,Chicago,,Beloit College,,2022
+3,false,Dayton,,Kentucky State,,2022
+3,false,Lawrence,,Grinnell,,2022
+3,false,Cornell College (IA),,Ripon,,2022
+3,false,LaGrange College,,Ferrum,,2022
+3,false,Fordham,,Albany,,2022
+3,false,Rhode Island,,Delaware,,2022
+3,false,Monmouth,,Georgetown,,2022
+3,false,Stetson,,Princeton,,2022
+3,false,Indiana State,,Montana,,2022
+3,false,Pennsylvania,,Colgate,,2022
+3,false,Hampden-Sydney,,Greensboro,,2022
+3,false,Central Michigan,,Bucknell,,2022
+3,false,Hanover,,Olivet College,,2022
+3,false,Mass Maritime,,Anna Maria College,,2022
+3,false,Denison,,Oberlin,,2022
+3,false,Susquehanna,,Moravian,,2022
+3,false,Kenyon,,Wittenberg,,2022
+3,false,New Haven,,American International,,2022
+3,false,Mars Hill,,Catawba,,2022
+3,false,Ohio Dominican,,William Jewell College,,2022
+3,false,Colby,,Williams,,2022
+3,false,St. Vincent,,Thiel College,,2022
+3,false,Ursinus,,Muhlenberg,,2022
+3,false,Wesleyan,,Bates College,,2022
+3,false,Stevenson,,Alvernia University,,2022
+3,false,Randolph-Macon,,Southern Virginia,,2022
+3,false,Salve Regina,,Montclair State,,2022
+3,false,Hobart,,St. John Fisher,,2022
+3,false,McDaniel College,,Franklin & Marshall,,2022
+3,false,Guilford,,Huntingdon,,2022
+3,false,Merchant Marine,,SUNY Maritime,,2022
+3,false,Waynesburg,,Geneva College,,2022
+3,false,Western New England,,Utica,,2022
+3,false,King's College (PA),,Delaware Valley,,2022
+3,false,Berry College,,UW-Whitewater,,2022
+3,false,Johns Hopkins,,Juniata,,2022
+3,false,Ithaca,,Alfred,,2022
+3,false,WV State,,Fairmont State,,2022
+3,false,Carson-Newman,,Limestone,,2022
+3,false,Defiance,,Kalamazoo,,2022
+3,false,Mount Union,,Marietta,,2022
+3,false,Dartmouth,,Valparaiso,,2022
+3,false,VMI,,Cornell,,2022
+3,false,John Carroll,,Baldwin-Wallace,,2022
+3,false,Franklin,,Trine,,2022
+3,false,Mount St. Joseph,,Hope,,2022
+3,false,UMass Dartmouth,,Framingham State,,2022
+3,false,Sul Ross State,,Austin College,,2022
+3,false,South Dakota,,Cal Poly,,2022
+3,false,Norfolk State,,Hampton,,2022
+3,false,UCLA,,South Alabama,,2022
+3,false,Amherst College,,Middlebury,,2022
+3,false,Iowa State,,Ohio,,2022
+3,false,Holy Cross,,Yale,,2022
+3,false,Jackson State,,Grambling,,2022
+3,false,Virginia,,Old Dominion,,2022
+3,false,Greenville,,Manchester,,2022
+3,false,Delaware State,,Virginia Lynchburg,,2022
+3,false,Millsaps,,UW-Oshkosh,,2022
+3,false,Ball State,,Murray State,,2022
+3,true,Millsaps,,Southwestern Assemblies of God,,2022
+3,false,Whittier,,Lewis & Clark,,2022
+3,false,Eureka College,,Rockford,,2022
+3,false,Washington (MO),,Millikin,,2022
+3,false,Elmhurst,,Augustana (IL),,2022
+3,false,Central,,Loras College,,2022
+3,false,Concordia (IL),,Aurora,,2022
+3,true,Iowa Wesleyan,,Finlandia University,,2022
+3,false,Martin Luther College,,Augsburg,,2022
+3,false,McMurry,,East Texas Baptist,,2022
+3,false,Temple,,Rutgers,,2022
+3,false,Carthage,,North Central,,2022
+3,false,Sewanee Univ. of the South,,Westminster,,2022
+3,false,Crown College,,St. Scholastica,,2022
+3,false,Washburn,,Nebraska-Kearney,,2022
+3,false,WV Wesleyan,,Concord,,2022
+3,false,Emporia State,,Missouri Western,,2022
+3,false,Minot State,,Wayne State (NE),,2022
+3,false,Gustavus Adolphus,,UW-Stout,,2022
+3,false,New Mexico Highlands,,Fort Lewis,,2022
+3,false,Cal Lutheran,,Puget Sound,,2022
+3,false,Norwich,,Castleton State College,,2022
+3,false,Fort Valley State,,Allen,,2022
+3,false,Monmouth (IL),,Illinois College,,2022
+3,false,Benedictine (IL),,Concordia (WI),,2022
+3,false,Wisconsin-Platteville,,Hardin-Simmons,,2022
+3,false,Lock Haven,,Clarion,,2022
+3,false,Northwest Missouri State,,Central Missouri State,,2022
+3,false,Notre Dame,,California,,2022
+3,false,University of Mary,,Southwest Minnesota State,,2022
+3,false,Idaho State,,Central Arkansas,,2022
+3,false,Idaho,,Drake,,2022
+3,true,Howard,,Morehouse,,2022
+3,false,Kansas State,,Tulane,,2022
+3,false,Southeast Missouri State,,Nicholls,,2022
+3,false,Colorado Mesa,,South Dakota Mines,,2022
+3,false,Alabama A&M,,Austin Peay,,2022
+3,false,Adams State,,Colorado Mines,,2022
+3,false,UNLV,,North Texas,,2022
+3,false,Carleton,,Minnesota-Morris,,2022
+3,false,Southern Nazarene,,East Central,,2022
+3,false,Mississippi College,,North Greenville,,2022
+3,false,West Alabama,,Tuskegee,,2022
+3,false,Bemidji State,,Winona State,,2022
+3,false,Lake Forest,,Knox College,,2022
+3,false,Lafayette,,William & Mary,,2022
+3,false,Appalachian State,,Troy,,2022
+3,false,Minnesota,,Colorado,,2022
+3,false,UAB,,Georgia Southern,,2022
+3,false,Oregon,,BYU,,2022
+3,false,Northern Illinois,,Vanderbilt,,2022
+3,false,Auburn,,Penn State,,2022
+3,false,Georgia Tech,,Ole Miss,,2022
+3,false,UMass,,Stony Brook,,2022
+3,false,Wisconsin,,New Mexico State,,2022
+3,false,Western Carolina,,Presbyterian College,,2022
+3,false,Boise State,,UT Martin,,2022
+3,false,Wagner,,St Francis (PA),,2022
+3,true,Hendrix College,,Howard Payne,,2022
+3,false,Northern Arizona,,North Dakota,,2022
+3,false,Houston,,Kansas,,2022
+3,false,Alabama,,Louisiana Monroe,,2022
+3,false,Western Illinois,,Southern Utah,,2022
+3,false,Shaw,,Bowie State,,2022
+3,false,Simon Fraser,,Central Washington,,2022
+3,false,Erskine,,Lenoir-Rhyne,,2022
+3,false,Colorado State-Pueblo,,Western State,,2022
+3,false,Linfield,,Redlands,,2022
+3,false,Whitworth,,Claremont,,2022
+3,false,Rensselaer,,Worcester Polytechnic,,2022
+3,true,Southern,,Texas Southern,,2022
+3,false,Washington State,,Colorado State,,2022
+3,false,Bowling Green,,Marshall,,2022
+3,false,Wake Forest,,Liberty,,2022
+3,false,Northern Iowa,,Sacramento State,,2022
+3,false,East Carolina,,Campbell,,2022
+3,false,Eastern Kentucky,,Charleston Southern,,2022
+3,false,Lake Erie College,,McKendree,,2022
+3,false,Wayne State (MI),,Wisconsin-La Crosse,,2022
+3,false,Missouri Southern State,,Central Oklahoma,,2022
+3,false,Morehead State,,Kentucky Christian,,2022
+3,false,Chattanooga,,North Alabama,,2022
+3,false,New Hampshire,,North Carolina Central,,2022
+3,false,Anderson (IN),,Alma College,,2022
+3,false,Mercer,,The Citadel,,2022
+3,false,LSU,,Mississippi State,,2022
+3,false,Elon,,Gardner-Webb,,2022
+3,false,Virginia State,,St. Augustine's,,2022
+3,false,Tusculum,,Wingate,,2022
+3,true,Franklin Pierce,,St. Anselm,,2022
+3,false,Virginia Union,,Livingstone,,2022
+3,false,Marist,,Columbia,,2022
+3,false,Bluffton,,Adrian,,2022
+3,false,Averett,,Brevard College,,2022
+3,false,Duke,,North Carolina A&T,,2022
+3,false,Buena Vista,,Coe,,2022
+3,false,Wheaton College (Ill),,Illinois Wesleyan,,2022
+3,false,Case Western Reserve,,Washington & Jefferson,,2022
+3,false,Northern State,,Minnesota State,,2022
+3,false,Minnesota-Duluth,,Upper Iowa,,2022
+3,false,Miles,,Valdosta State,,2022
+3,false,Tennessee,,Akron,,2022
+3,false,Trinity (TX),,Texas Lutheran,,2022
+3,false,Mary Hardin-Baylor,,Southwestern University,,2022
+3,false,Southern Mississippi,,Northwestern State,,2022
+3,false,Ohio State,,Toledo,,2022
+3,false,Oklahoma State,,Arkansas-Pine Bluff,,2022
+3,false,South Dakota State,,Butler,,2022
+3,false,Arkansas,,Missouri State,,2022
+3,false,NC State,,Texas Tech,,2022
+3,false,Prairie View,,Incarnate Word,,2022
+3,false,Lindenwood,,Keiser University,,2022
+3,false,Tennessee Tech,,Samford,,2022
+3,false,Lamar,,Northern Colorado,,2022
+3,false,Muskingum,,Capital,,2022
+3,false,UW-River Falls,,Northwestern (MN),,2022
+3,false,Wisconsin Lutheran,,Lakeland University,,2022
+3,false,Wisconsin-Stevens Point,,Simpson College,,2022
+3,false,Carroll (WI),,North Park,,2022
+3,false,Tulsa,,Jacksonville State,,2022
+3,false,Sam Houston State,,Texas A&M-Commerce,,2022
+3,false,Lincoln (MO),,Fort Hays State,,2022
+3,false,Grand Valley State,,Lincoln University (CA),,2022
+3,false,Tiffin,,Indianapolis,,2022
+3,false,Southwestern Oklahoma,,Southeastern Oklahoma,,2022
+3,false,Northwestern Oklahoma State,,Oklahoma Baptist,,2022
+3,false,Harding,,Southern Arkansas,,2022
+3,false,Henderson State,,Arkansas-Monticello,,2022
+3,false,Arkansas Tech,,Ouachita Baptist,,2022
+3,false,Tarleton State,,Eastern New Mexico,,2022
+3,false,Southeastern Louisiana,,Central Connecticut,,2022
+3,false,Davidson,,St. Andrews,,2022
+3,false,Mississippi Valley State,,Delta State,,2022
+3,false,Georgia State,,Charlotte,,2022
+3,false,Middle Tennessee,,Tennessee State,,2022
+3,false,Memphis,,Arkansas State,,2022
+3,false,Westminster PA,,Allegheny,,2022
+3,false,Washington,,Michigan State,,2022
+3,false,East Tennessee State,,Furman,,2022
+3,false,Iowa,,Nevada,,2022
+3,false,Western Michigan,,Pittsburgh,,2022
+3,false,Maryland,,SMU,,2022
+3,false,Florida,,South Florida,,2022
+3,false,Boston College,,Maine,,2022
+3,false,Illinois State,,Eastern Illinois,,2022
+3,false,Rice,,Louisiana,,2022
+3,false,Florida Atlantic,,UCF,,2022
+3,false,Concordia-St. Paul,,Sioux Falls,,2022
+3,false,Kentucky Wesleyan,,Missouri S&T,,2022
+3,false,Midwestern State,,Michigan Tech,,2022
+3,false,Chadron State,,Black Hills State,,2022
+3,false,Western New Mexico,,Western Oregon,,2022
+3,false,Clemson,,Louisiana Tech,,2022
+3,false,Weber State,,Utah Tech,,2022
+3,false,New Mexico,,UTEP,,2022
+3,false,Pittsburg State,,Northeastern State,,2022
+3,true,Oregon State,,Montana State,,2022
+3,false,McNeese,,Alcorn State,,2022
+3,false,Texas,,UT San Antonio,,2022
+3,false,University of Texas of the Permian Basin,,Angelo State,,2022
+3,false,West Texas A&M,,Texas A&M-Kingsville,,2022
+3,false,Texas A&M,,Miami,,2022
+3,false,Pacific (OR),,Pomona-Pitzer,,2022
+3,false,Utah,,San Diego State,,2022
+3,false,George Fox University,,Chapman,,2022
+3,false,UC Davis,,San Diego,,2022
+3,false,La Verne,,Pacific Lutheran,,2022
+3,false,USC,,Fresno State,,2022
+3,false,Arizona,,North Dakota State,,2022
+3,false,Arizona State,,Eastern Michigan,,2022
+3,false,Hawai'i,,Duquesne,,2022
+4,false,Georgia State,,Coastal Carolina,,2022
+4,false,Virginia Tech,,West Virginia,,2022
+4,false,Illinois,,Chattanooga,,2022
+4,false,Bentley,,New Haven,,2022
+4,false,Syracuse,,Virginia,,2022
+4,false,Johns Hopkins,,Moravian,,2022
+4,false,Air Force,,Nevada,,2022
+4,false,UTEP,,Boise State,,2022
+4,false,Texas A&M-Kingsville,,Eastern New Mexico,,2022
+4,false,Memphis,,North Texas,,2022
+4,false,BYU,,Wyoming,,2022
+4,false,South Carolina,,Charlotte,,2022
+4,false,Old Dominion,,Arkansas State,,2022
+4,false,Ohio,,Fordham,,2022
+4,false,Eastern Michigan,,Buffalo,,2022
+4,false,East Carolina,,Navy,,2022
+4,false,San Diego State,,Toledo,,2022
+4,false,Tulane,,Southern Mississippi,,2022
+4,false,Pittsburgh,,Rhode Island,,2022
+4,false,Penn State,,Central Michigan,,2022
+4,false,Louisville,,South Florida,,2022
+4,false,Temple,,UMass,,2022
+4,false,Appalachian State,,James Madison,,2022
+4,false,Wake Forest,,Clemson,,2022
+4,false,UCF,,Georgia Tech,,2022
+4,false,Cincinnati,,Indiana,,2022
+4,false,Florida State,,Boston College,,2022
+4,false,Ohio State,,Wisconsin,,2022
+4,false,Northwestern,,Miami (OH),,2022
+4,false,Colorado,,UCLA,,2022
+4,false,Tennessee,,Florida,,2022
+4,false,Oklahoma,,Kansas State,,2022
+4,false,Michigan State,,Minnesota,,2022
+4,false,Rutgers,,Iowa,,2022
+4,false,Oregon State,,USC,,2022
+4,false,Mississippi State,,Bowling Green,,2022
+4,false,Washington,,Stanford,,2022
+4,false,NC State,,Connecticut,,2022
+4,false,SMU,,TCU,,2022
+4,false,North Carolina,,Notre Dame,,2022
+4,false,Texas Tech,,Texas,,2022
+4,false,Iowa State,,Baylor,,2022
+4,false,Kansas,,Duke,,2022
+4,false,Washington State,,Oregon,,2022
+4,false,Liberty,,Akron,,2022
+4,false,Arizona State,,Utah,,2022
+4,false,California,,Arizona,,2022
+4,false,Auburn,,Missouri,,2022
+4,true,Texas A&M,,Arkansas,,2022
+4,false,Northern Michigan,,Post University,,2022
+4,false,Bluefield,,Fort Valley State,,2022
+4,false,Frostburg State,,Concord,,2022
+4,false,Northeastern State,,Lincoln (MO),,2022
+4,false,Alabama,,Vanderbilt,,2022
+4,false,Northwestern State,,Southeastern Louisiana,,2022
+4,false,Houston,,Rice,,2022
+4,false,Miami,,Middle Tennessee,,2022
+4,false,Muskingum,,Mount Union,,2022
+4,false,Coe,,Simpson College,,2022
+4,false,Hiram,,Wittenberg,,2022
+4,false,John Carroll,,Heidelberg,,2022
+4,false,Greensboro,,Maryville TN,,2022
+4,false,Otterbein,,Marietta,,2022
+4,false,Kentucky,,Northern Illinois,,2022
+4,false,Ole Miss,,Tulsa,,2022
+4,false,West Chester,,Millersville,,2022
+4,false,California (PA),,Edinboro,,2022
+4,false,Shorter,,Valdosta State,,2022
+4,false,Davenport,,Northwood (MI),,2022
+4,false,Johnson C Smith,,Lincoln (PA),,2022
+4,false,Pace,,Assumption,,2022
+4,false,Kutztown,,Shepherd,,2022
+4,false,Alfred State College,,Defiance,,2022
+4,false,Endicott College,,Norwich,,2022
+4,false,Wheeling Jesuit,,Glenville State,,2022
+4,false,American International,,Franklin Pierce,,2022
+4,false,Fitchburg State,,Mass Maritime,,2022
+4,false,MIT,,Dean College,,2022
+4,false,Albright,,Lycoming,,2022
+4,false,Western New England,,Salisbury,,2022
+4,false,Robert Morris,,East Tennessee State,,2022
+4,false,Charleston Southern,,Furman,,2022
+4,false,Michigan,,Maryland,,2022
+4,false,Georgia,,Kent State,,2022
+4,false,Castleton State College,,St Lawrence,,2022
+4,false,FDU-Florham,,King's College (PA),,2022
+4,false,Buffalo State,,Morrisville State,,2022
+4,false,Springfield,,Husson,,2022
+4,false,Anna Maria College,,Coast Guard,,2022
+4,false,Brown,,Harvard,,2022
+4,false,Georgetown,,Columbia,,2022
+4,false,Loras College,,Nebraska Wesleyan University,,2022
+4,false,Keystone,,Hobart,,2022
+4,false,Clarion,,Gannon,,2022
+4,false,St. Anselm,,Southern Connecticut State,,2022
+4,false,West Liberty,,WV Wesleyan,,2022
+4,false,Charleston (WV),,Alderson-Broaddus,,2022
+4,false,Curry,,Hilbert College,,2022
+4,false,Michigan Tech,,Saginaw Valley,,2022
+4,false,Williams,,Bowdoin,,2022
+4,false,Bates College,,Tufts,,2022
+4,false,WV State,,Notre Dame College,,2022
+4,false,Valparaiso,,San Diego,,2022
+4,false,Stetson,,Morehead State,,2022
+4,false,Long Island University,,Bryant,,2022
+4,false,Carthage,,Washington (MO),,2022
+4,false,Colgate,,Holy Cross,,2022
+4,false,Hamilton,,Amherst College,,2022
+4,false,Delaware Valley,,Misericordia,,2022
+4,false,Pennsylvania,,Lafayette,,2022
+4,false,SUNY Maritime,,William Paterson,,2022
+4,false,LaGrange College,,Methodist,,2022
+4,false,Rowan,,Salve Regina,,2022
+4,false,Lebanon Valley,,Wilkes,,2022
+4,false,Widener,,Stevenson,,2022
+4,false,Worcester Polytechnic,,Montclair State,,2022
+4,false,Dubuque,,Wartburg,,2022
+4,false,Ohio Dominican,,Indianapolis,,2022
+4,false,North Greenville,,Findlay,,2022
+4,false,Juniata,,Gettysburg,,2022
+4,false,Muhlenberg,,McDaniel College,,2022
+4,false,Dickinson,,Susquehanna,,2022
+4,false,Middlebury,,Wesleyan,,2022
+4,false,Franklin & Marshall,,Ursinus,,2022
+4,false,Kean,,Merchant Marine,,2022
+4,false,Trinity (CT),,Colby,,2022
+4,false,DePauw,,Wooster,,2022
+4,false,Southern Virginia,,NC Wesleyan,,2022
+4,false,Northwestern (MN),,Hope,,2022
+4,false,Kenyon,,Ohio Wesleyan,,2022
+4,false,Minnesota-Morris,,Lawrence,,2022
+4,false,Alfred,,Kalamazoo,,2022
+4,false,Union,,Utica,,2022
+4,false,Shaw,,Elizabeth City State,,2022
+4,false,St. Augustine's,,Bowie State,,2022
+4,false,East Stroudsburg,,Lock Haven,,2022
+4,false,Capital,,Wilmington (OH),,2022
+4,false,Barton College,,Mars Hill,,2022
+4,false,Westfield State,,Framingham State,,2022
+4,false,Augsburg,,St. Scholastica,,2022
+4,false,Concordia (MN),,Gustavus Adolphus,,2022
+4,false,Millikin,,North Park,,2022
+4,false,Luther,,Buena Vista,,2022
+4,false,Huntingdon,,Belhaven College,,2022
+4,false,Christopher Newport,,Catholic University,,2022
+4,false,Bethel (MN),,St. Johns (MN),,2022
+4,false,Allegheny,,Waynesburg,,2022
+4,false,Rhodes,,Westminster,,2022
+4,false,Baldwin-Wallace,,Ohio Northern,,2022
+4,false,Macalester,,St. Olaf College,,2022
+4,false,UW-Stout,,Crown College,,2022
+4,false,Tuskegee,,Allen,,2022
+4,false,Quincy,,Ashland,,2022
+4,false,William Jewell College,,Kentucky Wesleyan,,2022
+4,false,Southwest Baptist,,Lake Erie College,,2022
+4,false,Nebraska-Kearney,,Central Missouri State,,2022
+4,false,Emporia State,,Pittsburg State,,2022
+4,false,Fairmont State,,UNC Pembroke,,2022
+4,false,Sioux Falls,,Minnesota-Duluth,,2022
+4,false,Winona State,,Minnesota St-Moorhead,,2022
+4,false,Norfolk State,,St Francis (PA),,2022
+4,false,Wisconsin-Eau Claire,,Albion,,2022
+4,false,Alma College,,Martin Luther College,,2022
+4,false,Greenville,,Olivet College,,2022
+4,false,Hamline,,Carleton,,2022
+4,false,St. Norbert,,Lakeland University,,2022
+4,false,Rockford,,Aurora,,2022
+4,false,Concordia (WI),,Concordia (IL),,2022
+4,false,Illinois Wesleyan,,Carroll (WI),,2022
+4,false,Wabash College,,Denison,,2022
+4,false,Jackson State,,Mississippi Valley State,,2022
+4,false,Howard Payne,,East Texas Baptist,,2022
+4,false,North Central,,Elmhurst,,2022
+4,false,Delaware State,,Merrimack,,2022
+4,false,St. Thomas (MN),,Lincoln University (CA),,2022
+4,false,Richmond,,Stony Brook,,2022
+4,false,Bethune-Cookman,,Grambling,,2022
+4,false,Drake,,Marist,,2022
+4,false,Colorado Mines,,Colorado State-Pueblo,,2022
+4,false,South Dakota,,North Dakota State,,2022
+4,false,Fort Lewis,,Adams State,,2022
+4,false,Bloomsburg,,Shippensburg,,2022
+4,false,Cornell,,Yale,,2022
+4,false,Sacred Heart,,Dartmouth,,2022
+4,false,Augustana (SD),,Northern State,,2022
+4,false,Morehouse,,Savannah State,,2022
+4,false,McKendree,,Walsh,,2022
+4,false,Central State,,Miles,,2022
+4,false,Hartwick,,Nichols,,2022
+4,false,Trine,,Centre,,2022
+4,false,Worcester State College,,UMass Dartmouth,,2022
+4,false,Adrian,,Finlandia University,,2022
+4,false,Thiel College,,Carnegie Mellon,,2022
+4,false,Minnesota State,,University of Mary,,2022
+4,false,Lane,,Edward Waters,,2022
+4,false,Northern Colorado,,Idaho State,,2022
+4,false,Truman State,,Tiffin,,2022
+4,false,Princeton,,Lehigh,,2022
+4,false,Central Oklahoma,,Northwest Missouri State,,2022
+4,false,Black Hills State,,Colorado Mesa,,2022
+4,false,West Alabama,,West Georgia,,2022
+4,false,Missouri State,,South Dakota State,,2022
+4,false,Southern Illinois,,North Dakota,,2022
+4,false,Ferris State,,Waldorf,,2022
+4,false,Southeast Missouri State,,Central Arkansas,,2022
+4,false,Western State,,Chadron State,,2022
+4,false,Samford,,Western Carolina,,2022
+4,false,Western Kentucky,,Florida International,,2022
+4,false,UT San Antonio,,Texas Southern,,2022
+4,false,William & Mary,,Elon,,2022
+4,false,Albany,,Central Connecticut,,2022
+4,false,Villanova,,Monmouth,,2022
+4,false,Montana,,Portland State,,2022
+4,false,Towson,,New Hampshire,,2022
+4,false,Austin Peay,,Eastern Kentucky,,2022
+4,false,Nicholls,,Jacksonville State,,2022
+4,false,Eastern Washington,,Montana State,,2022
+4,false,Northern Arizona,,Idaho,,2022
+4,false,Western Illinois,,Northern Iowa,,2022
+4,false,St. John Fisher,,Rensselaer,,2022
+4,false,North Carolina Central,,Virginia Lynchburg,,2022
+4,false,Indiana (PA),,Mercyhurst,,2022
+4,false,Colorado State,,Sacramento State,,2022
+4,false,Upper Iowa,,Bemidji State,,2022
+4,false,Livingstone,,Virginia State,,2022
+4,false,Pacific Lutheran,,Cal Lutheran,,2022
+4,false,Catawba,,Tusculum,,2022
+4,false,South Dakota Mines,,New Mexico Highlands,,2022
+4,false,Fayetteville State,,Virginia Union,,2022
+4,false,Western Oregon,,University of Texas of the Permian Basin,,2022
+4,false,Northwestern State,,Lamar,,2022
+4,false,Eureka College,,Benedictine (IL),,2022
+4,false,Western Connecticut State,,Bridgewater State,,2022
+4,false,Murray State,,Eastern Illinois,,2022
+4,false,Gardner-Webb,,Mercer,,2022
+4,false,Delaware,,Hampton,,2022
+4,false,Kennesaw State,,Wofford,,2022
+4,false,Alabama State,,Prairie View,,2022
+4,false,Florida A&M,,Alabama A&M,,2022
+4,false,Georgia Southern,,Ball State,,2022
+4,false,Clark Atlanta,,Albany State (GA),,2022
+4,false,Southwest Minnesota State,,Minot State,,2022
+4,false,Wingate,,Emory & Henry,,2022
+4,false,Benedict College,,Kentucky State,,2022
+4,false,Chowan,,Winston-Salem,,2022
+4,false,Newberry,,Erskine,,2022
+4,false,Wayne State (MI),,Grand Valley State,,2022
+4,false,Slippery Rock,,Seton Hill College,,2022
+4,false,Washington & Jefferson,,Bethany (WV),,2022
+4,false,Lenoir-Rhyne,,Carson-Newman,,2022
+4,false,Texas Lutheran,,Sul Ross State,,2022
+4,false,Arkansas-Monticello,,Arkansas Tech,,2022
+4,false,Geneva College,,Case Western Reserve,,2022
+4,false,Missouri Western,,Washburn,,2022
+4,false,Wayne State (NE),,Concordia-St. Paul,,2022
+4,false,Stephen F. Austin,,Lamar,,2022
+4,false,Southwestern University,,McMurry,,2022
+4,false,Limestone,,UVA-Wise,,2022
+4,false,Southern Arkansas,,Henderson State,,2022
+4,false,Oklahoma Baptist,,Southwestern Oklahoma,,2022
+4,false,Ouachita Baptist,,Harding,,2022
+4,false,Missouri S&T,,Hillsdale,,2022
+4,true,West Florida,,Delta State,,2022
+4,false,Southeastern Oklahoma,,Southern Nazarene,,2022
+4,false,Troy,,Marshall,,2022
+4,false,Incarnate Word,,Sam Houston State,,2022
+4,false,East Central,,Northwestern Oklahoma State,,2022
+4,false,North Alabama,,Tarleton State,,2022
+4,false,UT Martin,,Lindenwood,,2022
+4,false,Presbyterian College,,Davidson,,2022
+4,false,Birmingham-Southern,,Point University,,2022
+4,false,Grove City College,,St. Vincent,,2022
+4,false,Hardin-Simmons,,Mary Hardin-Baylor,,2022
+4,false,Augustana (IL),,Wheaton College (Ill),,2022
+4,false,Texas State,,Houston Baptist,,2022
+4,false,Alcorn State,,Arkansas-Pine Bluff,,2022
+4,false,North Carolina A&T,,South Carolina State,,2022
+4,false,Angelo State,,West Texas A&M,,2022
+4,false,Utah State,,UNLV,,2022
+4,false,Texas A&M-Commerce,,North American University,,2022
+4,false,South Alabama,,Louisiana Tech,,2022
+4,false,LSU,,New Mexico,,2022
+4,false,Purdue,,Florida Atlantic,,2022
+4,false,Louisiana Monroe,,Louisiana,,2022
+4,false,McNeese,,Mississippi College,,2022
+4,false,Abilene Christian,,Western New Mexico,,2022
+4,false,Fort Hays State,,Missouri Southern State,,2022
+4,false,Midwestern State,,Simon Fraser,,2022
+4,false,New Mexico State,,Hawai'i,,2022
+4,false,Southern Utah,,Utah Tech,,2022
+4,false,Whittier,,Pomona-Pitzer,,2022
+4,false,Chapman,,La Verne,,2022
+4,false,UC Davis,,Weber State,,2022
+4,false,Redlands,,Claremont,,2022
+4,false,San José State,,Western Michigan,,2022
+5,false,BYU,,Utah State,,2022
+5,false,Houston,,Tulane,,2022
+5,false,UMass Dartmouth,,Western Connecticut State,,2022
+5,false,Dartmouth,,Pennsylvania,,2022
+5,false,Middle Tennessee,,UT San Antonio,,2022
+5,false,Boise State,,San Diego State,,2022
+5,false,UCLA,,Washington,,2022
+5,false,UNLV,,New Mexico,,2022
+5,false,Wisconsin,,Illinois,,2022
+5,false,Arkansas,,Alabama,,2022
+5,false,Auburn,,LSU,,2022
+5,false,Ole Miss,,Kentucky,,2022
+5,false,Utah,,Oregon State,,2022
+5,false,Washington State,,California,,2022
+5,false,Baylor,,Oklahoma State,,2022
+5,false,Kansas,,Iowa State,,2022
+5,false,Kansas State,,Texas Tech,,2022
+5,false,USC,,Arizona State,,2022
+5,false,Maryland,,Michigan State,,2022
+5,false,Old Dominion,,Liberty,,2022
+5,false,Missouri,,Georgia,,2022
+5,false,Nebraska,,Indiana,,2022
+5,false,Iowa,,Michigan,,2022
+5,false,Mississippi State,,Texas A&M,,2022
+5,false,South Carolina,,South Carolina State,,2022
+5,false,TCU,,Oklahoma,,2022
+5,false,Oregon,,Stanford,,2022
+5,false,Texas,,West Virginia,,2022
+5,false,Arizona,,Colorado,,2022
+5,false,South Florida,,East Carolina,,2022
+5,false,Clemson,,NC State,,2022
+5,false,Florida State,,Wake Forest,,2022
+5,false,North Carolina,,Virginia Tech,,2022
+5,false,UCF,,SMU,,2022
+5,false,Appalachian State,,The Citadel,,2022
+5,false,Marshall,,Gardner-Webb,,2022
+5,false,Penn State,,Northwestern,,2022
+5,false,Duke,,Virginia,,2022
+5,false,Boston College,,Louisville,,2022
+5,false,Pittsburgh,,Georgia Tech,,2022
+5,false,Syracuse,,Wagner,,2022
+5,false,Memphis,,Temple,,2022
+5,false,James Madison,,Texas State,,2022
+5,false,Coastal Carolina,,Georgia Southern,,2022
+5,false,Tulsa,,Cincinnati,,2022
+5,false,Louisiana,,South Alabama,,2022
+5,false,Northwestern State,,Nicholls,,2022
+5,false,Fort Valley State,,Benedict College,,2022
+5,false,Pace,,Post University,,2022
+5,true,North American University,,Texas Lutheran,,2022
+5,false,Rockford,,Concordia (WI),,2022
+5,false,Wittenberg,,Wabash College,,2022
+5,false,Worcester Polytechnic,,Merchant Marine,,2022
+5,false,Denison,,DePauw,,2022
+5,false,Ball State,,Northern Illinois,,2022
+5,false,Ohio Northern,,Mount Union,,2022
+5,false,Wilmington (OH),,John Carroll,,2022
+5,false,Lamar,,Tarleton State,,2022
+5,false,Stevenson,,Delaware Valley,,2022
+5,false,Moravian,,Juniata,,2022
+5,false,Keystone,,Gallaudet,,2022
+5,false,Mass Maritime,,Westfield State,,2022
+5,false,Southern Connecticut State,,Assumption,,2022
+5,false,Nichols,,Western New England,,2022
+5,false,NC Wesleyan,,LaGrange College,,2022
+5,false,Endicott College,,Husson,,2022
+5,false,Air Force,,Navy,,2022
+5,false,Framingham State,,Plymouth State,,2022
+5,false,Lehigh,,Monmouth,,2022
+5,false,Wilkes,,Albright,,2022
+5,false,Morgan State,,Virginia Lynchburg,,2022
+5,false,St Francis (PA),,Central Connecticut,,2022
+5,false,MIT,,Catholic University,,2022
+5,false,Gannon,,Seton Hill College,,2022
+5,false,Stonehill,,Duquesne,,2022
+5,false,Florida,,Eastern Washington,,2022
+5,false,Marist,,St. Thomas (MN),,2022
+5,false,Yale,,Howard,,2022
+5,false,WV Wesleyan,,Wheeling Jesuit,,2022
+5,false,Notre Dame College,,Charleston (WV),,2022
+5,false,Findlay,,Ferris State,,2022
+5,false,Davenport,,Michigan Tech,,2022
+5,false,Army,,Georgia State,,2022
+5,false,Minnesota,,Purdue,,2022
+5,false,Merrimack,,Long Island University,,2022
+5,false,Lock Haven,,Millersville,,2022
+5,false,Emory & Henry,,Catawba,,2022
+5,false,Misericordia,,FDU-Florham,,2022
+5,false,Sacred Heart,,Norfolk State,,2022
+5,false,Glenville State,,West Liberty,,2022
+5,false,UNC Pembroke,,Frostburg State,,2022
+5,false,Concord,,Fairmont State,,2022
+5,false,Virginia Union,,St. Augustine's,,2022
+5,false,Johnson C Smith,,Elizabeth City State,,2022
+5,false,Rochester,,Rensselaer,,2022
+5,false,Wooster,,Ohio Wesleyan,,2022
+5,false,Oberlin,,Hiram,,2022
+5,false,Franklin & Marshall,,Johns Hopkins,,2022
+5,true,Franklin Pierce,,Bentley,,2022
+5,false,Wartburg,,Loras College,,2022
+5,true,Nebraska Wesleyan University,,Central,,2022
+5,false,Simpson College,,Luther,,2022
+5,false,Buena Vista,,Dubuque,,2022
+5,false,Union,,Buffalo State,,2022
+5,false,Morehead State,,Presbyterian College,,2022
+5,false,Columbia,,Princeton,,2022
+5,false,Harvard,,Holy Cross,,2022
+5,false,North Dakota,,Missouri State,,2022
+5,false,Davidson,,Butler,,2022
+5,false,Dayton,,Drake,,2022
+5,false,Maine,,Villanova,,2022
+5,false,Fordham,,Georgetown,,2022
+5,false,Kean,,William Paterson,,2022
+5,false,Bowdoin,,Middlebury,,2022
+5,false,SUNY Cortland,,Morrisville State,,2022
+5,false,Salisbury,,Montclair State,,2022
+5,false,Hamilton,,Wesleyan,,2022
+5,false,Maryville TN,,Huntingdon,,2022
+5,false,Amherst College,,Trinity (CT),,2022
+5,false,Utica,,Hartwick,,2022
+5,false,Christopher Newport,,Rowan,,2022
+5,false,St. Anselm,,New Haven,,2022
+5,false,Concordia-St. Paul,,Minnesota State,,2022
+5,false,Minnesota-Duluth,,Minnesota St-Moorhead,,2022
+5,false,Colgate,,Cornell,,2022
+5,false,Shippensburg,,Shepherd,,2022
+5,false,University of New England,,Curry,,2022
+5,false,Illinois College,,Ripon,,2022
+5,false,McDaniel College,,Dickinson,,2022
+5,false,Muhlenberg,,Gettysburg,,2022
+5,false,Randolph-Macon,,Guilford,,2022
+5,false,Kalamazoo,,Albion,,2022
+5,false,Trine,,Alma College,,2022
+5,false,Alvernia University,,Lebanon Valley,,2022
+5,false,Methodist,,Belhaven College,,2022
+5,false,Mars Hill,,Limestone,,2022
+5,false,Bluefield,,Apprentice School,,2022
+5,false,Carson-Newman,,Newberry,,2022
+5,false,Ohio Dominican,,Walsh,,2022
+5,true,Finlandia University,,Northwestern (MN),,2022
+5,false,Norwich,,Coast Guard,,2022
+5,false,Lycoming,,King's College (PA),,2022
+5,false,Westminster,,Minnesota-Morris,,2022
+5,false,Grinnell,,Beloit College,,2022
+5,false,Hobart,,Ithaca,,2022
+5,false,Shenandoah,,Ferrum,,2022
+5,false,Hendrix College,,Trinity (TX),,2022
+5,false,Greenville,,Martin Luther College,,2022
+5,false,East Stroudsburg,,Kutztown,,2022
+5,false,Williams,,Tufts,,2022
+5,false,Winston-Salem,,Lincoln (PA),,2022
+5,false,George Fox University,,Pacific Lutheran,,2022
+5,false,Bluffton,,Franklin,,2022
+5,false,Heidelberg,,Muskingum,,2022
+5,false,Anderson (IN),,Rose-Hulman,,2022
+5,false,Manchester,,Mount St. Joseph,,2022
+5,false,Defiance,,Hanover,,2022
+5,false,Susquehanna,,Ursinus,,2022
+5,false,Anna Maria College,,Alfred State College,,2022
+5,false,Wofford,,Mercer,,2022
+5,false,Illinois Wesleyan,,Millikin,,2022
+5,false,Rhodes,,Centre,,2022
+5,true,Tennessee State,,Lane,,2022
+5,false,Jacksonville State,,Kennesaw State,,2022
+5,false,North Dakota State,,Youngstown State,,2022
+5,false,Lindenwood,,Southeast Missouri State,,2022
+5,false,Furman,,Samford,,2022
+5,false,Elon,,Richmond,,2022
+5,false,Brevard College,,Greensboro,,2022
+5,false,Wisconsin-La Crosse,,UW-Whitewater,,2022
+5,false,UW-River Falls,,Wisconsin-Stevens Point,,2022
+5,false,Sul Ross State,,Howard Payne,,2022
+5,false,Sewanee Univ. of the South,,Millsaps,,2022
+5,false,Grove City College,,Case Western Reserve,,2022
+5,false,Eastern Michigan,,UMass,,2022
+5,false,Albany State (GA),,Miles,,2022
+5,false,Edward Waters,,Morehouse,,2022
+5,false,Indiana (PA),,Slippery Rock,,2022
+5,false,William Jewell College,,McKendree,,2022
+5,false,Washburn,,Emporia State,,2022
+5,false,Minot State,,Bemidji State,,2022
+5,false,Augustana (SD),,Sioux Falls,,2022
+5,false,Winona State,,Wayne State (NE),,2022
+5,false,Clarion,,California (PA),,2022
+5,false,Mercyhurst,,Edinboro,,2022
+5,false,Gustavus Adolphus,,Bethel (MN),,2022
+5,false,UW-Oshkosh,,Wisconsin-Platteville,,2022
+5,false,Otterbein,,Capital,,2022
+5,false,Washington & Jefferson,,Allegheny,,2022
+5,false,Carleton,,Macalester,,2022
+5,false,St. Scholastica,,Hamline,,2022
+5,false,Elmhurst,,Carthage,,2022
+5,false,North Park,,Washington (MO),,2022
+5,false,St. Johns (MN),,Concordia (MN),,2022
+5,false,Bridgewater (VA),,Hampden-Sydney,,2022
+5,false,Concordia (IL),,Eureka College,,2022
+5,false,Cornell College (IA),,Lake Forest,,2022
+5,false,Aurora,,Wisconsin Lutheran,,2022
+5,false,St. Olaf College,,Augsburg,,2022
+5,false,Knox College,,Chicago,,2022
+5,false,Central Missouri State,,Northeastern State,,2022
+5,false,Bowie State,,Livingstone,,2022
+5,false,Northwest Missouri State,,Missouri Western,,2022
+5,false,Lincoln (MO),,Central Oklahoma,,2022
+5,false,Monmouth (IL),,Lawrence,,2022
+5,false,Hope,,Adrian,,2022
+5,false,Northwestern Oklahoma State,,Ouachita Baptist,,2022
+5,false,UVA-Wise,,Lenoir-Rhyne,,2022
+5,false,Chadron State,,Colorado Mines,,2022
+5,false,Pittsburg State,,Missouri Southern State,,2022
+5,false,West Alabama,,Shorter,,2022
+5,false,Henderson State,,Southeastern Oklahoma,,2022
+5,false,Harding,,Oklahoma Baptist,,2022
+5,false,Southwestern Oklahoma,,Arkansas-Monticello,,2022
+5,false,Arkansas Tech,,Southern Nazarene,,2022
+5,false,Mary Hardin-Baylor,,Austin College,,2022
+5,false,South Dakota State,,Western Illinois,,2022
+5,false,Benedictine (IL),,St. Norbert,,2022
+5,false,Alabama A&M,,Bethune-Cookman,,2022
+5,false,Delaware,,Towson,,2022
+5,false,UT Martin,,Tennessee Tech,,2022
+5,false,Carroll (WI),,Augustana (IL),,2022
+5,false,Idaho State,,Montana,,2022
+5,false,University of Mary,,Northern State,,2022
+5,false,Washington & Lee,,Averett,,2022
+5,false,Ohio State,,Rutgers,,2022
+5,false,Stony Brook,,William & Mary,,2022
+5,false,Buffalo,,Miami (OH),,2022
+5,false,Akron,,Bowling Green,,2022
+5,false,Toledo,,Central Michigan,,2022
+5,false,Bucknell,,Lafayette,,2022
+5,false,Connecticut,,Fresno State,,2022
+5,false,Western Carolina,,VMI,,2022
+5,false,Kent State,,Ohio,,2022
+5,false,Southern Arkansas,,East Central,,2022
+5,true,Sam Houston State,,Stephen F. Austin,,2022
+5,false,Colorado State-Pueblo,,Fort Lewis,,2022
+5,false,Bridgewater State,,Fitchburg State,,2022
+5,false,Erskine,,Wingate,,2022
+5,false,Pacific (OR),,Willamette,,2022
+5,false,Lamar,,Houston Baptist,,2022
+5,false,Tiffin,,Lake Erie College,,2022
+5,false,Lewis & Clark,,Whitworth,,2022
+5,false,Clark Atlanta,,Tuskegee,,2022
+5,false,North Texas,,Florida Atlantic,,2022
+5,false,San Diego,,Stetson,,2022
+5,false,La Verne,,Claremont,,2022
+5,false,Western Oregon,,Angelo State,,2022
+5,false,Northwestern State,,Nicholls,,2022
+5,false,Linfield,,Puget Sound,,2022
+5,false,Bethany (WV),,Thiel College,,2022
+5,true,West Florida,,North Greenville,,2022
+5,false,Marietta,,Baldwin-Wallace,,2022
+5,false,Castleton State College,,Dean College,,2022
+5,false,McMurry,,Hardin-Simmons,,2022
+5,false,Portland State,,Northern Arizona,,2022
+5,false,Northern Iowa,,Indiana State,,2022
+5,false,Central Arkansas,,Austin Peay,,2022
+5,false,Eastern Kentucky,,Southern Utah,,2022
+5,false,Barton College,,Tusculum,,2022
+5,false,Delaware State,,Robert Morris,,2022
+5,false,Alderson-Broaddus,,WV State,,2022
+5,false,Brockport State (NY),,St. John Fisher,,2022
+5,false,Charlotte,,UTEP,,2022
+5,false,Savannah State,,Kentucky State,,2022
+5,false,Florida A&M,,Mississippi Valley State,,2022
+5,false,Rhode Island,,Brown,,2022
+5,false,Campbell,,North Carolina Central,,2022
+5,false,Southwest Minnesota State,,Upper Iowa,,2022
+5,false,Bloomsburg,,West Chester,,2022
+5,false,Western Michigan,,New Hampshire,,2022
+5,false,Allen,,Central State,,2022
+5,false,Wayne State (MI),,Northern Michigan,,2022
+5,false,West Georgia,,Mississippi College,,2022
+5,false,Virginia State,,Shaw,,2022
+5,false,Indianapolis,,Southwest Baptist,,2022
+5,false,Delta State,,Valdosta State,,2022
+5,false,North Central,,Wheaton College (Ill),,2022
+5,false,Incarnate Word,,McNeese,,2022
+5,false,Carnegie Mellon,,Westminster PA,,2022
+5,false,East Texas Baptist,,Southwestern University,,2022
+5,false,Kentucky Wesleyan,,Hillsdale,,2022
+5,false,Southern,,Arkansas-Pine Bluff,,2022
+5,false,Texas Southern,,Alabama State,,2022
+5,false,Southeastern Louisiana,,Murray State,,2022
+5,true,Grambling,,Prairie View,,2022
+5,false,North Carolina A&T,,Bryant,,2022
+5,false,Ashland,,Northwood (MI),,2022
+5,false,Grand Valley State,,Saginaw Valley,,2022
+5,false,Fayetteville State,,Chowan,,2022
+5,false,Arkansas State,,Louisiana Monroe,,2022
+5,false,Western Kentucky,,Troy,,2022
+5,false,Colby,,Bates College,,2022
+5,false,UW-Stout,,Wisconsin-Eau Claire,,2022
+5,false,Birmingham-Southern,,Berry College,,2022
+5,false,Rice,,UAB,,2022
+5,false,Wyoming,,San José State,,2022
+5,false,Illinois State,,Southern Illinois,,2022
+5,false,East Tennessee State,,Chattanooga,,2022
+5,false,McNeese,,Houston Baptist,,2022
+5,false,Western New Mexico,,Midwestern State,,2022
+5,false,South Dakota Mines,,Black Hills State,,2022
+5,false,Missouri S&T,,Quincy,,2022
+5,false,Colorado Mesa,,Western State,,2022
+5,false,Nebraska-Kearney,,Fort Hays State,,2022
+5,false,Cal Poly,,Sacramento State,,2022
+5,false,New Mexico State,,Florida International,,2022
+5,false,Eastern New Mexico,,Central Washington,,2022
+5,true,Simon Fraser,,Texas A&M-Kingsville,,2022
+5,false,West Texas A&M,,University of Texas of the Permian Basin,,2022
+5,false,Idaho,,Northern Colorado,,2022
+5,false,Adams State,,New Mexico Highlands,,2022
+5,false,Utah Tech,,Abilene Christian,,2022
+5,false,Whittier,,Cal Lutheran,,2022
+5,false,Chapman,,Pomona-Pitzer,,2022
+5,false,Montana State,,UC Davis,,2022
+6,true,Hendrix College,,Rhodes,,2022
+6,false,Alderson-Broaddus,,Fairmont State,,2022
+6,false,Mass Maritime,,UMass Dartmouth,,2022
+6,false,Central Oklahoma,,Northeastern State,,2022
+6,false,Rutgers,,Nebraska,,2022
+6,false,Cornell,,Harvard,,2022
+6,false,Memphis,,Houston,,2022
+6,false,San José State,,UNLV,,2022
+6,false,Nevada,,Colorado State,,2022
+6,false,Illinois,,Iowa,,2022
+6,false,LSU,,Tennessee,,2022
+6,false,Arizona State,,Washington,,2022
+6,false,Stanford,,Oregon State,,2022
+6,false,Iowa State,,Kansas State,,2022
+6,false,Kansas,,TCU,,2022
+6,false,Oklahoma State,,Texas Tech,,2022
+6,false,Alabama,,Texas A&M,,2022
+6,false,Georgia,,Auburn,,2022
+6,false,Vanderbilt,,Ole Miss,,2022
+6,false,Mississippi State,,Arkansas,,2022
+6,false,Arizona,,Oregon,,2022
+6,false,Texas A&M-Kingsville,,Western New Mexico,,2022
+6,false,Florida,,Missouri,,2022
+6,false,USC,,Washington State,,2022
+6,true,Oklahoma,,Texas,,2022
+6,false,Maryland,,Purdue,,2022
+6,false,UCLA,,Utah,,2022
+6,false,Wake Forest,,Army,,2022
+6,false,University of Texas of the Permian Basin,,Simon Fraser,,2022
+6,false,Northwestern,,Wisconsin,,2022
+6,false,Pittsburgh,,Virginia Tech,,2022
+6,false,Georgia Tech,,Duke,,2022
+6,false,Georgia State,,Georgia Southern,,2022
+6,false,Western Michigan,,Eastern Michigan,,2022
+6,false,Bowling Green,,Buffalo,,2022
+6,false,Frostburg State,,Notre Dame College,,2022
+6,false,NC State,,Florida State,,2022
+6,false,Miami,,North Carolina,,2022
+6,false,Stephen F. Austin,,Incarnate Word,,2022
+6,false,Michigan State,,Ohio State,,2022
+6,false,Virginia,,Louisville,,2022
+6,false,Tulane,,East Carolina,,2022
+6,false,Luther,,Coe,,2022
+6,false,Dubuque,,Simpson College,,2022
+6,false,Boise State,,Fresno State,,2022
+6,false,Boston College,,Clemson,,2022
+6,false,John Carroll,,Marietta,,2022
+6,false,Muskingum,,Otterbein,,2022
+6,false,Catholic University,,Worcester Polytechnic,,2022
+6,false,Kentucky,,South Carolina,,2022
+6,false,Cincinnati,,South Florida,,2022
+6,false,Coast Guard,,Springfield,,2022
+6,false,Utah State,,Air Force,,2022
+6,false,Tufts,,Bowdoin,,2022
+6,false,Montclair State,,Kean,,2022
+6,false,Greensboro,,Southern Virginia,,2022
+6,false,American International,,Grand Valley State,,2022
+6,false,Delaware Valley,,Lycoming,,2022
+6,false,Wheeling Jesuit,,UNC Pembroke,,2022
+6,false,Millersville,,East Stroudsburg,,2022
+6,false,Albion,,Hope,,2022
+6,false,Buffalo State,,Rensselaer,,2022
+6,false,Gallaudet,,Castleton State College,,2022
+6,false,Bridgewater State,,Worcester State College,,2022
+6,false,Lake Erie College,,Ohio Dominican,,2022
+6,false,Shepherd,,Lock Haven,,2022
+6,false,West Liberty,,Concord,,2022
+6,false,Yale,,Dartmouth,,2022
+6,false,Robert Morris,,Gardner-Webb,,2022
+6,false,Charleston (WV),,Glenville State,,2022
+6,false,Bentley,,St. Anselm,,2022
+6,false,Kutztown,,Bloomsburg,,2022
+6,false,California (PA),,Indiana (PA),,2022
+6,false,Walsh,,Ashland,,2022
+6,false,Endicott College,,Nichols,,2022
+6,false,Framingham State,,Fitchburg State,,2022
+6,false,Merchant Marine,,Norwich,,2022
+6,false,Alfred State College,,Keystone,,2022
+6,false,FDU-Florham,,Widener,,2022
+6,false,King's College (PA),,Stevenson,,2022
+6,false,Indiana,,Michigan,,2022
+6,false,Alvernia University,,Wilkes,,2022
+6,false,Lehigh,,Fordham,,2022
+6,false,Lafayette,,Princeton,,2022
+6,false,Belhaven College,,NC Wesleyan,,2022
+6,false,Ithaca,,Rochester,,2022
+6,false,Oberlin,,Kenyon,,2022
+6,false,Whitworth,,Linfield,,2022
+6,false,DePauw,,Wittenberg,,2022
+6,false,Trinity (CT),,Hamilton,,2022
+6,false,LaGrange College,,Maryville TN,,2022
+6,false,Wesleyan,,Colby,,2022
+6,false,Duquesne,,Merrimack,,2022
+6,false,Amherst College,,Bates College,,2022
+6,false,Samford,,Wofford,,2022
+6,false,SUNY Maritime,,Anna Maria College,,2022
+6,false,Hartwick,,Alfred,,2022
+6,false,Husson,,University of New England,,2022
+6,false,Plymouth State,,Western Connecticut State,,2022
+6,false,Curry,,Salve Regina,,2022
+6,false,Central Connecticut,,Brown,,2022
+6,false,WV State,,WV Wesleyan,,2022
+6,false,Bryant,,Southern Connecticut State,,2022
+6,false,Brockport State (NY),,SUNY Cortland,,2022
+6,false,Beloit College,,Knox College,,2022
+6,false,Lawrence,,Cornell College (IA),,2022
+6,false,Ripon,,Grinnell,,2022
+6,false,Columbia,,Wagner,,2022
+6,false,Monmouth,,Albany,,2022
+6,false,Stetson,,Marist,,2022
+6,false,North Greenville,,Delta State,,2022
+6,false,Butler,,Dayton,,2022
+6,false,Indiana State,,North Dakota State,,2022
+6,false,Morgan State,,Norfolk State,,2022
+6,false,Presbyterian College,,Valparaiso,,2022
+6,false,Bethany (WV),,Grove City College,,2022
+6,false,Centre,,Sewanee Univ. of the South,,2022
+6,false,Northwestern (MN),,Greenville,,2022
+6,false,Minnesota-Morris,,Finlandia University,,2022
+6,false,Northern Michigan,,Davenport,,2022
+6,false,Michigan Tech,,Wayne State (MI),,2022
+6,false,Lincoln (PA),,Chowan,,2022
+6,false,Johnson C Smith,,Shaw,,2022
+6,false,Virginia Union,,Elizabeth City State,,2022
+6,false,St. John Fisher,,Morrisville State,,2022
+6,false,Misericordia,,Lebanon Valley,,2022
+6,false,Emory & Henry,,UVA-Wise,,2022
+6,false,Lenoir-Rhyne,,Limestone,,2022
+6,false,New Haven,,Pace,,2022
+6,false,Minnesota-Duluth,,University of Mary,,2022
+6,false,Ouachita Baptist,,Southwestern Oklahoma,,2022
+6,false,Central State,,Fort Valley State,,2022
+6,false,William Paterson,,Salisbury,,2022
+6,false,St Lawrence,,Union,,2022
+6,false,Westminster PA,,Washington & Jefferson,,2022
+6,false,Case Western Reserve,,St. Vincent,,2022
+6,false,Waynesburg,,Carnegie Mellon,,2022
+6,false,Loras College,,Buena Vista,,2022
+6,false,Central,,Wartburg,,2022
+6,false,Austin College,,Texas Lutheran,,2022
+6,false,Minnesota St-Moorhead,,Minot State,,2022
+6,false,Rowan,,College of New Jersey,,2022
+6,false,Mount Union,,Heidelberg,,2022
+6,false,Willamette,,George Fox University,,2022
+6,false,Mount St. Joseph,,Defiance,,2022
+6,false,Franklin,,Anderson (IN),,2022
+6,false,Tusculum,,Carson-Newman,,2022
+6,false,Livingstone,,Winston-Salem,,2022
+6,false,VMI,,East Tennessee State,,2022
+6,false,Hanover,,Bluffton,,2022
+6,false,Concordia (IL),,Rockford,,2022
+6,false,Wayne State (NE),,Minnesota State,,2022
+6,false,Sioux Falls,,Southwest Minnesota State,,2022
+6,false,West Chester,,Shippensburg,,2022
+6,false,New Mexico Highlands,,Black Hills State,,2022
+6,false,Fort Lewis,,Chadron State,,2022
+6,false,Colorado Mines,,Colorado Mesa,,2022
+6,false,Edinboro,,Gannon,,2022
+6,false,Ohio,,Akron,,2022
+6,false,Southeast Missouri State,,Tennessee Tech,,2022
+6,false,Drake,,San Diego,,2022
+6,false,Washington (MO),,Illinois Wesleyan,,2022
+6,false,Wisconsin-Eau Claire,,UW-Whitewater,,2022
+6,false,UW-River Falls,,UW-Oshkosh,,2022
+6,false,Trinity (TX),,Birmingham-Southern,,2022
+6,false,Brevard College,,Methodist,,2022
+6,false,Millsaps,,Hendrix College,,2022
+6,false,Ohio Wesleyan,,Denison,,2022
+6,false,Concordia (WI),,Eureka College,,2022
+6,false,East Texas Baptist,,Mary Hardin-Baylor,,2022
+6,false,Wisconsin Lutheran,,St. Norbert,,2022
+6,false,Olivet College,,Kalamazoo,,2022
+6,false,Rose-Hulman,,Manchester,,2022
+6,false,Howard Payne,,McMurry,,2022
+6,false,Millikin,,Augustana (IL),,2022
+6,false,Guilford,,Washington & Lee,,2022
+6,false,Bridgewater (VA),,Shenandoah,,2022
+6,false,South Carolina State,,Florida A&M,,2022
+6,false,The Citadel,,Furman,,2022
+6,false,St. Thomas (MN),,Davidson,,2022
+6,false,Alabama A&M,,Grambling,,2022
+6,false,Georgetown,,Pennsylvania,,2022
+6,false,Elon,,Towson,,2022
+6,false,Hampton,,Maine,,2022
+6,false,Fayetteville State,,St. Augustine's,,2022
+6,false,McKendree,,Indianapolis,,2022
+6,false,Quincy,,Kentucky Wesleyan,,2022
+6,false,Findlay,,Northwood (MI),,2022
+6,false,Saginaw Valley,,Ferris State,,2022
+6,false,Southwest Baptist,,William Jewell College,,2022
+6,false,Emporia State,,Central Missouri State,,2022
+6,false,Benedict College,,Miles,,2022
+6,false,Hardin-Simmons,,Sul Ross State,,2022
+6,false,North Park,,Carthage,,2022
+6,false,Wheaton College (Ill),,Elmhurst,,2022
+6,false,Augsburg,,St. Johns (MN),,2022
+6,false,Concordia (MN),,Macalester,,2022
+6,false,Bethel (MN),,Hamline,,2022
+6,false,Carroll (WI),,North Central,,2022
+6,false,Martin Luther College,,Crown College,,2022
+6,false,Gustavus Adolphus,,St. Scholastica,,2022
+6,false,UW-Stout,,Wisconsin-La Crosse,,2022
+6,false,Carleton,,St. Olaf College,,2022
+6,false,Chicago,,Monmouth (IL),,2022
+6,false,Lakeland University,,Benedictine (IL),,2022
+6,false,Middlebury,,Williams,,2022
+6,false,Sam Houston State,,Abilene Christian,,2022
+6,false,Geneva College,,Allegheny,,2022
+6,false,Lane,,Kentucky State,,2022
+6,false,South Dakota State,,South Dakota,,2022
+6,false,Missouri State,,Southern Illinois,,2022
+6,false,Eastern Illinois,,Northwestern State,,2022
+6,false,Pittsburg State,,Northwest Missouri State,,2022
+6,false,Truman State,,Missouri S&T,,2022
+6,false,Southeastern Oklahoma,,Southern Arkansas,,2022
+6,false,East Central,,Henderson State,,2022
+6,false,Murray State,,UT Martin,,2022
+6,false,Southern Nazarene,,Harding,,2022
+6,false,Adams State,,Colorado State-Pueblo,,2022
+6,false,Arkansas-Monticello,,Northwestern Oklahoma State,,2022
+6,false,Western State,,South Dakota Mines,,2022
+6,false,Savannah State,,Virginia Lynchburg,,2022
+6,false,Alabama State,,Jackson State,,2022
+6,false,Wisconsin-Stevens Point,,Wisconsin-Platteville,,2022
+6,false,Lake Forest,,Illinois College,,2022
+6,false,Arkansas-Pine Bluff,,Texas Southern,,2022
+6,false,Bemidji State,,Concordia-St. Paul,,2022
+6,false,Missouri Southern State,,Lincoln (MO),,2022
+6,false,Mississippi College,,Shorter,,2022
+6,false,Ferrum,,Hampden-Sydney,,2022
+6,false,UAB,,Middle Tennessee,,2022
+6,false,New Hampshire,,Stony Brook,,2022
+6,false,William & Mary,,Delaware,,2022
+6,false,UMass,,Liberty,,2022
+6,false,Northern State,,Winona State,,2022
+6,false,Navy,,Tulsa,,2022
+6,false,Northern Illinois,,Toledo,,2022
+6,false,Central Michigan,,Ball State,,2022
+6,false,Miami (OH),,Kent State,,2022
+6,false,Claremont,,Chapman,,2022
+6,false,Puget Sound,,Pacific (OR),,2022
+6,false,Pacific Lutheran,,Lewis & Clark,,2022
+6,false,Averett,,Randolph-Macon,,2022
+6,false,Upper Iowa,,Augustana (SD),,2022
+6,false,Northern Arizona,,Cal Poly,,2022
+6,false,Newberry,,Barton College,,2022
+6,false,Seton Hill College,,Clarion,,2022
+6,false,Erskine,,Mars Hill,,2022
+6,false,Montana State,,Idaho State,,2022
+6,false,Hillsdale,,Tiffin,,2022
+6,false,Virginia State,,Bowie State,,2022
+6,false,Mercer,,Western Carolina,,2022
+6,false,Holy Cross,,Bucknell,,2022
+6,false,Campbell,,Charleston Southern,,2022
+6,false,Adrian,,Trine,,2022
+6,false,Central Arkansas,,Lindenwood,,2022
+6,false,Missouri Western,,Nebraska-Kearney,,2022
+6,false,Northern Iowa,,Illinois State,,2022
+6,false,Prairie View,,Southern,,2022
+6,false,Portland State,,Lincoln University (CA),,2022
+6,false,Southeastern Louisiana,,Texas A&M-Commerce,,2022
+6,false,Utah Tech,,Lamar,,2022
+6,false,Southeastern Louisiana,,Texas A&M-Commerce,,2022
+6,false,Wingate,,Catawba,,2022
+6,false,Slippery Rock,,Mercyhurst,,2022
+6,true,UFTL,,Bluefield,,2022
+6,false,Tennessee State,,Bethune-Cookman,,2022
+6,false,Kennesaw State,,North Alabama,,2022
+6,false,Edward Waters,,Albany State (GA),,2022
+6,false,Allen,,Clark Atlanta,,2022
+6,false,West Georgia,,West Florida,,2022
+6,false,Youngstown State,,North Dakota,,2022
+6,false,UT San Antonio,,Western Kentucky,,2022
+6,false,Arkansas State,,James Madison,,2022
+6,true,Houston Baptist,,Nicholls,,2022
+6,false,Mississippi Valley State,,Alcorn State,,2022
+6,false,New Mexico,,Wyoming,,2022
+6,false,Angelo State,,Eastern New Mexico,,2022
+6,false,Texas State,,Appalachian State,,2022
+6,false,Louisiana Tech,,UTEP,,2022
+6,false,Florida International,,Connecticut,,2022
+6,false,Stephen F. Austin,,Abilene Christian,,2022
+6,false,Valdosta State,,West Alabama,,2022
+6,false,Oklahoma Baptist,,Arkansas Tech,,2022
+6,false,Houston Baptist,,Nicholls,,2022
+6,false,Troy,,Southern Mississippi,,2022
+6,false,Berry College,,Rhodes,,2022
+6,true,BYU,,Notre Dame,,2022
+6,true,Morehouse,,Tuskegee,,2022
+6,false,Weber State,,Eastern Washington,,2022
+6,false,Louisiana Monroe,,Coastal Carolina,,2022
+6,false,Fort Hays State,,Washburn,,2022
+6,false,Southern Utah,,Tarleton State,,2022
+6,false,Midwestern State,,West Texas A&M,,2022
+6,false,Central Washington,,Western Oregon,,2022
+6,false,Sacramento State,,Northern Colorado,,2022
+6,false,Pomona-Pitzer,,La Verne,,2022
+6,false,Cal Lutheran,,Redlands,,2022
+6,false,San Diego State,,Hawai'i,,2022
+6,false,Assumption,,Franklin Pierce,,2022
+7,false,Marshall,,Louisiana,,2022
+7,false,UNC Pembroke,,WV State,,2022
+7,false,West Virginia,,Baylor,,2022
+7,false,UCF,,Temple,,2022
+7,false,Fairmont State,,West Liberty,,2022
+7,false,North Carolina Central,,Morgan State,,2022
+7,false,Dickinson,,Moravian,,2022
+7,true,Hilbert College,,Lincoln University (CA),,2022
+7,false,Princeton,,Brown,,2022
+7,false,Ursinus,,McDaniel College,,2022
+7,false,Johns Hopkins,,Muhlenberg,,2022
+7,false,SMU,,Navy,,2022
+7,false,Florida International,,UT San Antonio,,2022
+7,false,UW-Whitewater,,UW-Oshkosh,,2022
+7,false,Southern Virginia,,Maryville TN,,2022
+7,false,Greensboro,,Belhaven College,,2022
+7,false,Coe,,Dubuque,,2022
+7,false,Tennessee,,Alabama,,2022
+7,false,Ball State,,Connecticut,,2022
+7,false,Pace,,American International,,2022
+7,false,Hamline,,Gustavus Adolphus,,2022
+7,false,Northeastern State,,Missouri Western,,2022
+7,false,Texas A&M-Kingsville,,University of Texas of the Permian Basin,,2022
+7,false,Clark Atlanta,,Savannah State,,2022
+7,false,Ole Miss,,Auburn,,2022
+7,false,Minot State,,Northern State,,2022
+7,false,MIT,,Merchant Marine,,2022
+7,false,Coast Guard,,Catholic University,,2022
+7,false,Kentucky,,Mississippi State,,2022
+7,false,Florida,,LSU,,2022
+7,false,Georgia,,Vanderbilt,,2022
+7,false,Oregon State,,Washington State,,2022
+7,false,Washington,,Arizona,,2022
+7,false,Colorado,,California,,2022
+7,false,BYU,,Arkansas,,2022
+7,false,Bowling Green,,Miami (OH),,2022
+7,false,Coastal Carolina,,Old Dominion,,2022
+7,false,Southern Mississippi,,Arkansas State,,2022
+7,false,Texas,,Iowa State,,2022
+7,false,TCU,,Oklahoma State,,2022
+7,false,Utah,,USC,,2022
+7,false,South Florida,,Tulane,,2022
+7,false,Syracuse,,NC State,,2022
+7,false,Michigan,,Penn State,,2022
+7,false,Duke,,North Carolina,,2022
+7,false,East Carolina,,Memphis,,2022
+7,false,Virginia Tech,,Miami,,2022
+7,false,Indiana,,Maryland,,2022
+7,false,Oklahoma,,Kansas,,2022
+7,false,Purdue,,Nebraska,,2022
+7,false,Liberty,,Gardner-Webb,,2022
+7,false,Michigan State,,Wisconsin,,2022
+7,false,Toledo,,Kent State,,2022
+7,false,Eastern Michigan,,Northern Illinois,,2022
+7,false,Akron,,Central Michigan,,2022
+7,false,Fresno State,,San José State,,2022
+7,false,Florida State,,Clemson,,2022
+7,false,Capital,,Mount Union,,2022
+7,false,Ohio Northern,,John Carroll,,2022
+7,false,Wittenberg,,Oberlin,,2022
+7,false,Bowie State,,Virginia Union,,2022
+7,false,Kean,,Christopher Newport,,2022
+7,false,Rochester,,Buffalo State,,2022
+7,false,Springfield,,Norwich,,2022
+7,false,College of New Jersey,,Montclair State,,2022
+7,false,Gettysburg,,Susquehanna,,2022
+7,false,Wilkes,,Misericordia,,2022
+7,false,Kenyon,,Wooster,,2022
+7,false,Illinois,,Minnesota,,2022
+7,false,Davenport,,Wayne State (MI),,2022
+7,false,Shepherd,,Millersville,,2022
+7,false,Limestone,,Wingate,,2022
+7,false,UVA-Wise,,Tusculum,,2022
+7,false,Army,,Colgate,,2022
+7,false,Yale,,Bucknell,,2022
+7,false,Marist,,Dayton,,2022
+7,false,Lycoming,,Stevenson,,2022
+7,false,Albright,,King's College (PA),,2022
+7,false,Shorter,,West Florida,,2022
+7,false,Castleton State College,,SUNY Maritime,,2022
+7,false,Edinboro,,Indiana (PA),,2022
+7,false,Anna Maria College,,Keystone,,2022
+7,false,Worcester State College,,Mass Maritime,,2022
+7,false,Dean College,,Gallaudet,,2022
+7,false,Walsh,,Lake Erie College,,2022
+7,false,Fitchburg State,,Plymouth State,,2022
+7,false,NC Wesleyan,,Methodist,,2022
+7,false,Wisconsin-Eau Claire,,Wisconsin-La Crosse,,2022
+7,false,Maine,,Monmouth,,2022
+7,false,Westminster PA,,Thiel College,,2022
+7,false,Centre,,Berry College,,2022
+7,false,Buena Vista,,Central,,2022
+7,false,Wartburg,,Nebraska Wesleyan University,,2022
+7,false,Widener,,Alvernia University,,2022
+7,false,UMass,,Buffalo,,2022
+7,false,New Haven,,Post University,,2022
+7,false,Slippery Rock,,Gannon,,2022
+7,false,Shippensburg,,Kutztown,,2022
+7,false,Lock Haven,,Bloomsburg,,2022
+7,false,Minnesota St-Moorhead,,Bemidji State,,2022
+7,false,WV Wesleyan,,Notre Dame College,,2022
+7,false,Northwood (MI),,Hillsdale,,2022
+7,false,Michigan Tech,,Northern Michigan,,2022
+7,false,Ferris State,,Grand Valley State,,2022
+7,false,Minnesota-Duluth,,Concordia-St. Paul,,2022
+7,false,St. Augustine's,,Johnson C Smith,,2022
+7,false,Chowan,,Virginia State,,2022
+7,false,Elizabeth City State,,Lincoln (PA),,2022
+7,false,North Carolina A&T,,Edward Waters,,2022
+7,false,Rhode Island,,Elon,,2022
+7,false,Merrimack,,Wagner,,2022
+7,false,Davidson,,Morehead State,,2022
+7,false,Kennesaw State,,Central Arkansas,,2022
+7,false,Sacred Heart,,Stonehill,,2022
+7,false,Campbell,,Robert Morris,,2022
+7,false,Long Island University,,St Francis (PA),,2022
+7,false,Cornell,,Lehigh,,2022
+7,false,Pennsylvania,,Columbia,,2022
+7,false,Pacific Lutheran,,Whitworth,,2022
+7,false,Assumption,,Bentley,,2022
+7,false,William Paterson,,Rowan,,2022
+7,false,Randolph-Macon,,Bridgewater (VA),,2022
+7,false,Lebanon Valley,,Delaware Valley,,2022
+7,false,Salve Regina,,Western New England,,2022
+7,false,Juniata,,Franklin & Marshall,,2022
+7,false,Rhodes,,Trinity (TX),,2022
+7,false,Middlebury,,Trinity (CT),,2022
+7,false,Rensselaer,,Hobart,,2022
+7,false,Martin Luther College,,Finlandia University,,2022
+7,false,Bethany (WV),,Waynesburg,,2022
+7,false,Shenandoah,,Guilford,,2022
+7,false,Pacific (OR),,Linfield,,2022
+7,false,Wabash College,,Ohio Wesleyan,,2022
+7,false,Ithaca,,St Lawrence,,2022
+7,false,Lake Forest,,Ripon,,2022
+7,false,Illinois College,,Lawrence,,2022
+7,false,Monmouth (IL),,Beloit College,,2022
+7,false,Olivet College,,Trine,,2022
+7,false,Alma College,,Hope,,2022
+7,false,Alfred,,St. John Fisher,,2022
+7,false,St. Vincent,,Geneva College,,2022
+7,false,Washington & Jefferson,,Carnegie Mellon,,2022
+7,false,Nichols,,University of New England,,2022
+7,false,Curry,,Husson,,2022
+7,false,Crown College,,Minnesota-Morris,,2022
+7,false,North Greenville,,West Georgia,,2022
+7,false,Colby,,Amherst College,,2022
+7,false,SUNY Cortland,,Hartwick,,2022
+7,false,Concord,,Charleston (WV),,2022
+7,false,Wheeling Jesuit,,Frostburg State,,2022
+7,false,Manchester,,Hanover,,2022
+7,false,Mars Hill,,Emory & Henry,,2022
+7,false,Williams,,Hamilton,,2022
+7,false,Marietta,,Wilmington (OH),,2022
+7,false,Dartmouth,,New Hampshire,,2022
+7,false,Bluffton,,Rose-Hulman,,2022
+7,false,Anderson (IN),,Mount St. Joseph,,2022
+7,false,Glenville State,,Alderson-Broaddus,,2022
+7,false,Franklin,,Defiance,,2022
+7,false,Baldwin-Wallace,,Muskingum,,2022
+7,false,Wofford,,The Citadel,,2022
+7,false,Chattanooga,,VMI,,2022
+7,false,South Carolina State,,Virginia Lynchburg,,2022
+7,false,Winston-Salem,,Shaw,,2022
+7,false,Livingstone,,Fayetteville State,,2022
+7,false,Furman,,Western Carolina,,2022
+7,false,Texas Lutheran,,Mary Hardin-Baylor,,2022
+7,false,St. Thomas (MN),,Drake,,2022
+7,false,Carthage,,Wheaton College (Ill),,2022
+7,false,Carleton,,St. Scholastica,,2022
+7,false,St. Olaf College,,St. Johns (MN),,2022
+7,false,Wisconsin-Stevens Point,,UW-Stout,,2022
+7,false,South Dakota Mines,,Colorado Mines,,2022
+7,false,Greenville,,Westminster,,2022
+7,false,Bethel (MN),,Concordia (MN),,2022
+7,false,Norfolk State,,Delaware State,,2022
+7,false,North Central,,Millikin,,2022
+7,false,Youngstown State,,Indiana State,,2022
+7,false,Valparaiso,,Butler,,2022
+7,false,Hardin-Simmons,,East Texas Baptist,,2022
+7,false,Austin College,,McMurry,,2022
+7,false,Simpson College,,Loras College,,2022
+7,false,Huntingdon,,Brevard College,,2022
+7,false,Wisconsin-Platteville,,UW-River Falls,,2022
+7,false,Tuskegee,,Central State,,2022
+7,false,Illinois Wesleyan,,North Park,,2022
+7,false,St. Norbert,,Concordia (WI),,2022
+7,false,Macalester,,Augsburg,,2022
+7,false,Knox College,,Grinnell,,2022
+7,false,Ferrum,,Washington & Lee,,2022
+7,false,Black Hills State,,Western State,,2022
+7,false,Albany State (GA),,Benedict College,,2022
+7,false,Hendrix College,,Sewanee Univ. of the South,,2022
+7,false,Kentucky State,,Allen,,2022
+7,false,Chadron State,,Adams State,,2022
+7,false,Southwest Minnesota State,,Winona State,,2022
+7,false,Minnesota State,,Upper Iowa,,2022
+7,false,Augustana (SD),,Wayne State (NE),,2022
+7,false,Nebraska-Kearney,,Emporia State,,2022
+7,false,Western New Mexico,,Angelo State,,2022
+7,false,William Jewell College,,Missouri S&T,,2022
+7,false,Saginaw Valley,,Indianapolis,,2022
+7,false,Ouachita Baptist,,Arkansas-Monticello,,2022
+7,false,East Stroudsburg,,West Chester,,2022
+7,false,Southern Connecticut State,,Franklin Pierce,,2022
+7,false,Fort Valley State,,Morehouse,,2022
+7,false,Northwest Missouri State,,Washburn,,2022
+7,false,Central Missouri State,,Missouri Southern State,,2022
+7,false,Harding,,Henderson State,,2022
+7,false,Chicago,,Cornell College (IA),,2022
+7,false,Arkansas Tech,,Southern Arkansas,,2022
+7,false,University of Mary,,Sioux Falls,,2022
+7,false,Valdosta State,,Mississippi College,,2022
+7,false,Denison,,Hiram,,2022
+7,false,Howard Payne,,Southwestern University,,2022
+7,false,Illinois State,,South Dakota,,2022
+7,false,Northern Colorado,,Montana State,,2022
+7,false,Montana,,Idaho,,2022
+7,true,Texas A&M-Commerce,,McNeese,,2022
+7,false,Idaho State,,Cal Poly,,2022
+7,false,Alabama State,,Mississippi Valley State,,2022
+7,false,Southern Illinois,,Western Illinois,,2022
+7,false,Eastern Illinois,,Lindenwood,,2022
+7,false,Northwestern Oklahoma State,,Southeastern Oklahoma,,2022
+7,false,Central Oklahoma,,Fort Hays State,,2022
+7,false,Lincoln (MO),,Pittsburg State,,2022
+7,false,Grambling,,Florida A&M,,2022
+7,false,Western Connecticut State,,Framingham State,,2022
+7,false,Lakeland University,,Concordia (IL),,2022
+7,false,Richmond,,Villanova,,2022
+7,false,Western Michigan,,Ohio,,2022
+7,false,Albany,,Hampton,,2022
+7,false,Middle Tennessee,,Western Kentucky,,2022
+7,false,North Dakota State,,South Dakota State,,2022
+7,false,UAB,,Charlotte,,2022
+7,false,Troy,,Texas State,,2022
+7,false,Hampden-Sydney,,Averett,,2022
+7,false,George Fox University,,Puget Sound,,2022
+7,false,Claremont,,Cal Lutheran,,2022
+7,false,Colorado State-Pueblo,,New Mexico Highlands,,2022
+7,false,UMass Dartmouth,,Westfield State,,2022
+7,false,Barton College,,Lenoir-Rhyne,,2022
+7,false,Austin Peay,,Murray State,,2022
+7,false,Nicholls,,Incarnate Word,,2022
+7,false,Georgia Southern,,James Madison,,2022
+7,false,Augustana (IL),,Washington (MO),,2022
+7,false,Mercer,,East Tennessee State,,2022
+7,false,North Texas,,Louisiana Tech,,2022
+7,false,Lewis & Clark,,Willamette,,2022
+7,false,Bethune-Cookman,,Jackson State,,2022
+7,false,Bryant,,Charleston Southern,,2022
+7,true,Howard,,Harvard,,2022
+7,false,McKendree,,Quincy,,2022
+7,false,Western Oregon,,West Texas A&M,,2022
+7,false,Abilene Christian,,Southern Utah,,2022
+7,false,Miles,,Lane,,2022
+7,false,Kentucky Wesleyan,,Findlay,,2022
+7,false,Utica,,Brockport State (NY),,2022
+7,false,South Alabama,,Louisiana Monroe,,2022
+7,false,San Diego,,Presbyterian College,,2022
+7,false,Northern Iowa,,Utah Tech,,2022
+7,false,Birmingham-Southern,,Millsaps,,2022
+7,false,Portland State,,Weber State,,2022
+7,false,Adrian,,Kalamazoo,,2022
+7,false,Bates College,,Bowdoin,,2022
+7,false,Carson-Newman,,Erskine,,2022
+7,false,Wesleyan,,Tufts,,2022
+7,false,Catawba,,Newberry,,2022
+7,false,Fordham,,Stony Brook,,2022
+7,false,Eastern Kentucky,,Sam Houston State,,2022
+7,false,Florida Atlantic,,Rice,,2022
+7,false,Mercyhurst,,Clarion,,2022
+7,false,Seton Hill College,,California (PA),,2022
+7,false,Southwestern Oklahoma,,Southern Nazarene,,2022
+7,false,UC Davis,,Northern Arizona,,2022
+7,false,Delta State,,West Alabama,,2022
+7,false,Ashland,,Ohio Dominican,,2022
+7,false,Oklahoma Baptist,,East Central,,2022
+7,false,Southern,,Alcorn State,,2022
+7,false,Colorado State,,Utah State,,2022
+7,false,Tennessee Tech,,Tennessee State,,2022
+7,true,Houston Baptist,,Northwestern State,,2022
+7,true,North Alabama,,Jacksonville State,,2022
+7,false,Eastern Washington,,Sacramento State,,2022
+7,false,Elmhurst,,Carroll (WI),,2022
+7,false,Houston Baptist,,Northwestern State,,2022
+7,false,Allegheny,,Grove City College,,2022
+7,false,Wisconsin Lutheran,,Rockford,,2022
+7,false,Eureka College,,Aurora,,2022
+7,false,Stephen F. Austin,,Tarleton State,,2022
+7,false,Truman State,,Southwest Baptist,,2022
+7,false,Notre Dame,,Stanford,,2022
+7,false,New Mexico State,,New Mexico,,2022
+7,false,Colorado Mesa,,Fort Lewis,,2022
+7,false,Eastern New Mexico,,Simon Fraser,,2022
+7,false,McNeese,,Texas A&M-Commerce,,2022
+7,false,La Verne,,Whittier,,2022
+7,false,Central Washington,,Midwestern State,,2022
+7,false,Chapman,,Redlands,,2022
+7,false,UNLV,,Air Force,,2022
+7,false,Hawai'i,,Nevada,,2022
+8,true,Arkansas-Pine Bluff,,Alabama A&M,,2022
+8,false,Appalachian State,,Georgia State,,2022
+8,false,Shorter,,Delta State,,2022
+8,false,Frostburg State,,Fairmont State,,2022
+8,false,Georgia Tech,,Virginia,,2022
+8,false,South Alabama,,Troy,,2022
+8,false,Harvard,,Princeton,,2022
+8,false,Wagner,,Long Island University,,2022
+8,false,Temple,,Tulsa,,2022
+8,false,Western Kentucky,,UAB,,2022
+8,false,SMU,,Cincinnati,,2022
+8,false,Catholic University,,Merchant Marine,,2022
+8,false,John Carroll,,Capital,,2022
+8,false,Oberlin,,Wabash College,,2022
+8,false,Aurora,,St. Norbert,,2022
+8,false,LSU,,Ole Miss,,2022
+8,false,Stanford,,Arizona State,,2022
+8,false,California,,Washington,,2022
+8,false,Baylor,,Kansas,,2022
+8,false,Alabama,,Mississippi State,,2022
+8,false,Oregon,,UCLA,,2022
+8,false,Missouri,,Vanderbilt,,2022
+8,false,South Carolina,,Texas A&M,,2022
+8,false,Oklahoma State,,Texas,,2022
+8,false,Tennessee,,UT Martin,,2022
+8,false,TCU,,Kansas State,,2022
+8,false,Oregon State,,Colorado,,2022
+8,false,Texas Tech,,West Virginia,,2022
+8,false,Clemson,,Syracuse,,2022
+8,false,Miami,,Duke,,2022
+8,false,Wake Forest,,Boston College,,2022
+8,false,New Mexico,,Fresno State,,2022
+8,false,Liberty,,BYU,,2022
+8,false,Buffalo,,Toledo,,2022
+8,false,East Carolina,,UCF,,2022
+8,false,Louisville,,Pittsburgh,,2022
+8,false,Tulane,,Memphis,,2022
+8,false,Wyoming,,Utah State,,2022
+8,false,Ohio,,Northern Illinois,,2022
+8,false,Miami (OH),,Western Michigan,,2022
+8,false,Ohio State,,Iowa,,2022
+8,false,Louisiana,,Arkansas State,,2022
+8,false,Old Dominion,,Georgia Southern,,2022
+8,false,James Madison,,Marshall,,2022
+8,false,Kent State,,Akron,,2022
+8,false,Central Michigan,,Bowling Green,,2022
+8,false,University of Texas of the Permian Basin,,Midwestern State,,2022
+8,false,Nicholls,,McNeese,,2022
+8,true,Incarnate Word,,Abilene Christian,,2022
+8,false,Lehigh,,Bucknell,,2022
+8,false,Stevenson,,FDU-Florham,,2022
+8,false,Lincoln (PA),,Virginia Union,,2022
+8,false,Notre Dame College,,Glenville State,,2022
+8,false,Army,,Louisiana Monroe,,2022
+8,false,Alfred State College,,Dean College,,2022
+8,false,Navy,,Houston,,2022
+8,false,Clarion,,Edinboro,,2022
+8,false,Central Connecticut,,Duquesne,,2022
+8,false,King's College (PA),,Lebanon Valley,,2022
+8,false,American International,,Assumption,,2022
+8,false,Colgate,,Georgetown,,2022
+8,false,Davenport,,Lincoln University (CA),,2022
+8,false,Robert Morris,,North Carolina A&T,,2022
+8,false,Worcester State College,,Plymouth State,,2022
+8,false,Union,,Rochester,,2022
+8,false,Norwich,,MIT,,2022
+8,false,Fitchburg State,,UMass Dartmouth,,2022
+8,false,Wittenberg,,Denison,,2022
+8,false,Keystone,,Castleton State College,,2022
+8,false,West Chester,,Shepherd,,2022
+8,false,Hamilton,,Colby,,2022
+8,false,Gannon,,Mercyhurst,,2022
+8,false,Rutgers,,Indiana,,2022
+8,false,Salve Regina,,Nichols,,2022
+8,false,Morrisville State,,Alfred,,2022
+8,false,Mass Maritime,,Western Connecticut State,,2022
+8,false,Brown,,Cornell,,2022
+8,false,West Liberty,,Wheeling Jesuit,,2022
+8,false,Allen,,Bluefield,,2022
+8,false,Central State,,Edward Waters,,2022
+8,true,Franklin Pierce,,Pace,,2022
+8,false,Wooster,,Hilbert College,,2022
+8,false,Maryville TN,,NC Wesleyan,,2022
+8,false,Methodist,,Huntingdon,,2022
+8,false,Westminster,,Northwestern (MN),,2022
+8,true,Finlandia University,,Crown College,,2022
+8,false,Willamette,,Whitworth,,2022
+8,false,Christopher Newport,,William Paterson,,2022
+8,false,Franklin & Marshall,,Dickinson,,2022
+8,false,St Lawrence,,Hobart,,2022
+8,false,Ohio Wesleyan,,DePauw,,2022
+8,false,Bowdoin,,Wesleyan,,2022
+8,false,Guilford,,Ferrum,,2022
+8,false,McDaniel College,,Susquehanna,,2022
+8,false,Hiram,,Kenyon,,2022
+8,false,Utica,,SUNY Cortland,,2022
+8,false,Buffalo State,,Ithaca,,2022
+8,false,Johns Hopkins,,Gettysburg,,2022
+8,false,Belhaven College,,Southern Virginia,,2022
+8,false,Dubuque,,Luther,,2022
+8,false,Western New England,,Curry,,2022
+8,false,Pennsylvania,,Yale,,2022
+8,false,Howard,,Delaware State,,2022
+8,false,St Francis (PA),,Stonehill,,2022
+8,false,Indiana State,,Illinois State,,2022
+8,false,Butler,,Marist,,2022
+8,false,Dayton,,Stetson,,2022
+8,false,Merrimack,,Sacred Heart,,2022
+8,false,New Hampshire,,Elon,,2022
+8,false,Monmouth,,Rhode Island,,2022
+8,false,Presbyterian College,,St. Thomas (MN),,2022
+8,false,Delaware Valley,,Wilkes,,2022
+8,false,Juniata,,Muhlenberg,,2022
+8,false,St. Augustine's,,Winston-Salem,,2022
+8,false,Ferris State,,Michigan Tech,,2022
+8,false,Ashland,,Tiffin,,2022
+8,false,Ohio Dominican,,Kentucky Wesleyan,,2022
+8,false,Alderson-Broaddus,,WV Wesleyan,,2022
+8,false,WV State,,Concord,,2022
+8,false,Widener,,Albright,,2022
+8,false,College of New Jersey,,Salisbury,,2022
+8,false,Bates College,,Middlebury,,2022
+8,false,Tufts,,Amherst College,,2022
+8,false,Grove City College,,Westminster PA,,2022
+8,false,Allegheny,,St. Vincent,,2022
+8,false,Shenandoah,,Randolph-Macon,,2022
+8,false,Washington & Lee,,Hampden-Sydney,,2022
+8,false,Gallaudet,,SUNY Maritime,,2022
+8,false,Ursinus,,Moravian,,2022
+8,false,Wayne State (NE),,Southwest Minnesota State,,2022
+8,false,Clark Atlanta,,Fort Valley State,,2022
+8,false,Mars Hill,,Carson-Newman,,2022
+8,false,Upper Iowa,,Minot State,,2022
+8,false,Johnson C Smith,,Fayetteville State,,2022
+8,false,Shaw,,Livingstone,,2022
+8,false,Elizabeth City State,,Virginia State,,2022
+8,false,Bowie State,,Chowan,,2022
+8,false,Ripon,,Chicago,,2022
+8,false,Beloit College,,Lawrence,,2022
+8,false,Lycoming,,Alvernia University,,2022
+8,false,Trine,,Albion,,2022
+8,false,University of New England,,Endicott College,,2022
+8,false,Rose-Hulman,,Franklin,,2022
+8,false,Hartwick,,Brockport State (NY),,2022
+8,false,Linfield,,Pacific Lutheran,,2022
+8,false,Tusculum,,Emory & Henry,,2022
+8,false,Pacific (OR),,George Fox University,,2022
+8,false,Hanover,,Mount St. Joseph,,2022
+8,false,VMI,,Furman,,2022
+8,false,Columbia,,Dartmouth,,2022
+8,false,Chattanooga,,Mercer,,2022
+8,false,South Carolina State,,North Carolina Central,,2022
+8,false,Mount Union,,Wilmington (OH),,2022
+8,false,Ohio Northern,,Muskingum,,2022
+8,false,Manchester,,Bluffton,,2022
+8,false,Trinity (CT),,Williams,,2022
+8,false,Defiance,,Anderson (IN),,2022
+8,false,Bemidji State,,Minnesota-Duluth,,2022
+8,false,Lenoir-Rhyne,,Newberry,,2022
+8,false,Westfield State,,Bridgewater State,,2022
+8,false,Rowan,,Kean,,2022
+8,false,Washington (MO),,North Central,,2022
+8,false,McMurry,,Texas Lutheran,,2022
+8,false,Mary Hardin-Baylor,,Sul Ross State,,2022
+8,false,Northwestern State,,Southeast Missouri State,,2022
+8,false,Morehead State,,Valparaiso,,2022
+8,false,Wheaton College (Ill),,Carroll (WI),,2022
+8,false,St. Johns (MN),,Gustavus Adolphus,,2022
+8,false,Heidelberg,,Marietta,,2022
+8,false,Bridgewater (VA),,Averett,,2022
+8,false,Trinity (TX),,Berry College,,2022
+8,false,UW-River Falls,,Wisconsin-Eau Claire,,2022
+8,false,Hope,,Olivet College,,2022
+8,false,Case Western Reserve,,Bethany (WV),,2022
+8,false,Wisconsin-Platteville,,UW-Whitewater,,2022
+8,false,Baldwin-Wallace,,Otterbein,,2022
+8,false,East Texas Baptist,,Austin College,,2022
+8,false,Jacksonville State,,Southeastern Louisiana,,2022
+8,false,Western Carolina,,The Citadel,,2022
+8,false,Drake,,Davidson,,2022
+8,false,Hampton,,Richmond,,2022
+8,false,Southern Connecticut State,,Bentley,,2022
+8,false,Lindenwood,,Murray State,,2022
+8,false,Fort Hays State,,Central Missouri State,,2022
+8,false,Washburn,,Central Oklahoma,,2022
+8,false,North Park,,Augustana (IL),,2022
+8,false,Millikin,,Elmhurst,,2022
+8,false,Charleston (WV),,UNC Pembroke,,2022
+8,false,Morehouse,,Benedict College,,2022
+8,false,Augustana (SD),,Minnesota State,,2022
+8,false,Bloomsburg,,East Stroudsburg,,2022
+8,false,Indiana (PA),,Seton Hill College,,2022
+8,false,Millersville,,Shippensburg,,2022
+8,false,Colorado Mines,,Black Hills State,,2022
+8,false,Fort Lewis,,South Dakota Mines,,2022
+8,false,New Mexico Highlands,,Western State,,2022
+8,false,Ball State,,Eastern Michigan,,2022
+8,false,Macalester,,Bethel (MN),,2022
+8,false,Hamline,,Augsburg,,2022
+8,false,Illinois Wesleyan,,Carthage,,2022
+8,false,Concordia (MN),,Carleton,,2022
+8,false,Missouri S&T,,McKendree,,2022
+8,false,William Jewell College,,Truman State,,2022
+8,false,Lake Erie College,,Northwood (MI),,2022
+8,false,Hillsdale,,Findlay,,2022
+8,false,Kalamazoo,,Alma College,,2022
+8,false,Rockford,,Benedictine (IL),,2022
+8,false,Wisconsin-La Crosse,,Wisconsin-Stevens Point,,2022
+8,false,St. Scholastica,,St. Olaf College,,2022
+8,false,Minnesota-Morris,,Martin Luther College,,2022
+8,false,Hendrix College,,Centre,,2022
+8,false,Concordia (WI),,Lakeland University,,2022
+8,false,Central,,Simpson College,,2022
+8,false,Knox College,,Illinois College,,2022
+8,false,Lake Forest,,Grinnell,,2022
+8,false,Loras College,,Coe,,2022
+8,false,Southwestern University,,Hardin-Simmons,,2022
+8,false,Notre Dame,,UNLV,,2022
+8,false,UW-Oshkosh,,UW-Stout,,2022
+8,false,Alcorn State,,Texas Southern,,2022
+8,false,Lincoln (MO),,Nebraska-Kearney,,2022
+8,false,Idaho State,,Northern Arizona,,2022
+8,false,Montana State,,Weber State,,2022
+8,false,Eastern Kentucky,,North Alabama,,2022
+8,false,Jackson State,,Campbell,,2022
+8,false,Henderson State,,Arkansas Tech,,2022
+8,false,Incarnate Word,,Faulkner,,2022
+8,false,Tennessee State,,Eastern Illinois,,2022
+8,false,Louisiana Tech,,Rice,,2022
+8,false,Idaho,,Portland State,,2022
+8,true,Texas A&M-Commerce,,Houston Baptist,,2022
+8,false,Arkansas-Monticello,,Harding,,2022
+8,false,Brevard College,,LaGrange College,,2022
+8,false,Cornell College (IA),,Monmouth (IL),,2022
+8,false,Southeastern Oklahoma,,Oklahoma Baptist,,2022
+8,false,Southern Arkansas,,Ouachita Baptist,,2022
+8,false,Northern Colorado,,UC Davis,,2022
+8,false,Grand Valley State,,Northern Michigan,,2022
+8,false,Missouri Southern State,,Emporia State,,2022
+8,false,Delaware,,Morgan State,,2022
+8,false,Kennesaw State,,Tennessee Tech,,2022
+8,false,South Dakota,,Southern Illinois,,2022
+8,false,University of Mary,,Minnesota St-Moorhead,,2022
+8,false,Southern Utah,,Stephen F. Austin,,2022
+8,false,Pittsburg State,,Missouri Western,,2022
+8,false,Kutztown,,Lock Haven,,2022
+8,false,Winona State,,Sioux Falls,,2022
+8,false,East Central,,Southwestern Oklahoma,,2022
+8,false,Northwest Missouri State,,Northeastern State,,2022
+8,false,Lane,,Tuskegee,,2022
+8,false,Texas A&M-Commerce,,Houston Baptist,,2022
+8,false,Miles,,Kentucky State,,2022
+8,false,California (PA),,Slippery Rock,,2022
+8,false,Villanova,,Albany,,2022
+8,false,Stony Brook,,Maine,,2022
+8,false,Springfield,,Worcester Polytechnic,,2022
+8,false,UT San Antonio,,North Texas,,2022
+8,false,Wisconsin,,Purdue,,2022
+8,false,Maryland,,Northwestern,,2022
+8,false,Charlotte,,Florida International,,2022
+8,false,Lafayette,,Holy Cross,,2022
+8,false,East Tennessee State,,Samford,,2022
+8,false,Southern Nazarene,,Northwestern Oklahoma State,,2022
+8,false,UTEP,,Florida Atlantic,,2022
+8,false,Towson,,William & Mary,,2022
+8,false,Colorado State-Pueblo,,Chadron State,,2022
+8,false,Western Illinois,,Youngstown State,,2022
+8,false,North Dakota,,South Dakota State,,2022
+8,false,Mississippi Valley State,,Bethune-Cookman,,2022
+8,false,Millsaps,,Rhodes,,2022
+8,false,Puget Sound,,Lewis & Clark,,2022
+8,false,Colorado State,,Hawai'i,,2022
+8,false,Erskine,,UVA-Wise,,2022
+8,false,Nicholls,,McNeese,,2022
+8,false,Western Oregon,,Eastern New Mexico,,2022
+8,true,Nebraska Wesleyan University,,Buena Vista,,2022
+8,true,West Florida,,Mississippi College,,2022
+8,false,Savannah State,,Albany State (GA),,2022
+8,false,Northern Iowa,,Missouri State,,2022
+8,false,Lamar,,Prairie View,,2022
+8,false,Southern,,Virginia Lynchburg,,2022
+8,false,Texas State,,Southern Mississippi,,2022
+8,false,West Alabama,,North Greenville,,2022
+8,false,Charleston Southern,,Gardner-Webb,,2022
+8,true,Post University,,St. Anselm,,2022
+8,false,Indianapolis,,Quincy,,2022
+8,false,Catawba,,Limestone,,2022
+8,false,Wayne State (MI),,Saginaw Valley,,2022
+8,false,Whittier,,Chapman,,2022
+8,false,West Georgia,,Valdosta State,,2022
+8,false,Wingate,,Barton College,,2022
+8,false,New Mexico State,,San José State,,2022
+8,false,Thiel College,,Waynesburg,,2022
+8,false,Northern State,,Concordia-St. Paul,,2022
+8,false,Eureka College,,Wisconsin Lutheran,,2022
+8,false,Carnegie Mellon,,Geneva College,,2022
+8,false,Sewanee Univ. of the South,,Birmingham-Southern,,2022
+8,false,Angelo State,,Texas A&M-Kingsville,,2022
+8,false,Tarleton State,,Southwest Baptist,,2022
+8,false,Air Force,,Boise State,,2022
+8,false,Penn State,,Minnesota,,2022
+8,false,Cal Poly,,Eastern Washington,,2022
+8,false,West Texas A&M,,Central Washington,,2022
+8,false,Tarleton State,,Sam Houston State,,2022
+8,true,Simon Fraser,,Western New Mexico,,2022
+8,false,Adams State,,Colorado Mesa,,2022
+8,false,Redlands,,La Verne,,2022
+8,false,Cal Lutheran,,Pomona-Pitzer,,2022
+8,false,Nevada,,San Diego State,,2022
+8,false,Sacramento State,,Montana,,2022
+9,false,Miles,,Edward Waters,,2022
+9,false,Ouachita Baptist,,East Central,,2022
+9,false,NC State,,Virginia Tech,,2022
+9,false,Southern Mississippi,,Louisiana,,2022
+9,false,Washington State,,Utah,,2022
+9,false,Columbia,,Yale,,2022
+9,false,BYU,,East Carolina,,2022
+9,false,Florida International,,Louisiana Tech,,2022
+9,false,Illinois College,,Cornell College (IA),,2022
+9,true,Savannah State,,Fort Valley State,,2022
+9,false,MIT,,Coast Guard,,2022
+9,false,Trinity (CT),,Bowdoin,,2022
+9,false,Marietta,,Ohio Northern,,2022
+9,false,Otterbein,,Mount Union,,2022
+9,false,Muskingum,,John Carroll,,2022
+9,false,Coe,,Central,,2022
+9,false,Fresno State,,San Diego State,,2022
+9,false,Nicholls,,Texas A&M-Commerce,,2022
+9,false,Lane,,Central State,,2022
+9,false,UCF,,Cincinnati,,2022
+9,false,Pace,,St. Anselm,,2022
+9,false,Eastern Michigan,,Toledo,,2022
+9,false,Colorado Mesa,,Colorado State-Pueblo,,2022
+9,false,Akron,,Miami (OH),,2022
+9,false,Appalachian State,,Robert Morris,,2022
+9,false,Rockford,,St. Norbert,,2022
+9,false,Marshall,,Coastal Carolina,,2022
+9,false,Michigan,,Michigan State,,2022
+9,false,Penn State,,Ohio State,,2022
+9,false,Houston,,South Florida,,2022
+9,false,Minnesota,,Rutgers,,2022
+9,false,Syracuse,,Notre Dame,,2022
+9,false,Louisville,,Wake Forest,,2022
+9,false,Boise State,,Colorado State,,2022
+9,false,Georgia State,,Old Dominion,,2022
+9,false,Tulsa,,SMU,,2022
+9,false,North Carolina,,Pittsburgh,,2022
+9,false,Florida State,,Georgia Tech,,2022
+9,false,Arizona,,USC,,2022
+9,false,Colorado,,Arizona State,,2022
+9,false,Nebraska,,Illinois,,2022
+9,false,Tennessee,,Kentucky,,2022
+9,false,UCLA,,Stanford,,2022
+9,false,West Virginia,,TCU,,2022
+9,false,South Carolina,,Missouri,,2022
+9,false,Kansas State,,Oklahoma State,,2022
+9,false,Texas Tech,,Baylor,,2022
+9,false,California,,Oregon,,2022
+9,false,Texas A&M,,Ole Miss,,2022
+9,false,Auburn,,Arkansas,,2022
+9,false,Iowa State,,Oklahoma,,2022
+9,false,Hamline,,Macalester,,2022
+9,false,Virginia,,Miami,,2022
+9,false,UVA-Wise,,Mars Hill,,2022
+9,false,Concord,,Wheeling Jesuit,,2022
+9,false,Gannon,,Indiana (PA),,2022
+9,false,Millersville,,Kutztown,,2022
+9,false,Morgan State,,South Carolina State,,2022
+9,false,Sacred Heart,,St Francis (PA),,2022
+9,false,Central Connecticut,,Wagner,,2022
+9,false,Marist,,Presbyterian College,,2022
+9,false,Duquesne,,Long Island University,,2022
+9,false,Butler,,Morehead State,,2022
+9,false,Misericordia,,Stevenson,,2022
+9,false,Connecticut,,Boston College,,2022
+9,false,Framingham State,,Mass Maritime,,2022
+9,false,FDU-Florham,,Albright,,2022
+9,false,Worcester Polytechnic,,Norwich,,2022
+9,false,Brockport State (NY),,Buffalo State,,2022
+9,false,Plymouth State,,Westfield State,,2022
+9,false,Alvernia University,,King's College (PA),,2022
+9,false,Centre,,Trinity (TX),,2022
+9,false,American International,,Southern Connecticut State,,2022
+9,false,Edinboro,,Seton Hill College,,2022
+9,false,West Chester,,Lock Haven,,2022
+9,false,Mercyhurst,,California (PA),,2022
+9,false,Clarion,,Slippery Rock,,2022
+9,false,Shepherd,,Bloomsburg,,2022
+9,false,Fairmont State,,Notre Dame College,,2022
+9,false,Findlay,,Lake Erie College,,2022
+9,false,Northern Michigan,,Ferris State,,2022
+9,false,Walsh,,Kentucky Wesleyan,,2022
+9,false,Castleton State College,,Alfred State College,,2022
+9,false,Husson,,Western New England,,2022
+9,false,Wilkes,,Lycoming,,2022
+9,false,UMass Dartmouth,,Bridgewater State,,2022
+9,false,Gallaudet,,Anna Maria College,,2022
+9,false,Morrisville State,,Utica,,2022
+9,false,Rochester,,St Lawrence,,2022
+9,false,Brown,,Pennsylvania,,2022
+9,false,Lafayette,,Georgetown,,2022
+9,false,Ripon,,Beloit College,,2022
+9,false,Lawrence,,Knox College,,2022
+9,false,Holy Cross,,Fordham,,2022
+9,false,Moravian,,McDaniel College,,2022
+9,false,Ithaca,,Rensselaer,,2022
+9,false,Wabash College,,Hiram,,2022
+9,false,Kenyon,,DePauw,,2022
+9,false,Montclair State,,Christopher Newport,,2022
+9,false,Carnegie Mellon,,St. Vincent,,2022
+9,false,Waynesburg,,Westminster PA,,2022
+9,true,Finlandia University,,Westminster,,2022
+9,false,Thiel College,,Washington & Jefferson,,2022
+9,false,Susquehanna,,Johns Hopkins,,2022
+9,false,Stonehill,,Merrimack,,2022
+9,false,Hope,,Kalamazoo,,2022
+9,false,Dayton,,Valparaiso,,2022
+9,false,Merchant Marine,,Springfield,,2022
+9,false,Princeton,,Cornell,,2022
+9,false,Kennesaw State,,Charleston Southern,,2022
+9,false,Maine,,Richmond,,2022
+9,false,Villanova,,Hampton,,2022
+9,false,Albany,,Stony Brook,,2022
+9,false,Bucknell,,Colgate,,2022
+9,false,North Carolina A&T,,Campbell,,2022
+9,false,Monmouth,,Towson,,2022
+9,false,William & Mary,,Rhode Island,,2022
+9,false,Stetson,,Drake,,2022
+9,false,William Paterson,,College of New Jersey,,2022
+9,false,University of New England,,Salve Regina,,2022
+9,false,Alfred,,SUNY Cortland,,2022
+9,false,Albion,,Adrian,,2022
+9,false,Olivet College,,Alma College,,2022
+9,false,Williams,,Bates College,,2022
+9,false,Wayne State (NE),,Upper Iowa,,2022
+9,false,Amherst College,,Wesleyan,,2022
+9,false,Southern Virginia,,Methodist,,2022
+9,false,Salisbury,,Rowan,,2022
+9,false,Lebanon Valley,,Widener,,2022
+9,false,Emory & Henry,,Carson-Newman,,2022
+9,false,Concordia-St. Paul,,University of Mary,,2022
+9,false,St. Augustine's,,Livingstone,,2022
+9,false,Winston-Salem,,Johnson C Smith,,2022
+9,false,Virginia Union,,Chowan,,2022
+9,false,Lincoln (PA),,Virginia State,,2022
+9,false,Hobart,,Union,,2022
+9,false,Elizabeth City State,,Bowie State,,2022
+9,true,Post University,,Franklin Pierce,,2022
+9,false,Glenville State,,WV State,,2022
+9,false,Muhlenberg,,Franklin & Marshall,,2022
+9,false,Shippensburg,,East Stroudsburg,,2022
+9,false,Kentucky State,,Tuskegee,,2022
+9,false,Assumption,,New Haven,,2022
+9,false,Lenoir-Rhyne,,Wingate,,2022
+9,false,Minnesota-Duluth,,Minot State,,2022
+9,false,Frostburg State,,Alderson-Broaddus,,2022
+9,false,Hillsdale,,Ashland,,2022
+9,false,Saginaw Valley,,Davenport,,2022
+9,false,Michigan Tech,,Grand Valley State,,2022
+9,false,Curry,,Endicott College,,2022
+9,false,St. John Fisher,,Hartwick,,2022
+9,false,Buena Vista,,Wartburg,,2022
+9,false,Luther,,Loras College,,2022
+9,false,Simpson College,,Nebraska Wesleyan University,,2022
+9,false,Belhaven College,,LaGrange College,,2022
+9,false,Texas Lutheran,,East Texas Baptist,,2022
+9,false,Hampden-Sydney,,Guilford,,2022
+9,false,Averett,,Shenandoah,,2022
+9,false,Allegheny,,Case Western Reserve,,2022
+9,false,Crown College,,Greenville,,2022
+9,false,Middlebury,,Colby,,2022
+9,false,Dickinson,,Juniata,,2022
+9,false,Gettysburg,,Ursinus,,2022
+9,false,Tufts,,Hamilton,,2022
+9,false,Manchester,,Franklin,,2022
+9,false,Capital,,Baldwin-Wallace,,2022
+9,false,Tusculum,,Erskine,,2022
+9,false,George Fox University,,Linfield,,2022
+9,false,Rose-Hulman,,Defiance,,2022
+9,false,Mount St. Joseph,,Bluffton,,2022
+9,false,Anderson (IN),,Hanover,,2022
+9,false,Wooster,,Wittenberg,,2022
+9,false,Dartmouth,,Harvard,,2022
+9,false,Wilmington (OH),,Heidelberg,,2022
+9,false,VMI,,Mercer,,2022
+9,false,Wofford,,East Tennessee State,,2022
+9,false,Gardner-Webb,,Bryant,,2022
+9,false,Benedictine (IL),,Aurora,,2022
+9,false,Lake Forest,,Monmouth (IL),,2022
+9,false,Chicago,,Grinnell,,2022
+9,true,Illinois College,,Cornell College (IA),,2022
+9,false,SUNY Maritime,,Dean College,,2022
+9,false,Albany State (GA),,Morehouse,,2022
+9,false,Central Missouri State,,Lincoln (MO),,2022
+9,false,Norfolk State,,Howard,,2022
+9,false,Southeast Missouri State,,Eastern Kentucky,,2022
+9,false,Barton College,,Catawba,,2022
+9,false,Delaware State,,North Carolina Central,,2022
+9,false,Youngstown State,,South Dakota,,2022
+9,false,St. Thomas (MN),,San Diego,,2022
+9,false,Furman,,Chattanooga,,2022
+9,false,The Citadel,,Samford,,2022
+9,false,Lindenwood,,William Jewell College,,2022
+9,false,Chadron State,,New Mexico Highlands,,2022
+9,false,South Dakota Mines,,Adams State,,2022
+9,false,North Central,,North Park,,2022
+9,false,Elmhurst,,Washington (MO),,2022
+9,false,Western New Mexico,,West Texas A&M,,2022
+9,false,Jackson State,,Southern,,2022
+9,false,Sioux Falls,,Minnesota State,,2022
+9,false,Quincy,,Truman State,,2022
+9,false,Black Hills State,,Fort Lewis,,2022
+9,false,WV Wesleyan,,Charleston (WV),,2022
+9,false,McKendree,,Southwest Baptist,,2022
+9,false,Wheaton College (Ill),,Millikin,,2022
+9,false,UW-Stout,,Wisconsin-Platteville,,2022
+9,false,Missouri Western,,Missouri Southern State,,2022
+9,false,Rice,,Charlotte,,2022
+9,false,Augsburg,,Concordia (MN),,2022
+9,false,Western Connecticut State,,Worcester State College,,2022
+9,false,Augustana (IL),,Illinois Wesleyan,,2022
+9,false,Lakeland University,,Eureka College,,2022
+9,false,Wisconsin-Eau Claire,,Wisconsin-Stevens Point,,2022
+9,false,Bethel (MN),,St. Olaf College,,2022
+9,false,Carroll (WI),,Carthage,,2022
+9,false,Austin College,,Southwestern University,,2022
+9,false,UNC Pembroke,,West Liberty,,2022
+9,false,Benedict College,,Clark Atlanta,,2022
+9,false,Southwest Minnesota State,,Bemidji State,,2022
+9,false,Northern State,,Minnesota St-Moorhead,,2022
+9,false,Winona State,,Augustana (SD),,2022
+9,false,Ferrum,,Bridgewater (VA),,2022
+9,false,Washington & Lee,,Randolph-Macon,,2022
+9,false,UW-Whitewater,,UW-River Falls,,2022
+9,false,Huntingdon,,Greensboro,,2022
+9,false,Gustavus Adolphus,,Carleton,,2022
+9,false,UW-Oshkosh,,Wisconsin-La Crosse,,2022
+9,false,Maryville TN,,Brevard College,,2022
+9,false,St. Scholastica,,St. Johns (MN),,2022
+9,false,Birmingham-Southern,,Hendrix College,,2022
+9,false,Berry College,,Millsaps,,2022
+9,false,Hardin-Simmons,,Howard Payne,,2022
+9,false,Sul Ross State,,McMurry,,2022
+9,false,Wisconsin Lutheran,,Concordia (IL),,2022
+9,false,Stephen F. Austin,,Utah Tech,,2022
+9,false,Western State,,Colorado Mines,,2022
+9,false,Central Oklahoma,,Pittsburg State,,2022
+9,false,Nebraska-Kearney,,Northwest Missouri State,,2022
+9,false,Emporia State,,Fort Hays State,,2022
+9,false,Oklahoma Baptist,,Southern Arkansas,,2022
+9,false,Southern Nazarene,,Henderson State,,2022
+9,false,Arkansas-Monticello,,Southeastern Oklahoma,,2022
+9,false,Arkansas Tech,,Southwestern Oklahoma,,2022
+9,false,South Dakota State,,Indiana State,,2022
+9,false,Weber State,,Montana,,2022
+9,false,Houston Baptist,,UT Martin,,2022
+9,false,Grambling,,Alcorn State,,2022
+9,false,Rhodes,,Sewanee Univ. of the South,,2022
+9,false,Tarleton State,,Incarnate Word,,2022
+9,false,Missouri State,,Western Illinois,,2022
+9,true,Texas Southern,,Lincoln University (CA),,2022
+9,false,Prairie View,,Bethune-Cookman,,2022
+9,false,Murray State,,Tennessee State,,2022
+9,false,Southern Illinois,,Northern Iowa,,2022
+9,false,Eastern Illinois,,Tennessee Tech,,2022
+9,false,Northeastern State,,Washburn,,2022
+9,false,North Greenville,,Valdosta State,,2022
+9,false,Iowa,,Northwestern,,2022
+9,true,Georgia,,Florida,,2022
+9,false,Navy,,Temple,,2022
+9,true,Alabama A&M,,Alabama State,,2022
+9,false,UMass,,New Mexico State,,2022
+9,false,North Dakota State,,Illinois State,,2022
+9,false,Western Kentucky,,North Texas,,2022
+9,false,Elon,,Delaware,,2022
+9,false,Eastern Washington,,Portland State,,2022
+9,false,Eastern New Mexico,,University of Texas of the Permian Basin,,2022
+9,false,Florida A&M,,Arkansas-Pine Bluff,,2022
+9,false,Newberry,,Limestone,,2022
+9,false,Whitworth,,Puget Sound,,2022
+9,false,Redlands,,Pomona-Pitzer,,2022
+9,false,North Dakota,,Abilene Christian,,2022
+9,false,Austin Peay,,Jacksonville State,,2022
+9,false,Whittier,,Claremont,,2022
+9,false,Pacific Lutheran,,Willamette,,2022
+9,false,Fayetteville State,,Shaw,,2022
+9,false,Harding,,Northwestern Oklahoma State,,2022
+9,false,Tiffin,,Northwood (MI),,2022
+9,false,Lamar,,Southern Utah,,2022
+9,false,Lewis & Clark,,Pacific (OR),,2022
+9,true,West Florida,,West Alabama,,2022
+9,false,Central Arkansas,,North Alabama,,2022
+9,false,Northwestern (MN),,Minnesota-Morris,,2022
+9,false,Indianapolis,,Missouri S&T,,2022
+9,false,West Georgia,,Shorter,,2022
+9,false,Mississippi College,,Delta State,,2022
+9,false,Tarleton State,,Sam Houston State,,2022
+9,false,Ohio Wesleyan,,Oberlin,,2022
+9,false,UC Davis,,Cal Poly,,2022
+9,false,Arkansas State,,South Alabama,,2022
+9,false,Geneva College,,Bethany (WV),,2022
+9,false,Florida Atlantic,,UAB,,2022
+9,false,McNeese,,Southeastern Louisiana,,2022
+9,false,Midwestern State,,Western Oregon,,2022
+9,false,McNeese,,Southeastern Louisiana,,2022
+9,false,Central Washington,,Texas A&M-Kingsville,,2022
+9,false,UTEP,,Middle Tennessee,,2022
+9,false,Sacramento State,,Idaho,,2022
+9,true,Simon Fraser,,Angelo State,,2022
+9,false,Cal Lutheran,,La Verne,,2022
+9,false,San José State,,Nevada,,2022
+9,false,Hawai'i,,Wyoming,,2022
+10,false,Ohio,,Buffalo,,2022
+10,false,Kent State,,Ball State,,2022
+10,false,Bowling Green,,Western Michigan,,2022
+10,false,Northern Illinois,,Central Michigan,,2022
+10,false,Rice,,UTEP,,2022
+10,false,Mississippi Valley State,,Alabama A&M,,2022
+10,false,Coastal Carolina,,Appalachian State,,2022
+10,false,Boston College,,Duke,,2022
+10,false,Connecticut,,UMass,,2022
+10,false,Prairie View,,Alcorn State,,2022
+10,false,Washington,,Oregon State,,2022
+10,false,Virginia Tech,,Georgia Tech,,2022
+10,false,Memphis,,UCF,,2022
+10,false,Cincinnati,,Navy,,2022
+10,false,Texas A&M-Kingsville,,Midwestern State,,2022
+10,false,University of Texas of the Permian Basin,,Western New Mexico,,2022
+10,false,Nebraska,,Minnesota,,2022
+10,false,TCU,,Texas Tech,,2022
+10,false,Pittsburgh,,Syracuse,,2022
+10,false,Tulsa,,Tulane,,2022
+10,false,Boise State,,BYU,,2022
+10,false,Louisville,,James Madison,,2022
+10,false,Temple,,South Florida,,2022
+10,false,Purdue,,Iowa,,2022
+10,false,SMU,,Houston,,2022
+10,false,NC State,,Wake Forest,,2022
+10,false,Old Dominion,,Marshall,,2022
+10,false,Indiana,,Penn State,,2022
+10,false,Louisiana,,Troy,,2022
+10,false,Fresno State,,Hawai'i,,2022
+10,false,San José State,,Colorado State,,2022
+10,false,Virginia,,North Carolina,,2022
+10,false,Miami,,Florida State,,2022
+10,false,Wisconsin,,Maryland,,2022
+10,false,Northwestern,,Ohio State,,2022
+10,false,Southern Mississippi,,Georgia State,,2022
+10,false,Utah,,Arizona,,2022
+10,false,Colorado,,Oregon,,2022
+10,false,Oklahoma,,Baylor,,2022
+10,false,USC,,California,,2022
+10,false,Arkansas,,Liberty,,2022
+10,false,Illinois,,Michigan State,,2022
+10,false,Missouri,,Kentucky,,2022
+10,false,Mississippi State,,Auburn,,2022
+10,false,Vanderbilt,,South Carolina,,2022
+10,false,Kansas State,,Texas,,2022
+10,false,Kansas,,Oklahoma State,,2022
+10,false,Iowa State,,West Virginia,,2022
+10,false,Stanford,,Washington State,,2022
+10,false,Arizona State,,UCLA,,2022
+10,false,Texas A&M,,Florida,,2022
+10,false,LSU,,Alabama,,2022
+10,false,Georgia,,Tennessee,,2022
+10,false,Pomona-Pitzer,,Whittier,,2022
+10,false,Coast Guard,,Worcester Polytechnic,,2022
+10,false,Otterbein,,Ohio Northern,,2022
+10,false,Mount Union,,John Carroll,,2022
+10,false,Husson,,Nichols,,2022
+10,true,Nebraska Wesleyan University,,Coe,,2022
+10,true,Incarnate Word,,Lamar,,2022
+10,false,Marietta,,Capital,,2022
+10,false,Rutgers,,Michigan,,2022
+10,false,Bluefield,,Lincoln University (CA),,2022
+10,false,St. Anselm,,Assumption,,2022
+10,false,Wingate,,Newberry,,2022
+10,false,Utah Tech,,Sam Houston State,,2022
+10,true,Army,,Air Force,,2022
+10,false,Alfred State College,,Gallaudet,,2022
+10,false,Norwich,,Catholic University,,2022
+10,false,North Carolina A&T,,Norfolk State,,2022
+10,false,Dean College,,Anna Maria College,,2022
+10,false,NC Wesleyan,,Huntingdon,,2022
+10,false,Duquesne,,Sacred Heart,,2022
+10,false,Yale,,Brown,,2022
+10,false,Rensselaer,,St Lawrence,,2022
+10,false,Holy Cross,,Lehigh,,2022
+10,false,Endicott College,,Salve Regina,,2022
+10,false,Charleston Southern,,Robert Morris,,2022
+10,false,Charlotte,,Western Kentucky,,2022
+10,false,Findlay,,Walsh,,2022
+10,false,Notre Dame College,,UNC Pembroke,,2022
+10,false,Juniata,,Ursinus,,2022
+10,false,Bridgewater State,,Framingham State,,2022
+10,false,Virginia State,,Virginia Union,,2022
+10,false,Limestone,,Barton College,,2022
+10,false,Western Connecticut State,,Fitchburg State,,2022
+10,false,Fairmont State,,Glenville State,,2022
+10,false,Delaware Valley,,FDU-Florham,,2022
+10,false,Kutztown,,West Chester,,2022
+10,false,King's College (PA),,Misericordia,,2022
+10,false,Mass Maritime,,Plymouth State,,2022
+10,false,Union,,Ithaca,,2022
+10,false,California (PA),,Gannon,,2022
+10,false,Shorter,,North Greenville,,2022
+10,false,Lycoming,,Widener,,2022
+10,false,Albright,,Alvernia University,,2022
+10,false,Bentley,,American International,,2022
+10,false,Springfield,,MIT,,2022
+10,false,Worcester State College,,Westfield State,,2022
+10,false,Seton Hill College,,Mercyhurst,,2022
+10,false,Middlebury,,Hamilton,,2022
+10,false,Georgetown,,St Francis (PA),,2022
+10,false,Bethany (WV),,Allegheny,,2022
+10,false,Bates College,,Trinity (CT),,2022
+10,false,Millsaps,,Trinity (TX),,2022
+10,false,Buffalo State,,Hobart,,2022
+10,false,LaGrange College,,Southern Virginia,,2022
+10,false,Rowan,,Montclair State,,2022
+10,false,Greenville,,Finlandia University,,2022
+10,false,Westminster PA,,Case Western Reserve,,2022
+10,false,Brevard College,,Belhaven College,,2022
+10,false,Albion,,Olivet College,,2022
+10,false,Rochester,,Hartwick,,2022
+10,false,Central,,Luther,,2022
+10,false,Wartburg,,Simpson College,,2022
+10,false,Dickinson,,Johns Hopkins,,2022
+10,false,Western New England,,University of New England,,2022
+10,false,Beloit College,,Lake Forest,,2022
+10,false,Lawrence,,Chicago,,2022
+10,false,Wittenberg,,Ohio Wesleyan,,2022
+10,false,Christopher Newport,,College of New Jersey,,2022
+10,false,Linfield,,Willamette,,2022
+10,false,Pacific (OR),,Whitworth,,2022
+10,false,Shenandoah,,Hampden-Sydney,,2022
+10,false,Ferris State,,Davenport,,2022
+10,false,Mars Hill,,Tusculum,,2022
+10,false,Slippery Rock,,Edinboro,,2022
+10,false,Lock Haven,,Shippensburg,,2022
+10,false,Upper Iowa,,Winona State,,2022
+10,false,Minnesota State,,Southwest Minnesota State,,2022
+10,false,WV Wesleyan,,Frostburg State,,2022
+10,false,Nebraska-Kearney,,Central Oklahoma,,2022
+10,false,Northern Michigan,,Saginaw Valley,,2022
+10,false,Northwood (MI),,Ohio Dominican,,2022
+10,false,Hillsdale,,Michigan Tech,,2022
+10,false,Truman State,,McKendree,,2022
+10,false,Shaw,,St. Augustine's,,2022
+10,false,Wheeling Jesuit,,Charleston (WV),,2022
+10,false,Cornell,,Pennsylvania,,2022
+10,false,Bucknell,,Fordham,,2022
+10,false,Colgate,,Lafayette,,2022
+10,false,Morehead State,,Marist,,2022
+10,false,Long Island University,,Central Connecticut,,2022
+10,false,Presbyterian College,,Dayton,,2022
+10,false,Stonehill,,Wagner,,2022
+10,false,Harvard,,Columbia,,2022
+10,false,Princeton,,Dartmouth,,2022
+10,false,UT Martin,,Kennesaw State,,2022
+10,false,Indiana State,,North Dakota,,2022
+10,false,Stony Brook,,Morgan State,,2022
+10,false,Davidson,,Stetson,,2022
+10,false,Hampton,,William & Mary,,2022
+10,false,Delaware,,Monmouth,,2022
+10,false,Rhode Island,,Maine,,2022
+10,false,Muhlenberg,,Susquehanna,,2022
+10,false,Chowan,,Elizabeth City State,,2022
+10,false,Allen,,Benedict College,,2022
+10,false,Central State,,Kentucky State,,2022
+10,false,New Haven,,Franklin Pierce,,2022
+10,false,Minnesota St-Moorhead,,Concordia-St. Paul,,2022
+10,false,Southern Connecticut State,,Post University,,2022
+10,false,Bowie State,,Lincoln (PA),,2022
+10,false,Utica,,Alfred,,2022
+10,false,Trine,,Hope,,2022
+10,false,Averett,,Guilford,,2022
+10,false,Stevenson,,Wilkes,,2022
+10,false,Loras College,,Dubuque,,2022
+10,false,Alma College,,Adrian,,2022
+10,false,St. Norbert,,Eureka College,,2022
+10,false,Franklin & Marshall,,Moravian,,2022
+10,false,Hiram,,Hilbert College,,2022
+10,false,Wabash College,,Kenyon,,2022
+10,false,DePauw,,Oberlin,,2022
+10,false,Randolph-Macon,,Ferrum,,2022
+10,false,Thiel College,,Geneva College,,2022
+10,false,Washington & Jefferson,,Grove City College,,2022
+10,false,St. Vincent,,Waynesburg,,2022
+10,false,Martin Luther College,,Westminster,,2022
+10,false,Wooster,,Denison,,2022
+10,false,SUNY Cortland,,St. John Fisher,,2022
+10,false,Keystone,,SUNY Maritime,,2022
+10,false,Amherst College,,Bowdoin,,2022
+10,false,McDaniel College,,Gettysburg,,2022
+10,false,Colby,,Tufts,,2022
+10,false,Kean,,Salisbury,,2022
+10,false,East Stroudsburg,,Shepherd,,2022
+10,false,Wesleyan,,Williams,,2022
+10,false,Livingstone,,Johnson C Smith,,2022
+10,false,Wilmington (OH),,Muskingum,,2022
+10,false,Bluffton,,Anderson (IN),,2022
+10,false,Franklin,,Mount St. Joseph,,2022
+10,false,Defiance,,Manchester,,2022
+10,false,Heidelberg,,Baldwin-Wallace,,2022
+10,false,South Carolina State,,Delaware State,,2022
+10,false,Tuskegee,,Miles,,2022
+10,true,Albany State (GA),,Fort Valley State,,2022
+10,false,East Texas Baptist,,Sul Ross State,,2022
+10,false,Augsburg,,Bethel (MN),,2022
+10,false,Monmouth (IL),,Ripon,,2022
+10,false,Towson,,Villanova,,2022
+10,false,Elon,,Albany,,2022
+10,false,Bryant,,Campbell,,2022
+10,false,Bridgewater (VA),,Washington & Lee,,2022
+10,false,North Carolina Central,,Howard,,2022
+10,false,South Dakota,,Missouri State,,2022
+10,false,Western Illinois,,North Dakota State,,2022
+10,false,The Citadel,,Chattanooga,,2022
+10,false,Central Missouri State,,Missouri Western,,2022
+10,false,Fort Hays State,,Northeastern State,,2022
+10,false,Western Carolina,,Wofford,,2022
+10,false,Valparaiso,,St. Thomas (MN),,2022
+10,false,Washburn,,Pittsburg State,,2022
+10,false,Concord,,Alderson-Broaddus,,2022
+10,false,Morehouse,,Clark Atlanta,,2022
+10,false,Bloomsburg,,Millersville,,2022
+10,false,New Mexico Highlands,,Colorado Mines,,2022
+10,false,Howard Payne,,Mary Hardin-Baylor,,2022
+10,false,Fort Lewis,,Western State,,2022
+10,false,Catawba,,Lenoir-Rhyne,,2022
+10,false,Illinois Wesleyan,,North Central,,2022
+10,false,Hardin-Simmons,,Austin College,,2022
+10,false,Edward Waters,,UFTL,,2022
+10,false,Hanover,,Rose-Hulman,,2022
+10,false,Chadron State,,Colorado Mesa,,2022
+10,false,Brockport State (NY),,Morrisville State,,2022
+10,false,Indiana (PA),,Clarion,,2022
+10,false,Birmingham-Southern,,Centre,,2022
+10,false,Crown College,,Northwestern (MN),,2022
+10,false,Macalester,,St. Scholastica,,2022
+10,false,Wisconsin-La Crosse,,UW-River Falls,,2022
+10,false,UW-Stout,,UW-Whitewater,,2022
+10,false,St. Johns (MN),,Carleton,,2022
+10,false,Wisconsin-Platteville,,Wisconsin-Eau Claire,,2022
+10,false,Wisconsin-Stevens Point,,UW-Oshkosh,,2022
+10,false,St. Olaf College,,Gustavus Adolphus,,2022
+10,false,Sioux Falls,,Wayne State (NE),,2022
+10,false,Augustana (SD),,Minnesota-Duluth,,2022
+10,false,Bemidji State,,Northern State,,2022
+10,false,Southwest Baptist,,Quincy,,2022
+10,false,William Jewell College,,Indianapolis,,2022
+10,false,Washington (MO),,Wheaton College (Ill),,2022
+10,false,North Park,,Elmhurst,,2022
+10,false,Cornell College (IA),,Knox College,,2022
+10,false,Concordia (MN),,Hamline,,2022
+10,false,Grinnell,,Illinois College,,2022
+10,false,Aurora,,Lakeland University,,2022
+10,false,Concordia (IL),,Benedictine (IL),,2022
+10,false,Southwestern University,,Texas Lutheran,,2022
+10,false,Augustana (IL),,Carthage,,2022
+10,false,Millikin,,Carroll (WI),,2022
+10,false,Concordia (WI),,Wisconsin Lutheran,,2022
+10,false,Sewanee Univ. of the South,,Berry College,,2022
+10,false,Tennessee Tech,,Lindenwood,,2022
+10,false,Northwest Missouri State,,Missouri Southern State,,2022
+10,false,Lincoln (MO),,Emporia State,,2022
+10,false,Minot State,,University of Mary,,2022
+10,false,Louisiana Tech,,Middle Tennessee,,2022
+10,false,Illinois State,,Youngstown State,,2022
+10,false,Weber State,,Sacramento State,,2022
+10,false,Idaho,,Eastern Washington,,2022
+10,false,East Central,,Arkansas-Monticello,,2022
+10,false,Adams State,,Black Hills State,,2022
+10,false,Samford,,VMI,,2022
+10,false,Southwestern Oklahoma,,Harding,,2022
+10,false,West Alabama,,Mississippi College,,2022
+10,true,Texas A&M-Commerce,,Northwestern State,,2022
+10,false,Carson-Newman,,UVA-Wise,,2022
+10,false,Grambling,,Arkansas-Pine Bluff,,2022
+10,false,Incarnate Word,,Houston Baptist,,2022
+10,false,Grand Valley State,,Wayne State (MI),,2022
+10,false,Henderson State,,Oklahoma Baptist,,2022
+10,false,Southern Arkansas,,Southern Nazarene,,2022
+10,false,Delta State,,West Georgia,,2022
+10,false,Texas A&M-Commerce,,Northwestern State,,2022
+10,false,Southeastern Oklahoma,,Ouachita Baptist,,2022
+10,false,Richmond,,New Hampshire,,2022
+10,false,Utah State,,New Mexico,,2022
+10,false,UAB,,UT San Antonio,,2022
+10,false,Lake Erie College,,Ashland,,2022
+10,false,San Diego,,Butler,,2022
+10,false,Georgia Southern,,South Alabama,,2022
+10,false,Northern Arizona,,Montana State,,2022
+10,false,Winston-Salem,,Fayetteville State,,2022
+10,false,North Texas,,Florida International,,2022
+10,false,Puget Sound,,Pacific Lutheran,,2022
+10,false,Colorado State-Pueblo,,South Dakota Mines,,2022
+10,false,Erskine,,Emory & Henry,,2022
+10,false,Claremont,,Redlands,,2022
+10,false,Lamar,,Southeastern Louisiana,,2022
+10,false,Western Oregon,,Simon Fraser,,2022
+10,false,George Fox University,,Lewis & Clark,,2022
+10,false,Kentucky Wesleyan,,Tiffin,,2022
+10,false,Methodist,,Greensboro,,2022
+10,false,Northwestern Oklahoma State,,Arkansas Tech,,2022
+10,false,Louisiana Monroe,,Texas State,,2022
+10,false,Savannah State,,Lane,,2022
+10,false,North Alabama,,Austin Peay,,2022
+10,false,Bethune-Cookman,,Alabama State,,2022
+10,false,Northern Iowa,,South Dakota State,,2022
+10,false,Eastern Kentucky,,Central Arkansas,,2022
+10,false,Portland State,,Northern Colorado,,2022
+10,false,Florida A&M,,Southern,,2022
+10,false,Tennessee State,,Southeast Missouri State,,2022
+10,false,West Liberty,,WV State,,2022
+10,true,Hendrix College,,Rhodes,,2022
+10,false,Tarleton State,,Abilene Christian,,2022
+10,false,Valdosta State,,West Florida,,2022
+10,false,Angelo State,,Central Washington,,2022
+10,false,UC Davis,,Idaho State,,2022
+10,false,Texas Southern,,Jackson State,,2022
+10,false,Southeastern Louisiana,,Houston Baptist,,2022
+10,false,San Diego State,,UNLV,,2022
+10,false,Notre Dame,,Clemson,,2022
+10,false,Utah Tech,,Southern Utah,,2022
+10,false,McNeese,,Eastern Illinois,,2022
+10,false,West Texas A&M,,Eastern New Mexico,,2022
+10,false,Montana,,Cal Poly,,2022
+10,false,Chapman,,Cal Lutheran,,2022
+11,false,Miami (OH),,Ohio,,2022
+11,false,Akron,,Eastern Michigan,,2022
+11,false,Toledo,,Ball State,,2022
+11,false,Central Michigan,,Buffalo,,2022
+11,false,Western Michigan,,Northern Illinois,,2022
+11,false,Bowling Green,,Kent State,,2022
+11,false,Memphis,,Tulsa,,2022
+11,false,Louisiana,,Georgia Southern,,2022
+11,false,Rowan,,University of New England,,2022
+11,false,College of New Jersey,,Kean,,2022
+11,false,Cincinnati,,East Carolina,,2022
+11,false,USC,,Colorado,,2022
+11,false,Portland State,,Sacramento State,,2022
+11,false,UNLV,,Fresno State,,2022
+11,false,Ohio State,,Indiana,,2022
+11,false,Oregon,,Washington,,2022
+11,false,Clemson,,Louisville,,2022
+11,false,Duke,,Virginia Tech,,2022
+11,false,Auburn,,Texas A&M,,2022
+11,false,Washington State,,Arizona State,,2022
+11,false,Mississippi State,,Georgia,,2022
+11,false,Coastal Carolina,,Southern Mississippi,,2022
+11,false,San Diego State,,San José State,,2022
+11,false,Georgia State,,Louisiana Monroe,,2022
+11,false,Old Dominion,,James Madison,,2022
+11,false,Houston,,Temple,,2022
+11,false,South Florida,,SMU,,2022
+11,false,Tulane,,UCF,,2022
+11,false,Syracuse,,Florida State,,2022
+11,false,Marshall,,Appalachian State,,2022
+11,false,Arkansas State,,UMass,,2022
+11,false,Wake Forest,,North Carolina,,2022
+11,false,Virginia,,Pittsburgh,,2022
+11,false,Georgia Tech,,Miami,,2022
+11,false,NC State,,Boston College,,2022
+11,false,UCLA,,Arizona,,2022
+11,false,Baylor,,Kansas State,,2022
+11,false,Texas Tech,,Kansas,,2022
+11,false,Iowa,,Wisconsin,,2022
+11,false,Michigan State,,Rutgers,,2022
+11,false,Utah,,Stanford,,2022
+11,false,Oklahoma State,,Iowa State,,2022
+11,false,Michigan,,Nebraska,,2022
+11,false,Minnesota,,Northwestern,,2022
+11,false,West Virginia,,Oklahoma,,2022
+11,false,Penn State,,Maryland,,2022
+11,false,Illinois,,Purdue,,2022
+11,false,Texas,,TCU,,2022
+11,false,Oregon State,,California,,2022
+11,false,Florida,,South Carolina,,2022
+11,false,Kentucky,,Vanderbilt,,2022
+11,false,Arkansas,,LSU,,2022
+11,true,Incarnate Word,,Utah Tech,,2022
+11,false,Tennessee,,Missouri,,2022
+11,false,John Carroll,,Otterbein,,2022
+11,false,Ohio Northern,,Wilmington (OH),,2022
+11,false,Pace,,Bentley,,2022
+11,false,Ole Miss,,Alabama,,2022
+11,false,Catholic University,,Springfield,,2022
+11,false,Merchant Marine,,Coast Guard,,2022
+11,false,Texas A&M-Kingsville,,Western Oregon,,2022
+11,false,Worcester Polytechnic,,MIT,,2022
+11,false,Coe,,Wartburg,,2022
+11,false,Salve Regina,,Husson,,2022
+11,false,Ohio Wesleyan,,Hiram,,2022
+11,false,DePauw,,Wabash College,,2022
+11,false,Edinboro,,Lock Haven,,2022
+11,false,Marist,,Valparaiso,,2022
+11,false,Davenport,,Grand Valley State,,2022
+11,false,Holy Cross,,Bryant,,2022
+11,false,Albany,,Maine,,2022
+11,false,North Carolina A&T,,Charleston Southern,,2022
+11,false,Nichols,,Curry,,2022
+11,false,Yale,,Princeton,,2022
+11,false,Southern Connecticut State,,New Haven,,2022
+11,false,Gannon,,Shippensburg,,2022
+11,false,SUNY Maritime,,Alfred State College,,2022
+11,false,Luther,,Nebraska Wesleyan University,,2022
+11,false,Johns Hopkins,,McDaniel College,,2022
+11,false,Bridgewater State,,Mass Maritime,,2022
+11,false,Plymouth State,,UMass Dartmouth,,2022
+11,false,Illinois College,,Beloit College,,2022
+11,false,Moravian,,Muhlenberg,,2022
+11,false,Rensselaer,,Union,,2022
+11,false,Trinity (CT),,Wesleyan,,2022
+11,false,Lebanon Valley,,Albright,,2022
+11,false,Westfield State,,Fitchburg State,,2022
+11,false,Dean College,,Keystone,,2022
+11,false,Wilkes,,King's College (PA),,2022
+11,false,Williams,,Amherst College,,2022
+11,false,Hamilton,,Bates College,,2022
+11,false,Framingham State,,Worcester State College,,2022
+11,false,Mercyhurst,,Shepherd,,2022
+11,false,Seton Hill College,,Millersville,,2022
+11,false,Wagner,,Sacred Heart,,2022
+11,false,Lake Erie College,,Northern Michigan,,2022
+11,false,Tiffin,,Findlay,,2022
+11,false,California (PA),,East Stroudsburg,,2022
+11,false,Clarion,,West Chester,,2022
+11,false,Lehigh,,Colgate,,2022
+11,false,Connecticut,,Liberty,,2022
+11,false,Brown,,Columbia,,2022
+11,false,Central Connecticut,,Merrimack,,2022
+11,false,St Francis (PA),,Duquesne,,2022
+11,false,Limestone,,Emory & Henry,,2022
+11,false,American International,,St. Anselm,,2022
+11,true,Navy,,Notre Dame,,2022
+11,false,Tufts,,Middlebury,,2022
+11,false,Georgetown,,Bucknell,,2022
+11,false,Tarleton State,,Abilene Christian,,2022
+11,false,Alma College,,Albion,,2022
+11,false,Ferrum,,Averett,,2022
+11,false,St. John Fisher,,Utica,,2022
+11,false,Simpson College,,Buena Vista,,2022
+11,false,Dubuque,,Central,,2022
+11,false,Belhaven College,,Maryville TN,,2022
+11,false,Alfred,,Brockport State (NY),,2022
+11,false,Misericordia,,Lycoming,,2022
+11,false,Adrian,,Olivet College,,2022
+11,false,Ripon,,Lawrence,,2022
+11,false,Cornell College (IA),,Grinnell,,2022
+11,false,Waynesburg,,Washington & Jefferson,,2022
+11,false,Centre,,Millsaps,,2022
+11,false,Westminster,,Crown College,,2022
+11,false,Southern Virginia,,Brevard College,,2022
+11,false,Greensboro,,NC Wesleyan,,2022
+11,false,Hobart,,Rochester,,2022
+11,false,Wittenberg,,Hilbert College,,2022
+11,false,Guilford,,Bridgewater (VA),,2022
+11,false,Montclair State,,William Paterson,,2022
+11,false,Susquehanna,,Juniata,,2022
+11,false,St Lawrence,,Buffalo State,,2022
+11,false,Widener,,Delaware Valley,,2022
+11,false,Morrisville State,,Hartwick,,2022
+11,false,Western New England,,Endicott College,,2022
+11,false,Ursinus,,Dickinson,,2022
+11,false,WV Wesleyan,,Glenville State,,2022
+11,false,Stony Brook,,Towson,,2022
+11,false,New Hampshire,,Rhode Island,,2022
+11,false,Delaware,,Richmond,,2022
+11,false,Hampton,,Elon,,2022
+11,false,William & Mary,,Villanova,,2022
+11,false,Dayton,,Morehead State,,2022
+11,false,Fordham,,Lafayette,,2022
+11,false,North Dakota,,South Dakota,,2022
+11,false,Kennesaw State,,Austin Peay,,2022
+11,false,Long Island University,,Stonehill,,2022
+11,false,Saginaw Valley,,Michigan Tech,,2022
+11,false,Northwood (MI),,Walsh,,2022
+11,false,Wayne State (MI),,Ferris State,,2022
+11,false,Ashland,,Kentucky Wesleyan,,2022
+11,false,Lenoir-Rhyne,,Tusculum,,2022
+11,false,Newberry,,Mars Hill,,2022
+11,false,Catawba,,Carson-Newman,,2022
+11,false,Alvernia University,,FDU-Florham,,2022
+11,true,Post University,,Assumption,,2022
+11,false,Carroll (WI),,Washington (MO),,2022
+11,false,Kalamazoo,,Trine,,2022
+11,false,Knox College,,Monmouth (IL),,2022
+11,false,St. Norbert,,Concordia (IL),,2022
+11,false,Charleston (WV),,WV State,,2022
+11,false,St. Vincent,,Bethany (WV),,2022
+11,false,Ohio Dominican,,Hillsdale,,2022
+11,false,Alderson-Broaddus,,Notre Dame College,,2022
+11,false,West Liberty,,Frostburg State,,2022
+11,false,Wayne State (NE),,Minnesota St-Moorhead,,2022
+11,false,Concordia-St. Paul,,Minot State,,2022
+11,false,Minnesota State,,Winona State,,2022
+11,false,Upper Iowa,,Sioux Falls,,2022
+11,false,Slippery Rock,,Kutztown,,2022
+11,false,East Tennessee State,,Western Carolina,,2022
+11,true,St. Vincent,,Bethany Co,,2022
+11,false,Gettysburg,,Franklin & Marshall,,2022
+11,false,Minnesota-Morris,,Greenville,,2022
+11,false,Pennsylvania,,Harvard,,2022
+11,false,Grove City College,,Thiel College,,2022
+11,false,Geneva College,,Westminster PA,,2022
+11,false,Cornell,,Dartmouth,,2022
+11,false,Washington & Lee,,Shenandoah,,2022
+11,false,Hampden-Sydney,,Randolph-Macon,,2022
+11,false,Whitworth,,George Fox University,,2022
+11,false,Salisbury,,Christopher Newport,,2022
+11,false,Oberlin,,Wooster,,2022
+11,false,Denison,,Kenyon,,2022
+11,true,Ithaca,,SUNY Cortland,,2022
+11,false,Howard,,South Carolina State,,2022
+11,false,Campbell,,Gardner-Webb,,2022
+11,false,Anderson (IN),,Manchester,,2022
+11,false,Muskingum,,Marietta,,2022
+11,false,Franklin,,Hanover,,2022
+11,false,Capital,,Heidelberg,,2022
+11,false,Bluffton,,Defiance,,2022
+11,false,Chattanooga,,Samford,,2022
+11,false,Mount St. Joseph,,Rose-Hulman,,2022
+11,false,Baldwin-Wallace,,Mount Union,,2022
+11,false,Wingate,,UVA-Wise,,2022
+11,false,Wofford,,VMI,,2022
+11,false,Carthage,,Millikin,,2022
+11,false,Southern Illinois,,North Dakota State,,2022
+11,false,Delaware State,,Morgan State,,2022
+11,false,Jacksonville State,,Eastern Kentucky,,2022
+11,false,Midwestern State,,Angelo State,,2022
+11,false,North Central,,Augustana (IL),,2022
+11,false,Texas Lutheran,,Hardin-Simmons,,2022
+11,false,Sul Ross State,,Southwestern University,,2022
+11,false,Barton College,,Erskine,,2022
+11,false,Austin College,,Howard Payne,,2022
+11,false,Trinity (TX),,Sewanee Univ. of the South,,2022
+11,false,Berry College,,Hendrix College,,2022
+11,false,Case Western Reserve,,Carnegie Mellon,,2022
+11,false,Norfolk State,,North Carolina Central,,2022
+11,false,Western Illinois,,Indiana State,,2022
+11,false,Northern Colorado,,Northern Arizona,,2022
+11,false,Northern State,,Minnesota-Duluth,,2022
+11,false,University of Mary,,Bemidji State,,2022
+11,false,Wheeling Jesuit,,Fairmont State,,2022
+11,false,Emporia State,,Northwest Missouri State,,2022
+11,false,Missouri Western,,Lincoln (MO),,2022
+11,false,Quincy,,William Jewell College,,2022
+11,false,Aurora,,Concordia (WI),,2022
+11,false,Mary Hardin-Baylor,,McMurry,,2022
+11,false,Benedictine (IL),,Wisconsin Lutheran,,2022
+11,false,Northwestern (MN),,Martin Luther College,,2022
+11,false,UW-Whitewater,,Wisconsin-Stevens Point,,2022
+11,false,Wisconsin-Eau Claire,,UW-Oshkosh,,2022
+11,false,Rhodes,,Birmingham-Southern,,2022
+11,false,Wheaton College (Ill),,North Park,,2022
+11,false,Indiana (PA),,Bloomsburg,,2022
+11,false,Colorado Mines,,Fort Lewis,,2022
+11,false,South Dakota Mines,,Chadron State,,2022
+11,false,Southwest Minnesota State,,Augustana (SD),,2022
+11,false,Missouri S&T,,Southwest Baptist,,2022
+11,false,Black Hills State,,Colorado State-Pueblo,,2022
+11,false,Edward Waters,,Allen,,2022
+11,false,Western Kentucky,,Rice,,2022
+11,false,Indianapolis,,Truman State,,2022
+11,false,St. Thomas (MN),,Stetson,,2022
+11,false,The Citadel,,Virginia Lynchburg,,2022
+11,false,Drake,,Butler,,2022
+11,false,East Texas Baptist,,North American University,,2022
+11,false,Anna Maria College,,Castleton State College,,2022
+11,false,Huntingdon,,LaGrange College,,2022
+11,false,Lakeland University,,Rockford,,2022
+11,false,UW-River Falls,,UW-Stout,,2022
+11,false,Wisconsin-La Crosse,,Wisconsin-Platteville,,2022
+11,false,Chicago,,Lake Forest,,2022
+11,false,Elmhurst,,Illinois Wesleyan,,2022
+11,false,Murray State,,Robert Morris,,2022
+11,false,Lindenwood,,McKendree,,2022
+11,false,Arkansas-Monticello,,Southern Arkansas,,2022
+11,false,Henderson State,,Ouachita Baptist,,2022
+11,false,East Central,,Southeastern Oklahoma,,2022
+11,false,Central Oklahoma,,Central Missouri State,,2022
+11,false,Missouri Southern State,,Washburn,,2022
+11,false,Western State,,Adams State,,2022
+11,true,Houston Baptist,,Texas A&M-Commerce,,2022
+11,false,South Dakota State,,Illinois State,,2022
+11,false,Missouri State,,Youngstown State,,2022
+11,false,Mercer,,Furman,,2022
+11,true,Jackson State,,Alabama A&M,,2022
+11,false,Alabama State,,Florida A&M,,2022
+11,false,Montana,,Eastern Washington,,2022
+11,false,Northeastern State,,Nebraska-Kearney,,2022
+11,false,Southern Utah,,Lincoln University (CA),,2022
+11,false,Harding,,Arkansas Tech,,2022
+11,false,Houston Baptist,,McNeese,,2022
+11,false,Southern,,Mississippi Valley State,,2022
+11,false,Colorado Mesa,,New Mexico Highlands,,2022
+11,false,Utah Tech,,Tarleton State,,2022
+11,false,Eastern Illinois,,Southeast Missouri State,,2022
+11,false,Alcorn State,,Bethune-Cookman,,2022
+11,false,Weber State,,Idaho State,,2022
+11,false,Pittsburg State,,Fort Hays State,,2022
+11,false,Arkansas-Pine Bluff,,Prairie View,,2022
+11,false,Air Force,,New Mexico,,2022
+11,false,Troy,,Army,,2022
+11,false,UAB,,North Texas,,2022
+11,false,UT San Antonio,,Louisiana Tech,,2022
+11,false,Middle Tennessee,,Charlotte,,2022
+11,false,Lewis & Clark,,Linfield,,2022
+11,false,La Verne,,Chapman,,2022
+11,false,Willamette,,Puget Sound,,2022
+11,false,Pacific Lutheran,,Pacific (OR),,2022
+11,false,Redlands,,Whittier,,2022
+11,false,Pomona-Pitzer,,Claremont,,2022
+11,false,Central Washington,,University of Texas of the Permian Basin,,2022
+11,false,Southwestern Oklahoma,,Northwestern Oklahoma State,,2022
+11,false,UNC Pembroke,,Concord,,2022
+11,false,San Diego,,Davidson,,2022
+11,false,New Mexico State,,Lamar,,2022
+11,false,Eastern New Mexico,,Western New Mexico,,2022
+11,false,Nicholls,,Texas A&M-Commerce,,2022
+11,false,Stephen F. Austin,,Central Arkansas,,2022
+11,false,North Alabama,,Tennessee Tech,,2022
+11,false,Bowdoin,,Colby,,2022
+11,false,South Alabama,,Texas State,,2022
+11,false,Tennessee State,,UT Martin,,2022
+11,false,Texas Southern,,Grambling,,2022
+11,false,Florida International,,Florida Atlantic,,2022
+11,false,Colorado State,,Wyoming,,2022
+11,false,Idaho,,UC Davis,,2022
+11,false,Southeastern Louisiana,,Northwestern State,,2022
+11,false,Southeastern Louisiana,,Northwestern State,,2022
+11,false,Oklahoma Baptist,,Southern Nazarene,,2022
+11,false,Cal Poly,,Montana State,,2022
+11,false,McNeese,,Nicholls,,2022
+11,true,Simon Fraser,,West Texas A&M,,2022
+11,false,Nevada,,Boise State,,2022
+11,false,Hawai'i,,Utah State,,2022
+12,false,Toledo,,Bowling Green,,2022
+12,false,Ball State,,Ohio,,2022
+12,false,Northern Illinois,,Miami (OH),,2022
+12,false,Kent State,,Eastern Michigan,,2022
+12,false,Central Michigan,,Western Michigan,,2022
+12,false,Nicholls,,Southeastern Louisiana,,2022
+12,false,Nicholls,,Southeastern Louisiana,,2022
+12,false,Tulane,,SMU,,2022
+12,false,New Mexico,,San Diego State,,2022
+12,false,Tulsa,,South Florida,,2022
+12,false,Wake Forest,,Syracuse,,2022
+12,false,Harvard,,Yale,,2022
+12,false,Northwestern State,,McNeese,,2022
+12,true,Bethune-Cookman,,Florida A&M,,2022
+12,false,Southern Mississippi,,South Alabama,,2022
+12,false,Memphis,,North Alabama,,2022
+12,false,Temple,,Cincinnati,,2022
+12,false,East Carolina,,Houston,,2022
+12,false,James Madison,,Georgia State,,2022
+12,false,Auburn,,Western Kentucky,,2022
+12,false,LSU,,UAB,,2022
+12,false,Appalachian State,,Old Dominion,,2022
+12,false,UCF,,Navy,,2022
+12,false,Air Force,,Colorado State,,2022
+12,false,UCLA,,USC,,2022
+12,false,Rutgers,,Penn State,,2022
+12,false,Louisville,,NC State,,2022
+12,false,West Virginia,,Kansas State,,2022
+12,false,Pittsburgh,,Duke,,2022
+12,false,Minnesota,,Iowa,,2022
+12,false,Purdue,,Northwestern,,2022
+12,false,Michigan,,Illinois,,2022
+12,false,Maryland,,Ohio State,,2022
+12,false,Oklahoma,,Oklahoma State,,2022
+12,false,Michigan State,,Indiana,,2022
+12,false,Liberty,,Virginia Tech,,2022
+12,false,Virginia,,Coastal Carolina,,2022
+12,false,North Carolina,,Georgia Tech,,2022
+12,false,Florida State,,Louisiana,,2022
+12,false,Clemson,,Miami,,2022
+12,false,Kansas,,Texas,,2022
+12,false,Iowa State,,Texas Tech,,2022
+12,false,Baylor,,TCU,,2022
+12,false,Arkansas,,Ole Miss,,2022
+12,false,South Carolina,,Tennessee,,2022
+12,false,Mississippi State,,East Tennessee State,,2022
+12,false,Washington,,Colorado,,2022
+12,false,Vanderbilt,,Florida,,2022
+12,false,Arizona,,Washington State,,2022
+12,false,Missouri,,New Mexico State,,2022
+12,false,Oregon,,Utah,,2022
+12,false,California,,Stanford,,2022
+12,false,Arizona State,,Oregon State,,2022
+12,false,Texas A&M,,UMass,,2022
+12,false,Nebraska,,Wisconsin,,2022
+12,false,Utah State,,San José State,,2022
+12,false,Kentucky,,Georgia,,2022
+12,false,Morgan State,,Howard,,2022
+12,false,Sacred Heart,,Long Island University,,2022
+12,false,Youngstown State,,Southern Illinois,,2022
+12,false,Duquesne,,Wagner,,2022
+12,false,Army,,Connecticut,,2022
+12,false,Robert Morris,,Bryant,,2022
+12,false,Alabama,,Austin Peay,,2022
+12,false,Maine,,New Hampshire,,2022
+12,false,Monmouth,,Stony Brook,,2022
+12,false,Richmond,,William & Mary,,2022
+12,false,Merrimack,,St Francis (PA),,2022
+12,false,Butler,,St. Thomas (MN),,2022
+12,false,VMI,,The Citadel,,2022
+12,false,Georgetown,,Holy Cross,,2022
+12,false,Lafayette,,Lehigh,,2022
+12,false,Illinois State,,Western Illinois,,2022
+12,false,Rice,,UT San Antonio,,2022
+12,false,Columbia,,Cornell,,2022
+12,false,Morehead State,,San Diego,,2022
+12,false,Samford,,Mercer,,2022
+12,false,Bucknell,,Marist,,2022
+12,false,Stonehill,,Central Connecticut,,2022
+12,false,Furman,,Wofford,,2022
+12,false,Princeton,,Pennsylvania,,2022
+12,false,Towson,,Hampton,,2022
+12,false,Indiana State,,Missouri State,,2022
+12,false,Valparaiso,,Drake,,2022
+12,false,Sam Houston State,,Southern Utah,,2022
+12,false,Rhode Island,,Albany,,2022
+12,false,Villanova,,Delaware,,2022
+12,false,Abilene Christian,,Stephen F. Austin,,2022
+12,false,Fordham,,Colgate,,2022
+12,false,Western Carolina,,Chattanooga,,2022
+12,false,Davidson,,Dayton,,2022
+12,false,Stetson,,Presbyterian College,,2022
+12,false,Dartmouth,,Brown,,2022
+12,false,South Carolina State,,Norfolk State,,2022
+12,false,Gardner-Webb,,North Carolina A&T,,2022
+12,false,Mississippi Valley State,,Prairie View,,2022
+12,false,Montana State,,Montana,,2022
+12,false,Southeast Missouri State,,Murray State,,2022
+12,false,Delaware State,,Campbell,,2022
+12,false,Alabama A&M,,Texas Southern,,2022
+12,false,Southern Utah,,Incarnate Word,,2022
+12,false,South Dakota,,Northern Iowa,,2022
+12,false,Tennessee Tech,,North Carolina Central,,2022
+12,false,Notre Dame,,Boston College,,2022
+12,false,Idaho State,,Idaho,,2022
+12,false,Alcorn State,,Jackson State,,2022
+12,false,Texas A&M-Commerce,,Tennessee State,,2022
+12,false,Northern Arizona,,Weber State,,2022
+12,false,Tarleton State,,Houston Baptist,,2022
+12,false,UT Martin,,Eastern Illinois,,2022
+12,false,Eastern Kentucky,,Kennesaw State,,2022
+12,false,Troy,,Louisiana Monroe,,2022
+12,false,Buffalo,,Akron,,2022
+12,false,Charlotte,,Louisiana Tech,,2022
+12,false,Middle Tennessee,,Florida Atlantic,,2022
+12,false,BYU,,Utah Tech,,2022
+12,false,North Dakota State,,North Dakota,,2022
+12,false,UTEP,,Florida International,,2022
+12,false,Eastern Washington,,Northern Colorado,,2022
+12,false,Central Arkansas,,Jacksonville State,,2022
+12,false,Texas State,,Arkansas State,,2022
+12,false,Sacramento State,,UC Davis,,2022
+12,false,Georgia Southern,,Marshall,,2022
+12,false,Wyoming,,Boise State,,2022
+12,false,Cal Poly,,Portland State,,2022
+12,false,Lamar,,Sam Houston State,,2022
+12,false,Nevada,,Fresno State,,2022
+12,false,Hawai'i,,UNLV,,2022
+13,false,Miami (OH),,Ball State,,2022
+13,false,Ohio,,Bowling Green,,2022
+13,false,Alabama State,,Arkansas-Pine Bluff,,2022
+13,false,Ole Miss,,Mississippi State,,2022
+13,false,South Florida,,UCF,,2022
+13,false,North Carolina,,NC State,,2022
+13,false,Texas,,Baylor,,2022
+13,false,Boise State,,Utah State,,2022
+13,false,Eastern Michigan,,Central Michigan,,2022
+13,false,Western Michigan,,Toledo,,2022
+13,false,Arizona,,Arizona State,,2022
+13,false,Colorado State,,New Mexico,,2022
+13,false,Missouri,,Arkansas,,2022
+13,false,Iowa,,Nebraska,,2022
+13,false,California,,UCLA,,2022
+13,false,Florida State,,Florida,,2022
+13,false,Fresno State,,Wyoming,,2022
+13,false,Duke,,Wake Forest,,2022
+13,false,Liberty,,New Mexico State,,2022
+13,false,Maryland,,Rutgers,,2022
+13,false,Buffalo,,Kent State,,2022
+13,false,SMU,,Memphis,,2022
+13,false,Oklahoma State,,West Virginia,,2022
+13,false,USC,,Notre Dame,,2022
+13,false,Penn State,,Michigan State,,2022
+13,false,Cincinnati,,Tulane,,2022
+13,false,Georgia,,Georgia Tech,,2022
+13,false,TCU,,Iowa State,,2022
+13,false,Northern Illinois,,Akron,,2022
+13,false,Arkansas State,,Troy,,2022
+13,false,Marshall,,Georgia State,,2022
+13,false,Indiana,,Purdue,,2022
+13,false,James Madison,,Coastal Carolina,,2022
+13,false,Houston,,Tulsa,,2022
+13,false,Virginia Tech,,Virginia,,2022
+13,false,Temple,,East Carolina,,2022
+13,false,Miami,,Pittsburgh,,2022
+13,false,Northwestern,,Illinois,,2022
+13,false,Wisconsin,,Minnesota,,2022
+13,false,Texas Tech,,Oklahoma,,2022
+13,false,Kansas State,,Kansas,,2022
+13,false,Washington State,,Washington,,2022
+13,false,Stanford,,BYU,,2022
+13,false,Colorado,,Utah,,2022
+13,false,Kentucky,,Louisville,,2022
+13,false,Oregon State,,Oregon,,2022
+13,false,Vanderbilt,,Tennessee,,2022
+13,false,Texas A&M,,LSU,,2022
+13,false,Clemson,,South Carolina,,2022
+13,false,Alabama,,Auburn,,2022
+13,false,Boston College,,Syracuse,,2022
+13,false,UMass,,Army,,2022
+13,false,Florida Atlantic,,Western Kentucky,,2022
+13,false,South Alabama,,Old Dominion,,2022
+13,false,Ohio State,,Michigan,,2022
+13,true,Southern,,Grambling,,2022
+13,false,North Texas,,Rice,,2022
+13,false,UT San Antonio,,UTEP,,2022
+13,false,San José State,,Hawai'i,,2022
+13,false,Louisiana Tech,,UAB,,2022
+13,false,Texas State,,Louisiana,,2022
+13,false,Louisiana Monroe,,Southern Mississippi,,2022
+13,false,UNLV,,Nevada,,2022
+13,false,Georgia Southern,,Appalachian State,,2022
+13,false,Florida International,,Middle Tennessee,,2022
+13,false,San Diego State,,Air Force,,2022
+15,true,Navy,,Army,,2022

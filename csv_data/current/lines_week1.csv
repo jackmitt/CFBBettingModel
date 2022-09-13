@@ -1,0 +1,93 @@
+﻿id,homeTeam,homeScore,awayTeam,awayScore,lineProvider,overUnder,spread,formattedSpread,openingSpread,openingOverUnder,homeMoneyline,awayMoneyline
+401403855,Arkansas,,Cincinnati,,Bovada,52.0,-6.0,Arkansas -6.0,-7.5,54.0,-230,190
+401403966,Colorado,,TCU,,Bovada,55.5,14.0,TCU -14.0,8.0,54.5,290,-380
+401403857,Florida,,Utah,,Bovada,51.0,3.0,Utah -3.0,0.0,52.5,120,-140
+401415612,South Florida,,BYU,,Bovada,57.5,12.5,BYU -12.5,12.5,57.5,,
+401403859,Kentucky,,Miami (OH),,Bovada,54.0,-16.5,Kentucky -16.5,-21.0,49.5,-1100,650
+401416591,Michigan State,,Western Michigan,,Bovada,54.0,-23.0,Michigan State -23.0,-19.0,54.5,-1200,700
+401405060,Minnesota,,New Mexico State,,Bovada,52.5,-36.0,Minnesota -36.0,-38.0,57.5,,
+401403860,Ole Miss,,Troy,,Bovada,58.0,-21.0,Ole Miss -21.0,-21.0,61.0,-2200,1000
+401403853,Hawai'i,10,Vanderbilt,63,Bovada,54.5,9.5,Vanderbilt -9.5,4.5,55.0,250,-300
+401403853,Hawai'i,10,Vanderbilt,63,William Hill (New Jersey),54.5,9,Vanderbilt -9,,,,
+401403853,Hawai'i,10,Vanderbilt,63,consensus,54.5,9,Vanderbilt -9,,,,
+401403853,Hawai'i,10,Vanderbilt,63,teamrankings,54.5,9.5,Vanderbilt -9.5,,,,
+401411090,Florida State,47,Duquesne,7,Bovada,57.0,-41.5,Florida State -41.5,-43.0,55.0,,
+401411090,Florida State,47,Duquesne,7,William Hill (New Jersey),57,-42,Florida State -42,,,,
+401411090,Florida State,47,Duquesne,7,consensus,57,-42,Florida State -42,,,,
+401411094,Duke,,Temple,,Bovada,51.0,-7.0,Duke -7.0,-6.5,54.0,-260,215
+401416569,Oklahoma State,,Central Michigan,,Bovada,60.0,-21.5,Oklahoma State -21.5,-18.5,59.5,-1800,850
+401411092,Pittsburgh,,West Virginia,,Bovada,50.5,-7.5,Pittsburgh -7.5,-7.0,55.0,-270,220
+401426330,Old Dominion,,Virginia Tech,,Bovada,49.0,7.5,Virginia Tech -7.5,7.0,52.5,260,-320
+401403854,Alabama,,Utah State,,Bovada,62.5,-42.0,Alabama -42.0,-34.0,62.5,,
+401426530,Florida Atlantic,43,Charlotte,13,Bovada,60.0,-7.0,Florida Atlantic -7.0,-5.5,57.5,-300,250
+401403858,Oregon,,Georgia,,Bovada,53.0,17,Georgia -17,17,51.0,-900,575
+401405064,Purdue,,Penn State,,Bovada,52.5,3.5,Penn State -3.5,3.0,55.0,140,-165
+401426531,UTEP,13,North Texas,31,Bovada,54.0,1.5,North Texas -1.5,3.0,57.0,105,-125
+401426531,UTEP,13,North Texas,31,William Hill (New Jersey),52.5,1,North Texas -1,,,,
+401426531,UTEP,13,North Texas,31,consensus,52.5,1.5,North Texas -1.5,,,,
+401426531,UTEP,13,North Texas,31,teamrankings,52.5,1.5,North Texas -1.5,,,,
+401405059,Northwestern,31,Nebraska,28,Bovada,52.0,13,Nebraska -13,10,52.0,-450,335
+401405059,Northwestern,31,Nebraska,28,William Hill (New Jersey),52.5,12,Nebraska -12,,,,
+401405059,Northwestern,31,Nebraska,28,consensus,52,12.5,Nebraska -12.5,,,,
+401405059,Northwestern,31,Nebraska,28,teamrankings,52.5,12,Nebraska -12,,,,
+401426532,Western Kentucky,38,Austin Peay,27,Bovada,73.0,-32.5,Western Kentucky -32.5,-27.5,64.5,,
+401426532,Western Kentucky,38,Austin Peay,27,William Hill (New Jersey),72,-32.5,Western Kentucky -32.5,,,,
+401426532,Western Kentucky,38,Austin Peay,27,consensus,72,-32.5,Western Kentucky -32.5,,,,
+401405058,Illinois,38,Wyoming,6,Bovada,43.0,-14.0,Illinois -14.0,-9.5,46.5,-400,300
+401405058,Illinois,38,Wyoming,6,William Hill (New Jersey),43,-14,Illinois -14,,,,
+401405058,Illinois,38,Wyoming,6,consensus,42.5,-14,Illinois -14,,,,
+401405058,Illinois,38,Wyoming,6,teamrankings,42.5,-14,Illinois -14,,,,
+401404146,Utah State,31,Connecticut,20,Bovada,59.0,-23.0,Utah State -23.0,-25.0,60.5,,
+401404146,Utah State,31,Connecticut,20,William Hill (New Jersey),59.5,-24,Utah State -24,,,,
+401404146,Utah State,31,Connecticut,20,consensus,59.5,-24,Utah State -24,,,,
+401404146,Utah State,31,Connecticut,20,teamrankings,59,-24,Utah State -24,,,,
+401411091,North Carolina,56,Florida A&M,24,William Hill (New Jersey),56.5,-45,North Carolina -45,,,,
+401411091,North Carolina,56,Florida A&M,24,consensus,56.5,-45.5,North Carolina -45.5,,,,
+401411091,North Carolina,56,Florida A&M,24,Bovada,55.0,-45.0,North Carolina -45.0,-43.0,56.0,,
+401422922,Mercer,63,Morehead State,13,Bovada,58.0,-27.5,Mercer -27.5,-28.5,60.5,,
+401422922,Mercer,63,Morehead State,13,William Hill (New Jersey),56.5,-29.5,Mercer -29.5,,,,
+401422922,Mercer,63,Morehead State,13,consensus,56.5,-29.5,Mercer -29.5,,,,
+401403967,San Diego State,,Arizona,,Bovada,46.5,-6.0,San Diego State -6.0,-7.0,49.5,-235,195
+401403861,Mississippi State,,Memphis,,Bovada,57.0,-16.0,Mississippi State -16.0,-13.5,56.5,-625,430
+401403863,South Carolina,,Georgia State,,Bovada,57.0,-12.5,South Carolina -12.5,-11.0,56.0,-480,350
+401409235,New Mexico State,12,Nevada,23,Bovada,48.0,7.5,Nevada -7.5,14.0,55.5,270,-340
+401409235,New Mexico State,12,Nevada,23,William Hill (New Jersey),48,7,Nevada -7,,,,
+401409235,New Mexico State,12,Nevada,23,consensus,48,7,Nevada -7,,,,
+401409235,New Mexico State,12,Nevada,23,teamrankings,48,7,Nevada -7,,,,
+401403971,UCLA,,Bowling Green,,Bovada,57.0,-23.0,UCLA -23.0,-30.0,55.5,,
+401405061,Indiana,,Illinois,,Bovada,45.0,-3.0,Indiana -3.0,-3.0,48.5,-160,135
+401404124,Ohio State,,Notre Dame,,Bovada,59.5,-17.5,Ohio State -17.5,-14.5,58.0,-800,525
+401403969,Oregon State,,Boise State,,Bovada,57.0,-3.0,Oregon State -3.0,-2.0,60.5,-145,125
+401404059,Texas,,Louisiana Monroe,,Bovada,64.0,-37.0,Texas -37.0,-38.0,67.0,,
+401403973,Washington,,Kent State,,Bovada,59.5,-22.5,Washington -22.5,-23.0,63.0,,
+401404134,Coastal Carolina,,Army,,Bovada,53.5,-2.0,Coastal Carolina -2.0,-3.0,55.0,-140,120
+401404157,Southern Mississippi,,Liberty,,Bovada,49.0,3.5,Liberty -3.5,4.0,53.5,140,-165
+401415211,Wyoming,,Tulsa,,Bovada,44.0,6.5,Tulsa -6.5,2.0,46.5,160,-185
+401415212,Nevada,,Texas State,,Bovada,51.0,-1.0,Nevada -1.0,-10.0,56.5,-115,-105
+401413256,UNLV,52,Idaho State,21,William Hill (New Jersey),51,-22.5,UNLV -22.5,,,,
+401413256,UNLV,52,Idaho State,21,consensus,51,-22.5,UNLV -22.5,,,,
+401413256,UNLV,52,Idaho State,21,Bovada,50.0,-23.0,UNLV -23.0,-23.5,52.5,,
+401405069,Boston College,,Rutgers,,Bovada,48.0,-7.0,Boston College -7.0,-7.5,52.0,-300,250
+401405066,Maryland,,Buffalo,,Bovada,65.0,-24.5,Maryland -24.5,-20.5,64.5,-2500,1050
+401405067,Michigan,,Colorado State,,Bovada,61.5,-30.5,Michigan -30.5,-28.5,57.5,,
+401411096,East Carolina,,NC State,,Bovada,51.5,11.5,NC State -11.5,10.5,57.5,300,-400
+401411099,Syracuse,,Louisville,,Bovada,57.0,4.5,Louisville -4.5,4.0,59.5,155,-180
+401411095,Appalachian State,,North Carolina,,Bovada,55.5,1.5,North Carolina -1.5,3.5,57.0,110,-120
+401414778,Tulane,,UMass,,Bovada,59.0,-28.5,Tulane -28.5,-31.0,60.5,,
+401426539,North Texas,,SMU,,Bovada,68.5,11.0,SMU -11.0,7.0,71.0,285,-370
+401426543,Hawai'i,,Western Kentucky,,Bovada,67.5,16.0,Western Kentucky -16.0,9.0,62.5,450,-650
+401426540,USC,,Rice,,Bovada,62.0,-33.0,USC -33.0,-34.5,64.5,,
+401411101,Georgia Tech,,Clemson,,Bovada,49.0,22.0,Clemson -22.0,21.0,51.0,800,-1600
+401403867,Florida State,,LSU,,Bovada,51.5,3,LSU -3,3,51.5,-150,130
+401403864,Tennessee,,Ball State,,Bovada,68.0,-35.0,Tennessee -35.0,-28.0,68.0,,
+401426537,Missouri,,Louisiana Tech,,Bovada,61.0,-19.5,Missouri -19.5,-17.0,58.5,-1200,700
+401426536,Ohio,,Florida Atlantic,,Bovada,50.0,4.5,Florida Atlantic -4.5,1.5,48.5,150,-175
+401426541,Oklahoma,,UTEP,,Bovada,57.0,-31.0,Oklahoma -31.0,-37.0,56.5,,
+401426538,James Madison,,Middle Tennessee,,Bovada,58.0,-5.5,James Madison -5.5,-5.0,58.5,-250,210
+401426542,UT San Antonio,,Houston,,Bovada,62.0,4.0,Houston -4.0,6.5,59.0,165,-195
+401423448,Alabama State,23,Howard,13,William Hill (New Jersey),53.5,-1,Alabama State -1,,,,
+401423448,Alabama State,23,Howard,13,consensus,53.5,1,Howard -1,,,,
+401423448,Alabama State,23,Howard,13,Bovada,54.0,-2.0,Alabama State -2.0,-2.5,53.5,,
+401413213,Jacksonville State,42,Stephen F. Austin,17,Bovada,55.0,8.0,Stephen F. Austin -8.0,6.5,51.0,,
+401413213,Jacksonville State,42,Stephen F. Austin,17,William Hill (New Jersey),55.5,7.5,Stephen F. Austin -7.5,,,,
+401413213,Jacksonville State,42,Stephen F. Austin,17,consensus,55.5,7.5,Stephen F. Austin -7.5,,,,
